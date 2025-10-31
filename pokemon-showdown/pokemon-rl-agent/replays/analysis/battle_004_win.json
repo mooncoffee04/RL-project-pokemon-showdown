@@ -1,0 +1,828 @@
+{
+  "battle_num": 4,
+  "outcome": "win",
+  "turns": 34,
+  "timestamp": "2025-10-31T13:47:06.673413",
+  "battle_id": "battle-gen9randombattle-25986",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25986",
+  "team": [
+    {
+      "species": "mudsdale",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "tatsugiri",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "eternatus",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "azumarill",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ironthorns",
+      "fainted": false,
+      "hp_fraction": 0.8013245033112583
+    },
+    {
+      "species": "hooh",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "rampardos",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "bombirdier",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "snorlax",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "kilowattrel",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "wigglytuff",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "hitmonchan",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 21.219717025756836,
+      "active_pokemon": "mudsdale (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rampardos (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "stoneedge (Move object)",
+        "roar (Move object)",
+        "heavyslam (Move object)"
+      ],
+      "available_switches": [
+        "tatsugiri (pokemon object) [Active: False, Status: None]",
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 19.900358200073242,
+      "active_pokemon": "mudsdale (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "stoneedge (Move object)",
+        "roar (Move object)",
+        "heavyslam (Move object)"
+      ],
+      "available_switches": [
+        "tatsugiri (pokemon object) [Active: False, Status: None]",
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 19.900358200073242,
+      "active_pokemon": "mudsdale (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "stoneedge (Move object)",
+        "roar (Move object)",
+        "heavyslam (Move object)"
+      ],
+      "available_switches": [
+        "tatsugiri (pokemon object) [Active: False, Status: None]",
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 19.900358200073242,
+      "active_pokemon": "mudsdale (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "stoneedge (Move object)",
+        "roar (Move object)",
+        "heavyslam (Move object)"
+      ],
+      "available_switches": [
+        "tatsugiri (pokemon object) [Active: False, Status: None]",
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 19.980731964111328,
+      "active_pokemon": "mudsdale (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "stoneedge (Move object)",
+        "roar (Move object)",
+        "heavyslam (Move object)"
+      ],
+      "available_switches": [
+        "tatsugiri (pokemon object) [Active: False, Status: None]",
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 20.919511795043945,
+      "active_pokemon": "mudsdale (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rampardos (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "stoneedge (Move object)",
+        "roar (Move object)",
+        "heavyslam (Move object)"
+      ],
+      "available_switches": [
+        "tatsugiri (pokemon object) [Active: False, Status: None]",
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 19.83464241027832,
+      "active_pokemon": "mudsdale (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "stoneedge (Move object)",
+        "roar (Move object)",
+        "heavyslam (Move object)"
+      ],
+      "available_switches": [
+        "tatsugiri (pokemon object) [Active: False, Status: None]",
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.001277923583984,
+      "active_pokemon": "mudsdale (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kilowattrel (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "stoneedge (Move object)",
+        "roar (Move object)",
+        "heavyslam (Move object)"
+      ],
+      "available_switches": [
+        "tatsugiri (pokemon object) [Active: False, Status: None]",
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 20.07407569885254,
+      "active_pokemon": "mudsdale (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "kilowattrel (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "tatsugiri (pokemon object) [Active: False, Status: None]",
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 21.24749183654785,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kilowattrel (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)",
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 21.24749183654785,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)",
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 21.24749183654785,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)",
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 21.533803939819336,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)",
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 21.533803939819336,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)",
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 21.288984298706055,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)",
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 21.288984298706055,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)",
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 21.533803939819336,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kilowattrel (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)",
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 22.453750610351562,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 22.453750610351562,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 22.453750610351562,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": 22.453750610351562,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "rapidspin (Move object)",
+        "dracometeor (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 20,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "eternatus (pokemon object) [Active: False, Status: None]",
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 21.79380226135254,
+      "active_pokemon": "eternatus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dynamaxcannon (Move object)",
+        "sludgebomb (Move object)",
+        "fireblast (Move object)",
+        "meteorbeam (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 21.79380226135254,
+      "active_pokemon": "eternatus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dynamaxcannon (Move object)",
+        "sludgebomb (Move object)",
+        "fireblast (Move object)",
+        "meteorbeam (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 21.79380226135254,
+      "active_pokemon": "eternatus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dynamaxcannon (Move object)",
+        "sludgebomb (Move object)",
+        "fireblast (Move object)",
+        "meteorbeam (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": 22.526273727416992,
+      "active_pokemon": "eternatus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dynamaxcannon (Move object)",
+        "sludgebomb (Move object)",
+        "fireblast (Move object)",
+        "meteorbeam (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": 22.526273727416992,
+      "active_pokemon": "eternatus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dynamaxcannon (Move object)",
+        "sludgebomb (Move object)",
+        "fireblast (Move object)",
+        "meteorbeam (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "eternatus (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 26,
+      "action": 3,
+      "value_estimate": 22.084548950195312,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bellydrum (Move object)",
+        "aquajet (Move object)",
+        "liquidation (Move object)",
+        "playrough (Move object)"
+      ],
+      "available_switches": [
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": 22.084548950195312,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bellydrum (Move object)",
+        "aquajet (Move object)",
+        "liquidation (Move object)",
+        "playrough (Move object)"
+      ],
+      "available_switches": [
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": 23.043859481811523,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bellydrum (Move object)",
+        "aquajet (Move object)",
+        "liquidation (Move object)",
+        "playrough (Move object)"
+      ],
+      "available_switches": [
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": 22.779041290283203,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bellydrum (Move object)",
+        "aquajet (Move object)",
+        "liquidation (Move object)",
+        "playrough (Move object)"
+      ],
+      "available_switches": [
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": 22.779041290283203,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bellydrum (Move object)",
+        "aquajet (Move object)",
+        "liquidation (Move object)",
+        "playrough (Move object)"
+      ],
+      "available_switches": [
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": 22.779041290283203,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bellydrum (Move object)",
+        "aquajet (Move object)",
+        "liquidation (Move object)",
+        "playrough (Move object)"
+      ],
+      "available_switches": [
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 31,
+      "action": 4,
+      "value_estimate": 21.436948776245117,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "ironthorns (pokemon object) [Active: False, Status: None]",
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 32,
+      "action": 2,
+      "value_estimate": 22.1354923248291,
+      "active_pokemon": "ironthorns (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dragondance (Move object)",
+        "earthquake (Move object)",
+        "wildcharge (Move object)",
+        "stoneedge (Move object)"
+      ],
+      "available_switches": [
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 33,
+      "action": 2,
+      "value_estimate": 22.1354923248291,
+      "active_pokemon": "ironthorns (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dragondance (Move object)",
+        "earthquake (Move object)",
+        "wildcharge (Move object)",
+        "stoneedge (Move object)"
+      ],
+      "available_switches": [
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 34,
+      "action": 2,
+      "value_estimate": 22.1354923248291,
+      "active_pokemon": "ironthorns (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dragondance (Move object)",
+        "earthquake (Move object)",
+        "wildcharge (Move object)",
+        "stoneedge (Move object)"
+      ],
+      "available_switches": [
+        "hooh (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    }
+  ]
+}

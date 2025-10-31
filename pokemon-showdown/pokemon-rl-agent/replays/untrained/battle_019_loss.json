@@ -1,0 +1,318 @@
+{
+  "battle_num": 19,
+  "outcome": "loss",
+  "turns": 32,
+  "timestamp": "2025-10-31T15:56:36.084361",
+  "battle_id": "battle-gen9randombattle-26081",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26081",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 7,
+      "value_estimate": 0.11847478151321411,
+      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 1,
+      "value_estimate": -0.15528173744678497,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 5,
+      "value_estimate": -0.14484372735023499,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": -0.2842741012573242,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 5,
+      "value_estimate": -0.517743706703186,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 5,
+      "value_estimate": -0.5297156572341919,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": -0.20523841679096222,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 5,
+      "value_estimate": -0.5297156572341919,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 0.06355998665094376,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 5,
+      "value_estimate": -0.5412448644638062,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": -0.19991172850131989,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 5,
+      "value_estimate": -0.5412448644638062,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": 0.1340612769126892,
+      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": 0.010297328233718872,
+      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 5,
+      "value_estimate": -0.5567560791969299,
+      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": 0.029992379248142242,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 5,
+      "value_estimate": -0.5567560791969299,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": 0.019292742013931274,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": -0.3928433060646057,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": -0.3928433060646057,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 5,
+      "value_estimate": -0.5292830467224121,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "basculegion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": -0.19202393293380737,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 5,
+      "value_estimate": -0.5524657964706421,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": 0.04458227753639221,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 5,
+      "value_estimate": -0.5292830467224121,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "basculegion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": -0.35120221972465515,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 5,
+      "value_estimate": -0.5524657964706421,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 5,
+      "value_estimate": -0.5637075901031494,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": -0.36396434903144836,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": -0.5695374011993408,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": -0.04360014200210571,
+      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 1,
+      "value_estimate": -0.04360014200210571,
+      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 1,
+      "value_estimate": -0.06963633000850677,
+      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 1,
+      "value_estimate": -0.04360014200210571,
+      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 1,
+      "value_estimate": -0.12763062119483948,
+      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 1,
+      "value_estimate": -0.12763062119483948,
+      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 1,
+      "value_estimate": 0.05751222372055054,
+      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 4,
+      "value_estimate": -0.5671645998954773,
+      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 1,
+      "value_estimate": -0.3458898663520813,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": -0.44994431734085083,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": -0.44994431734085083,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": -0.44994431734085083,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 0,
+      "value_estimate": -0.4547422230243683,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 0,
+      "value_estimate": -0.4547422230243683,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

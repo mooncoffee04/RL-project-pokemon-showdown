@@ -1,0 +1,570 @@
+{
+  "battle_num": 16,
+  "outcome": "loss",
+  "turns": 75,
+  "timestamp": "2025-10-31T15:56:35.943322",
+  "battle_id": "battle-gen9randombattle-26078",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26078",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": -0.36709675192832947,
+      "active_pokemon": "lapras (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 1,
+      "value_estimate": -0.19994691014289856,
+      "active_pokemon": "lapras (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": -0.20035307109355927,
+      "active_pokemon": "lapras (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": -0.18324372172355652,
+      "active_pokemon": "lapras (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": -0.20676551759243011,
+      "active_pokemon": "lapras (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": -0.20676551759243011,
+      "active_pokemon": "lapras (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": -0.20676551759243011,
+      "active_pokemon": "lapras (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 5,
+      "value_estimate": -0.5297156572341919,
+      "active_pokemon": "lapras (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": 0.018891289830207825,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": -0.08518308401107788,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": -0.006404221057891846,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": -0.09377479553222656,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": -0.15166519582271576,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": -0.156860813498497,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": -0.14088347554206848,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": -0.13409686088562012,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": -0.2677643895149231,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": -0.13409686088562012,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": -0.13409686088562012,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": -0.13409686088562012,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": -0.04933057725429535,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": -0.13409686088562012,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": -0.13409686088562012,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": -0.2677643895149231,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": -0.13409686088562012,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 5,
+      "value_estimate": -0.5626561641693115,
+      "active_pokemon": "frosmoth (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 6,
+      "value_estimate": -0.18149521946907043,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": -0.2410069853067398,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 4,
+      "value_estimate": -0.3749954402446747,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 5,
+      "value_estimate": -0.2336217612028122,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 1,
+      "value_estimate": -0.20895789563655853,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 4,
+      "value_estimate": -0.17422330379486084,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 2,
+      "value_estimate": -0.1358279138803482,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 4,
+      "value_estimate": -0.3749954402446747,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 2,
+      "value_estimate": -0.1358279138803482,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 4,
+      "value_estimate": -0.3749954402446747,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 1,
+      "value_estimate": -0.18906107544898987,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 36,
+      "action": 1,
+      "value_estimate": -0.18906107544898987,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 37,
+      "action": 1,
+      "value_estimate": -0.18906107544898987,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 38,
+      "action": 1,
+      "value_estimate": -0.19581714272499084,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 1,
+      "value_estimate": -0.19581714272499084,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 0,
+      "value_estimate": -0.4526519775390625,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 0,
+      "value_estimate": -0.4526519775390625,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 5,
+      "value_estimate": -0.5720034241676331,
+      "active_pokemon": "chansey (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 5,
+      "value_estimate": 0.01065833866596222,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 2,
+      "value_estimate": -0.18157300353050232,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 4,
+      "value_estimate": -0.42375433444976807,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 45,
+      "action": 2,
+      "value_estimate": -0.08446978032588959,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": -0.4051743447780609,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 1,
+      "value_estimate": 0.027716636657714844,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 4,
+      "value_estimate": -0.39992135763168335,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 2,
+      "value_estimate": -0.2617911994457245,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 0,
+      "value_estimate": -0.4330487847328186,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratina (pokemon object) [Active: True, Status: PSN]"
+    },
+    {
+      "turn": 50,
+      "action": 5,
+      "value_estimate": -0.5853148698806763,
+      "active_pokemon": "toxicroak (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 51,
+      "action": 1,
+      "value_estimate": -0.1472187489271164,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 52,
+      "action": 1,
+      "value_estimate": -0.1472187489271164,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 1,
+      "value_estimate": -0.1472187489271164,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 1,
+      "value_estimate": 0.0296272411942482,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 2,
+      "value_estimate": -0.021815713495016098,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 2,
+      "value_estimate": -0.021815713495016098,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 1,
+      "value_estimate": 0.0296272411942482,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 1,
+      "value_estimate": -0.23373761773109436,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 1,
+      "value_estimate": 0.0296272411942482,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "froslass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 1,
+      "value_estimate": -0.2516242563724518,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 1,
+      "value_estimate": -0.2516242563724518,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 62,
+      "action": 1,
+      "value_estimate": -0.2516242563724518,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 63,
+      "action": 1,
+      "value_estimate": -0.2516242563724518,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 1,
+      "value_estimate": -0.2516242563724518,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 1,
+      "value_estimate": -0.2516242563724518,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 1,
+      "value_estimate": -0.2516242563724518,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 4,
+      "value_estimate": -0.5994479060173035,
+      "active_pokemon": "probopass (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 67,
+      "action": 1,
+      "value_estimate": -0.20538359880447388,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 68,
+      "action": 0,
+      "value_estimate": -0.4523000717163086,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 69,
+      "action": 0,
+      "value_estimate": -0.4429585039615631,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 70,
+      "action": 0,
+      "value_estimate": -0.4429585039615631,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 71,
+      "action": 0,
+      "value_estimate": -0.4429585039615631,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 72,
+      "action": 0,
+      "value_estimate": -0.4435325264930725,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 73,
+      "action": 0,
+      "value_estimate": -0.46179667115211487,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 74,
+      "action": 0,
+      "value_estimate": -0.4678467810153961,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 75,
+      "action": 0,
+      "value_estimate": -0.4678467810153961,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

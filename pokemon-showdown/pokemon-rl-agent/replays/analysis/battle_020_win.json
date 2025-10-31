@@ -1,0 +1,488 @@
+{
+  "battle_num": 20,
+  "outcome": "win",
+  "turns": 17,
+  "timestamp": "2025-10-31T13:47:07.277759",
+  "battle_id": "battle-gen9randombattle-26002",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26002",
+  "team": [
+    {
+      "species": "bruxish",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "kyogre",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "galvantula",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "breloom",
+      "fainted": false,
+      "hp_fraction": 0.8042553191489362
+    },
+    {
+      "species": "ironcrown",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "kleavor",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "tinkaton",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "pikachu",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "dragonite",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "hitmonchan",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "scovillain",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "blaziken",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 20.263446807861328,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychicfangs (Move object)",
+        "wavecrash (Move object)",
+        "flipturn (Move object)",
+        "crunch (Move object)"
+      ],
+      "available_switches": [
+        "kyogre (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 1,
+      "action": 4,
+      "value_estimate": 19.99529457092285,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pikachu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "kyogre (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 20.449316024780273,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pikachu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunder (Move object)",
+        "icebeam (Move object)",
+        "originpulse (Move object)",
+        "calmmind (Move object)"
+      ],
+      "available_switches": [
+        "bruxish (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 21.921031951904297,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: PAR]",
+      "available_moves": [
+        "thunder (Move object)",
+        "icebeam (Move object)",
+        "originpulse (Move object)",
+        "calmmind (Move object)"
+      ],
+      "available_switches": [
+        "bruxish (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 20.84102439880371,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: PAR]",
+      "available_moves": [
+        "thunder (Move object)",
+        "icebeam (Move object)",
+        "originpulse (Move object)",
+        "calmmind (Move object)"
+      ],
+      "available_switches": [
+        "bruxish (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 20.660982131958008,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hitmonchan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunder (Move object)",
+        "icebeam (Move object)",
+        "originpulse (Move object)",
+        "calmmind (Move object)"
+      ],
+      "available_switches": [
+        "bruxish (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 20.660982131958008,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hitmonchan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunder (Move object)",
+        "icebeam (Move object)",
+        "originpulse (Move object)",
+        "calmmind (Move object)"
+      ],
+      "available_switches": [
+        "bruxish (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 20.660982131958008,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hitmonchan (pokemon object) [Active: True, Status: PAR]",
+      "available_moves": [
+        "thunder (Move object)",
+        "icebeam (Move object)",
+        "originpulse (Move object)",
+        "calmmind (Move object)"
+      ],
+      "available_switches": [
+        "bruxish (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.834766387939453,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunder (Move object)",
+        "icebeam (Move object)",
+        "originpulse (Move object)",
+        "calmmind (Move object)"
+      ],
+      "available_switches": [
+        "bruxish (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 20.07407569885254,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "bruxish (pokemon object) [Active: False, Status: None]",
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": 20.755708694458008,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychicfangs (Move object)",
+        "wavecrash (Move object)",
+        "flipturn (Move object)",
+        "crunch (Move object)"
+      ],
+      "available_switches": [
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 20.71387481689453,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scovillain (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)"
+      ],
+      "available_switches": [
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 21.015687942504883,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "blaziken (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)"
+      ],
+      "available_switches": [
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 20.97813606262207,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pikachu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)"
+      ],
+      "available_switches": [
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 21.11701011657715,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)"
+      ],
+      "available_switches": [
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": 21.24408531188965,
+      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "stickyweb (Move object)",
+        "thunder (Move object)",
+        "voltswitch (Move object)",
+        "bugbuzz (Move object)"
+      ],
+      "available_switches": [
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 21.558666229248047,
+      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "stickyweb (Move object)",
+        "thunder (Move object)",
+        "voltswitch (Move object)",
+        "bugbuzz (Move object)"
+      ],
+      "available_switches": [
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 15,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "breloom (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": 20.12897491455078,
+      "active_pokemon": "breloom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "swordsdance (Move object)",
+        "machpunch (Move object)",
+        "bulletseed (Move object)",
+        "spore (Move object)"
+      ],
+      "available_switches": [
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 17,
+      "action": 1,
+      "value_estimate": 20.14545249938965,
+      "active_pokemon": "breloom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: PAR]",
+      "available_moves": [
+        "swordsdance (Move object)",
+        "machpunch (Move object)",
+        "bulletseed (Move object)",
+        "spore (Move object)"
+      ],
+      "available_switches": [
+        "galvantula (pokemon object) [Active: False, Status: None]",
+        "ironcrown (pokemon object) [Active: False, Status: None]",
+        "kleavor (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    }
+  ]
+}

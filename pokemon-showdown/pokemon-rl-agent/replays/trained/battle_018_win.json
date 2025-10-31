@@ -1,0 +1,185 @@
+{
+  "battle_num": 18,
+  "outcome": "win",
+  "turns": 23,
+  "timestamp": "2025-10-31T15:56:34.325074",
+  "battle_id": "battle-gen9randombattle-26060",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26060",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 19.407686233520508,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 19.407686233520508,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": 19.407686233520508,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 19.33256721496582,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": 19.33256721496582,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": 19.94847297668457,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": 19.284860610961914,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": 19.141305923461914,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 3,
+      "value_estimate": 19.50678825378418,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skeledirge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": 19.269132614135742,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 4,
+      "value_estimate": 20.07407569885254,
+      "active_pokemon": "heatran (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": 21.302793502807617,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": 21.21516990661621,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skeledirge (pokemon object) [Active: True, Status: PSN]"
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": 21.142295837402344,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "galvantula (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 21.379690170288086,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 21.379690170288086,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 21.254316329956055,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skeledirge (pokemon object) [Active: True, Status: PSN]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 21.552091598510742,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 21.552091598510742,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 21.552091598510742,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 21.552091598510742,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": 21.46588706970215,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 3,
+      "value_estimate": 21.46588706970215,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": 21.094572067260742,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

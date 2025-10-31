@@ -1,0 +1,227 @@
+{
+  "battle_num": 7,
+  "outcome": "win",
+  "turns": 27,
+  "timestamp": "2025-10-31T15:56:34.796665",
+  "battle_id": "battle-gen9randombattle-26069",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26069",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": -0.16419661045074463,
+      "active_pokemon": "medicham (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rayquaza (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": -0.40179020166397095,
+      "active_pokemon": "medicham (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 5,
+      "value_estimate": -0.5189332962036133,
+      "active_pokemon": "medicham (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": -0.05453658103942871,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": 0.11419633775949478,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 0.028421882539987564,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "blissey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": 0.028421882539987564,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "blissey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 0.1154956966638565,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": 0.1154956966638565,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": 0.11419633775949478,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": -0.06741940975189209,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": -0.0828433483839035,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": 0.009312301874160767,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 0.009312301874160767,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 0.1154956966638565,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 0.009312301874160767,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 0.009312301874160767,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 0.1154956966638565,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 5,
+      "value_estimate": -0.5412448644638062,
+      "active_pokemon": "granbull (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 5,
+      "value_estimate": 0.020697519183158875,
+      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": -0.13748504221439362,
+      "active_pokemon": "lokix (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": -0.015053726732730865,
+      "active_pokemon": "lokix (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": -0.015053726732730865,
+      "active_pokemon": "lokix (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 5,
+      "value_estimate": -0.5408852696418762,
+      "active_pokemon": "lokix (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: FNT]"
+    },
+    {
+      "turn": 22,
+      "action": 5,
+      "value_estimate": -0.01785782352089882,
+      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 1,
+      "value_estimate": -0.07906962186098099,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 1,
+      "value_estimate": -0.07906962186098099,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 1,
+      "value_estimate": -0.07906962186098099,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 5,
+      "value_estimate": -0.5518359541893005,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 1,
+      "value_estimate": 0.00437299907207489,
+      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 1,
+      "value_estimate": 0.00437299907207489,
+      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "battle_num": 9,
+  "outcome": "win",
+  "turns": 27,
+  "timestamp": "2025-10-31T15:56:34.880261",
+  "battle_id": "battle-gen9randombattle-26071",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26071",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": -0.25370168685913086,
+      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": -0.3766007423400879,
+      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rampardos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": -0.3953896462917328,
+      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": -0.3953896462917328,
+      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": -0.3953896462917328,
+      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": -0.3953896462917328,
+      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 5,
+      "value_estimate": -0.5189332962036133,
+      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": -0.22041061520576477,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": -0.38774338364601135,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": -0.3804854154586792,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": -0.3804854154586792,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": -0.3804854154586792,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": -0.37228158116340637,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": -0.3804854154586792,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": -0.3804854154586792,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 5,
+      "value_estimate": -0.5299092531204224,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: FNT]"
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": 0.0011772438883781433,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": 0.0011772438883781433,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 1,
+      "value_estimate": 0.0011772438883781433,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": -0.1879938840866089,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": 0.00820256769657135,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": 0.00820256769657135,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 1,
+      "value_estimate": 0.00820256769657135,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 5,
+      "value_estimate": -0.5465644001960754,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": -0.13950765132904053,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 0.0005983784794807434,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": 0.0005983784794807434,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": 0.0005983784794807434,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 5,
+      "value_estimate": -0.5518359541893005,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 1,
+      "value_estimate": -0.09166379272937775,
+      "active_pokemon": "sandslash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 1,
+      "value_estimate": -0.09166379272937775,
+      "active_pokemon": "sandslash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

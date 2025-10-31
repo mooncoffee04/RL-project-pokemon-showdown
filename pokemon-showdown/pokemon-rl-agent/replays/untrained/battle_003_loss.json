@@ -1,0 +1,710 @@
+{
+  "battle_num": 3,
+  "outcome": "loss",
+  "turns": 95,
+  "timestamp": "2025-10-31T15:56:34.654669",
+  "battle_id": "battle-gen9randombattle-26065",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26065",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": -0.31405335664749146,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 1,
+      "value_estimate": -0.31405335664749146,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": -0.32156091928482056,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfrost (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": -0.30057746171951294,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfrost (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": -0.3234146237373352,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": -0.3234146237373352,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": -0.3357551693916321,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regigigas (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": -0.3357551693916321,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": -0.325293630361557,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": -0.325293630361557,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": -0.29892367124557495,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 1,
+      "value_estimate": -0.3331506848335266,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 1,
+      "value_estimate": -0.3331506848335266,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": -0.29892367124557495,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": -0.29892367124557495,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": -0.29892367124557495,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": -0.10462354868650436,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": -0.13125735521316528,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfrost (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": -0.12508206069469452,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regigigas (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": -0.12508206069469452,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regigigas (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": -0.13125735521316528,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfrost (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 2,
+      "value_estimate": -0.17911505699157715,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 1,
+      "value_estimate": -0.32190096378326416,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 1,
+      "value_estimate": -0.32190096378326416,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regigigas (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 36,
+      "action": 1,
+      "value_estimate": -0.26664939522743225,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 1,
+      "value_estimate": -0.32190096378326416,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regigigas (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 38,
+      "action": 1,
+      "value_estimate": -0.32190096378326416,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 1,
+      "value_estimate": -0.32190096378326416,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 1,
+      "value_estimate": -0.26664939522743225,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfrost (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 1,
+      "value_estimate": -0.32190096378326416,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 5,
+      "value_estimate": -0.5761935114860535,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 2,
+      "value_estimate": -0.028409119695425034,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 2,
+      "value_estimate": -0.12286130338907242,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 2,
+      "value_estimate": -0.07575491070747375,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regigigas (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 45,
+      "action": 2,
+      "value_estimate": 0.03271021693944931,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 2,
+      "value_estimate": -0.07575491070747375,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 2,
+      "value_estimate": -0.07575491070747375,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regigigas (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 48,
+      "action": 2,
+      "value_estimate": -0.07575491070747375,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 2,
+      "value_estimate": 0.03271021693944931,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 2,
+      "value_estimate": 0.0873335599899292,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 2,
+      "value_estimate": 0.0873335599899292,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 5,
+      "value_estimate": -0.5626561641693115,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 2,
+      "value_estimate": 0.03271982818841934,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 2,
+      "value_estimate": 0.03271982818841934,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 2,
+      "value_estimate": 0.05952795594930649,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 2,
+      "value_estimate": 0.037647545337677,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regigigas (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 56,
+      "action": 2,
+      "value_estimate": 0.0820823609828949,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 2,
+      "value_estimate": -0.02776164561510086,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 5,
+      "value_estimate": -0.5524657964706421,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 5,
+      "value_estimate": -0.015547990798950195,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 2,
+      "value_estimate": 0.025879494845867157,
+      "active_pokemon": "sudowoodo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 0,
+      "value_estimate": -0.4073695242404938,
+      "active_pokemon": "sudowoodo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 0,
+      "value_estimate": -0.4073695242404938,
+      "active_pokemon": "sudowoodo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 62,
+      "action": 0,
+      "value_estimate": -0.4073695242404938,
+      "active_pokemon": "sudowoodo (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 63,
+      "action": 0,
+      "value_estimate": -0.4073695242404938,
+      "active_pokemon": "sudowoodo (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 0,
+      "value_estimate": -0.4073695242404938,
+      "active_pokemon": "sudowoodo (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 0,
+      "value_estimate": -0.4073695242404938,
+      "active_pokemon": "sudowoodo (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 5,
+      "value_estimate": -0.5637075901031494,
+      "active_pokemon": "sudowoodo (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 1,
+      "value_estimate": -0.08383035659790039,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 67,
+      "action": 1,
+      "value_estimate": -0.08383035659790039,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 68,
+      "action": 1,
+      "value_estimate": 0.017257504165172577,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 69,
+      "action": 1,
+      "value_estimate": 0.017257504165172577,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 70,
+      "action": 1,
+      "value_estimate": 0.017257504165172577,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 71,
+      "action": 1,
+      "value_estimate": -0.06708195805549622,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 72,
+      "action": 1,
+      "value_estimate": -0.06708195805549622,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 72,
+      "action": 4,
+      "value_estimate": -0.5671645998954773,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 73,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 74,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 75,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 76,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 77,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 78,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 79,
+      "action": 1,
+      "value_estimate": 0.022150486707687378,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 80,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 81,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 82,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 83,
+      "action": 1,
+      "value_estimate": 0.022150486707687378,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 84,
+      "action": 1,
+      "value_estimate": 0.022150486707687378,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 85,
+      "action": 1,
+      "value_estimate": 0.022150486707687378,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 86,
+      "action": 1,
+      "value_estimate": 0.022150486707687378,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 87,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 88,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 89,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 90,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 91,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 92,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 93,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 94,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 95,
+      "action": 1,
+      "value_estimate": 0.015195894986391068,
+      "active_pokemon": "blissey (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "battle_num": 4,
+  "outcome": "win",
+  "turns": 18,
+  "timestamp": "2025-10-31T15:56:33.731360",
+  "battle_id": "battle-gen9randombattle-26046",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26046",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 19.93110466003418,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": 19.93110466003418,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": 19.768014907836914,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 3,
+      "value_estimate": 19.768014907836914,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": 20.544218063354492,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 20.033523559570312,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "smeargle (pokemon object) [Active: True, Status: PSN]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 19.634546279907227,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": 20.271631240844727,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": 19.69782829284668,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": 20.544218063354492,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": 19.804224014282227,
+      "active_pokemon": "miniorblue (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": 19.804224014282227,
+      "active_pokemon": "miniorblue (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "miniorblue (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 20.79730796813965,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 20.79730796813965,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 20.79730796813965,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": 21.752153396606445,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "beartic (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "beartic (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 21.130041122436523,
+      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "beartic (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 21.346885681152344,
+      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "beartic (pokemon object) [Active: True, Status: BRN]"
+    }
+  ]
+}

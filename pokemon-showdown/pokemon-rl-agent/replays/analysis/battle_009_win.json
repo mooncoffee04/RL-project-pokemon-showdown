@@ -1,0 +1,731 @@
+{
+  "battle_num": 9,
+  "outcome": "win",
+  "turns": 29,
+  "timestamp": "2025-10-31T13:47:06.858869",
+  "battle_id": "battle-gen9randombattle-25991",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25991",
+  "team": [
+    {
+      "species": "piloswine",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "carbink",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "gothitelle",
+      "fainted": false,
+      "hp_fraction": 0.875
+    },
+    {
+      "species": "banette",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "eiscue",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "bruxish",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "cryogonal",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "kleavor",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "minun",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "zoroark",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "dondozo",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "dedenne",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 19.997146606445312,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 20.45705223083496,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": 19.598581314086914,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kleavor (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 4,
+      "action": 3,
+      "value_estimate": 19.654056549072266,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zoroark (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": 19.668190002441406,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kleavor (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": 20.131990432739258,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 7,
+      "action": 3,
+      "value_estimate": 20.131990432739258,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": 20.131990432739258,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 9,
+      "action": 3,
+      "value_estimate": 19.945528030395508,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": 19.945528030395508,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": 19.945528030395508,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": 19.86191749572754,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": 20.131990432739258,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 3,
+      "value_estimate": 19.876174926757812,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": 19.876174926757812,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 16,
+      "action": 3,
+      "value_estimate": 19.876174926757812,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 20.399438858032227,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 20.399438858032227,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "roar (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 18,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 20.257204055786133,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": 20.08475685119629,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 20.161802291870117,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": 20.161802291870117,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 20.08475685119629,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": 20.08475685119629,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": 20.11744499206543,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": 20.265254974365234,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 27,
+      "action": 0,
+      "value_estimate": 20.265254974365234,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": 20.265254974365234,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "moonblast (Move object)",
+        "rest (Move object)",
+        "irondefense (Move object)"
+      ],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 28,
+      "action": 4,
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "gothitelle (pokemon object) [Active: False, Status: None]",
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": 21.958139419555664,
+      "active_pokemon": "gothitelle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychic (Move object)",
+        "focusblast (Move object)",
+        "trick (Move object)",
+        "darkpulse (Move object)"
+      ],
+      "available_switches": [
+        "banette (pokemon object) [Active: False, Status: None]",
+        "eiscue (pokemon object) [Active: False, Status: None]",
+        "bruxish (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    }
+  ]
+}

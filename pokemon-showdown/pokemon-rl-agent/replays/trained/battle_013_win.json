@@ -1,0 +1,199 @@
+{
+  "battle_num": 13,
+  "outcome": "win",
+  "turns": 24,
+  "timestamp": "2025-10-31T15:56:34.124923",
+  "battle_id": "battle-gen9randombattle-26055",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26055",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 20.375696182250977,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 21.109922409057617,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 21.109922409057617,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 21.109922409057617,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 20.694990158081055,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 20.694990158081055,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 20.694990158081055,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.737768173217773,
+      "active_pokemon": "brutebonnet (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 20.737768173217773,
+      "active_pokemon": "brutebonnet (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": 20.534109115600586,
+      "active_pokemon": "brutebonnet (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": 20.534109115600586,
+      "active_pokemon": "brutebonnet (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": 20.534109115600586,
+      "active_pokemon": "brutebonnet (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": 20.534109115600586,
+      "active_pokemon": "brutebonnet (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "brutebonnet (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 23.30082130432129,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 21.901708602905273,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 21.901708602905273,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 21.901708602905273,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 21.901708602905273,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 21.901708602905273,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": 22.382999420166016,
+      "active_pokemon": "venomoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": 22.692642211914062,
+      "active_pokemon": "venomoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 3,
+      "value_estimate": 22.692642211914062,
+      "active_pokemon": "venomoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": 22.692642211914062,
+      "active_pokemon": "venomoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": 22.692642211914062,
+      "active_pokemon": "venomoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "battle_num": 5,
+  "outcome": "win",
+  "turns": 26,
+  "timestamp": "2025-10-31T15:56:33.771611",
+  "battle_id": "battle-gen9randombattle-26047",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26047",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 21.124975204467773,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 21.124975204467773,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 21.124975204467773,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 21.94493865966797,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 21.025732040405273,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 21.025732040405273,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 20.90789222717285,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.92311668395996,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 21.43656349182129,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "falinks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 21.43656349182129,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "falinks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 21.821596145629883,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 21.244579315185547,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 21.244579315185547,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": 21.280736923217773,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": 21.406301498413086,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": 20.775949478149414,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 3,
+      "value_estimate": 20.698482513427734,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": 20.698482513427734,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 3,
+      "value_estimate": 20.698482513427734,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": 20.591997146606445,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 1,
+      "value_estimate": 20.591997146606445,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 20.45083236694336,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 20.375444412231445,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 1,
+      "value_estimate": 19.50069808959961,
+      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 1,
+      "value_estimate": 20.39187240600586,
+      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 1,
+      "value_estimate": 21.11173439025879,
+      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 1,
+      "value_estimate": 21.11173439025879,
+      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

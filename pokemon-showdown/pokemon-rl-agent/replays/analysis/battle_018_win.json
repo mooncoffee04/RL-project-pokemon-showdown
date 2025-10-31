@@ -1,0 +1,624 @@
+{
+  "battle_num": 18,
+  "outcome": "win",
+  "turns": 24,
+  "timestamp": "2025-10-31T13:47:07.206744",
+  "battle_id": "battle-gen9randombattle-26000",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26000",
+  "team": [
+    {
+      "species": "dondozo",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "salazzle",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ogerponhearthflame",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "mew",
+      "fainted": false,
+      "hp_fraction": 0.21476510067114093
+    },
+    {
+      "species": "greedent",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "deoxysspeed",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "porygon2",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "palafinhero",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ursalunabloodmoon",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "oricoriopompom",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ragingbolt",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "coalossal",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 19.582870483398438,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 19.12520408630371,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palafin (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 19.12520408630371,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palafin (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 19.12520408630371,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palafin (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 19.63966941833496,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 19.12520408630371,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palafinhero (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 19.33028221130371,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricoriopompom (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 19.33028221130371,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricoriopompom (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 19.374542236328125,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 19.374542236328125,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 19.063264846801758,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 19.063264846801758,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "curse (Move object)",
+        "sleeptalk (Move object)",
+        "rest (Move object)"
+      ],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 12,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "salazzle (pokemon object) [Active: False, Status: None]",
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 19.979398727416992,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "substitute (Move object)",
+        "protect (Move object)",
+        "flamethrower (Move object)",
+        "toxic (Move object)"
+      ],
+      "available_switches": [
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "ogerponhearthflame (pokemon object) [Active: False, Status: None]",
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 20.401391983032227,
+      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "trailblaze (Move object)",
+        "swordsdance (Move object)",
+        "ivycudgel (Move object)",
+        "hornleech (Move object)"
+      ],
+      "available_switches": [
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 20.401391983032227,
+      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "trailblaze (Move object)",
+        "swordsdance (Move object)",
+        "ivycudgel (Move object)",
+        "hornleech (Move object)"
+      ],
+      "available_switches": [
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 21.474061965942383,
+      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "trailblaze (Move object)",
+        "swordsdance (Move object)",
+        "ivycudgel (Move object)",
+        "hornleech (Move object)"
+      ],
+      "available_switches": [
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 20.74837303161621,
+      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "trailblaze (Move object)",
+        "swordsdance (Move object)",
+        "ivycudgel (Move object)",
+        "hornleech (Move object)"
+      ],
+      "available_switches": [
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 20.74837303161621,
+      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "trailblaze (Move object)",
+        "swordsdance (Move object)",
+        "ivycudgel (Move object)",
+        "hornleech (Move object)"
+      ],
+      "available_switches": [
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 20.911775588989258,
+      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricoriopompom (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "trailblaze (Move object)",
+        "swordsdance (Move object)",
+        "ivycudgel (Move object)",
+        "hornleech (Move object)"
+      ],
+      "available_switches": [
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 21.668378829956055,
+      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "trailblaze (Move object)",
+        "swordsdance (Move object)",
+        "ivycudgel (Move object)",
+        "hornleech (Move object)"
+      ],
+      "available_switches": [
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 21.668378829956055,
+      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "trailblaze (Move object)",
+        "swordsdance (Move object)",
+        "ivycudgel (Move object)",
+        "hornleech (Move object)"
+      ],
+      "available_switches": [
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 21,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "mew (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": 22.85129737854004,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "closecombat (Move object)",
+        "swordsdance (Move object)",
+        "knockoff (Move object)",
+        "psychicfangs (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 22.85129737854004,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "closecombat (Move object)",
+        "swordsdance (Move object)",
+        "knockoff (Move object)",
+        "psychicfangs (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": 22.483449935913086,
+      "active_pokemon": "mew (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricoriopompom (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "closecombat (Move object)",
+        "swordsdance (Move object)",
+        "knockoff (Move object)",
+        "psychicfangs (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "deoxysspeed (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    }
+  ]
+}

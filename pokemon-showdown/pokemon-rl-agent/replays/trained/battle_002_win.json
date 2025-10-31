@@ -1,0 +1,129 @@
+{
+  "battle_num": 2,
+  "outcome": "win",
+  "turns": 15,
+  "timestamp": "2025-10-31T15:56:33.632018",
+  "battle_id": "battle-gen9randombattle-26044",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26044",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 21.1018009185791,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 21.046403884887695,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "blissey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 20.590023040771484,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingdra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 20.590023040771484,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingdra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 20.836496353149414,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "deoxys (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": 20.937578201293945,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 20.98955726623535,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.722707748413086,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingdra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 21.29498291015625,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cetitan (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 20.827470779418945,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 20.98955726623535,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 21.869810104370117,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cetitan (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 21.28343963623047,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingdra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 21.35520362854004,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 21.875146865844727,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

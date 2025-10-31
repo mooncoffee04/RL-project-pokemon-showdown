@@ -1,0 +1,290 @@
+{
+  "battle_num": 19,
+  "outcome": "win",
+  "turns": 40,
+  "timestamp": "2025-10-31T15:56:34.376761",
+  "battle_id": "battle-gen9randombattle-26061",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26061",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 20.08078956604004,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": 20.57366180419922,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 22.415603637695312,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 21.893449783325195,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 20.306489944458008,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": 20.257978439331055,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 20.49491310119629,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.306489944458008,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 9,
+      "action": 3,
+      "value_estimate": 20.13883399963379,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": 20.13883399963379,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": 20.13883399963379,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": 20.616165161132812,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 20.482776641845703,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 20.303306579589844,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": 20.257978439331055,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 20.303306579589844,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 3,
+      "value_estimate": 20.616165161132812,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 20.73196029663086,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 20.849950790405273,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": 21.362974166870117,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 21.362974166870117,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 20.849950790405273,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 20.849950790405273,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": 20.33991050720215,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": 20.849950790405273,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": 20.33991050720215,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 0,
+      "value_estimate": 20.33991050720215,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": 20.33991050720215,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": 20.33991050720215,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": 20.33991050720215,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 0,
+      "value_estimate": 20.443666458129883,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 0,
+      "value_estimate": 20.66022491455078,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 0,
+      "value_estimate": 20.66022491455078,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 0,
+      "value_estimate": 20.66022491455078,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 0,
+      "value_estimate": 20.66022491455078,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 0,
+      "value_estimate": 21.228578567504883,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "enamorus (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 37,
+      "action": 0,
+      "value_estimate": 21.043794631958008,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 0,
+      "value_estimate": 21.043794631958008,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 0,
+      "value_estimate": 21.043794631958008,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 0,
+      "value_estimate": 21.043794631958008,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "amoonguss (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

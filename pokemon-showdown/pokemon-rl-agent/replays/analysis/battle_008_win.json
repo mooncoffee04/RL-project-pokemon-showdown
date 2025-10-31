@@ -1,0 +1,501 @@
+{
+  "battle_num": 8,
+  "outcome": "win",
+  "turns": 19,
+  "timestamp": "2025-10-31T13:47:06.819550",
+  "battle_id": "battle-gen9randombattle-25990",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25990",
+  "team": [
+    {
+      "species": "overqwil",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "gurdurr",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "azelf",
+      "fainted": false,
+      "hp_fraction": 0.01556420233463035
+    },
+    {
+      "species": "regieleki",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "gyarados",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "cobalion",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "minun",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "groudon",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ironhands",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "hoopaunbound",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "skuntank",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "heracross",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 20.186853408813477,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "minun (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "swordsdance (Move object)",
+        "crunch (Move object)",
+        "liquidation (Move object)",
+        "gunkshot (Move object)"
+      ],
+      "available_switches": [
+        "gurdurr (pokemon object) [Active: False, Status: None]",
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 20.186853408813477,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "minun (pokemon object) [Active: True, Status: PSN]",
+      "available_moves": [
+        "swordsdance (Move object)",
+        "crunch (Move object)",
+        "liquidation (Move object)",
+        "gunkshot (Move object)"
+      ],
+      "available_switches": [
+        "gurdurr (pokemon object) [Active: False, Status: None]",
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 20.417585372924805,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "swordsdance (Move object)",
+        "crunch (Move object)",
+        "liquidation (Move object)",
+        "gunkshot (Move object)"
+      ],
+      "available_switches": [
+        "gurdurr (pokemon object) [Active: False, Status: None]",
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 4,
+      "value_estimate": 21.130598068237305,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "gurdurr (pokemon object) [Active: False, Status: None]",
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 4,
+      "action": 3,
+      "value_estimate": 20.19821548461914,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "defog (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": 20.19821548461914,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "defog (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": 19.77309226989746,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "defog (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 7,
+      "action": 3,
+      "value_estimate": 20.007545471191406,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "defog (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": 19.92784309387207,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "defog (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 9,
+      "action": 3,
+      "value_estimate": 19.647655487060547,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skuntank (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "defog (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 20.966217041015625,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skuntank (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 20.966217041015625,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skuntank (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": 19.647655487060547,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skuntank (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "defog (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": 19.92784309387207,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "machpunch (Move object)",
+        "defog (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "azelf (pokemon object) [Active: False, Status: None]",
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 21.435991287231445,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychic (Move object)",
+        "nastyplot (Move object)",
+        "fireblast (Move object)",
+        "thunderbolt (Move object)"
+      ],
+      "available_switches": [
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 21.914810180664062,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychic (Move object)",
+        "nastyplot (Move object)",
+        "fireblast (Move object)",
+        "thunderbolt (Move object)"
+      ],
+      "available_switches": [
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 21.914810180664062,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychic (Move object)",
+        "nastyplot (Move object)",
+        "fireblast (Move object)",
+        "thunderbolt (Move object)"
+      ],
+      "available_switches": [
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 22.402891159057617,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychic (Move object)",
+        "nastyplot (Move object)",
+        "fireblast (Move object)",
+        "thunderbolt (Move object)"
+      ],
+      "available_switches": [
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 22.60483741760254,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychic (Move object)",
+        "nastyplot (Move object)",
+        "fireblast (Move object)",
+        "thunderbolt (Move object)"
+      ],
+      "available_switches": [
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 22.17531394958496,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychic (Move object)",
+        "nastyplot (Move object)",
+        "fireblast (Move object)",
+        "thunderbolt (Move object)"
+      ],
+      "available_switches": [
+        "regieleki (pokemon object) [Active: False, Status: None]",
+        "gyarados (pokemon object) [Active: False, Status: None]",
+        "cobalion (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    }
+  ]
+}

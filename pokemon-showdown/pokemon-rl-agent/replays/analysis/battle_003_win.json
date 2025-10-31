@@ -1,0 +1,550 @@
+{
+  "battle_num": 3,
+  "outcome": "win",
+  "turns": 21,
+  "timestamp": "2025-10-31T13:47:06.625824",
+  "battle_id": "battle-gen9randombattle-25985",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25985",
+  "team": [
+    {
+      "species": "milotic",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "lilligant",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ambipom",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "chienpao",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "politoed",
+      "fainted": false,
+      "hp_fraction": 0.48013245033112584
+    },
+    {
+      "species": "houndoom",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "glaceon",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "chiyu",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "fluttermane",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "flapple",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "talonflame",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "hypno",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 19.621524810791016,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "recover (Move object)",
+        "dragontail (Move object)",
+        "scald (Move object)",
+        "icebeam (Move object)"
+      ],
+      "available_switches": [
+        "lilligant (pokemon object) [Active: False, Status: None]",
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": 20.49761390686035,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "recover (Move object)",
+        "dragontail (Move object)",
+        "scald (Move object)",
+        "icebeam (Move object)"
+      ],
+      "available_switches": [
+        "lilligant (pokemon object) [Active: False, Status: None]",
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 19.758378982543945,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "recover (Move object)",
+        "dragontail (Move object)",
+        "scald (Move object)",
+        "icebeam (Move object)"
+      ],
+      "available_switches": [
+        "lilligant (pokemon object) [Active: False, Status: None]",
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": 19.758378982543945,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "recover (Move object)",
+        "dragontail (Move object)",
+        "scald (Move object)",
+        "icebeam (Move object)"
+      ],
+      "available_switches": [
+        "lilligant (pokemon object) [Active: False, Status: None]",
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": 19.909452438354492,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "recover (Move object)",
+        "dragontail (Move object)",
+        "scald (Move object)",
+        "icebeam (Move object)"
+      ],
+      "available_switches": [
+        "lilligant (pokemon object) [Active: False, Status: None]",
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "lilligant (pokemon object) [Active: False, Status: None]",
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": 20.342294692993164,
+      "active_pokemon": "lilligant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "terablast (Move object)",
+        "quiverdance (Move object)",
+        "gigadrain (Move object)",
+        "sleeppowder (Move object)"
+      ],
+      "available_switches": [
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 20.342294692993164,
+      "active_pokemon": "lilligant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "terablast (Move object)",
+        "quiverdance (Move object)",
+        "gigadrain (Move object)",
+        "sleeppowder (Move object)"
+      ],
+      "available_switches": [
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.287464141845703,
+      "active_pokemon": "lilligant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "terablast (Move object)",
+        "quiverdance (Move object)",
+        "gigadrain (Move object)",
+        "sleeppowder (Move object)"
+      ],
+      "available_switches": [
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "lilligant (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "ambipom (pokemon object) [Active: False, Status: None]",
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 21.462892532348633,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "doubleedge (Move object)",
+        "lowkick (Move object)",
+        "knockoff (Move object)",
+        "fakeout (Move object)"
+      ],
+      "available_switches": [
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 21.66148567199707,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "doubleedge (Move object)",
+        "lowkick (Move object)",
+        "knockoff (Move object)",
+        "fakeout (Move object)"
+      ],
+      "available_switches": [
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 21.19063949584961,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "doubleedge (Move object)",
+        "lowkick (Move object)",
+        "knockoff (Move object)",
+        "fakeout (Move object)"
+      ],
+      "available_switches": [
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: FNT]",
+      "available_moves": [],
+      "available_switches": [
+        "chienpao (pokemon object) [Active: False, Status: None]",
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 12,
+      "action": 1,
+      "value_estimate": 21.398677825927734,
+      "active_pokemon": "chienpao (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "suckerpunch (Move object)",
+        "iciclecrash (Move object)",
+        "swordsdance (Move object)",
+        "throatchop (Move object)"
+      ],
+      "available_switches": [
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": 21.909860610961914,
+      "active_pokemon": "chienpao (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "suckerpunch (Move object)",
+        "iciclecrash (Move object)",
+        "swordsdance (Move object)",
+        "throatchop (Move object)"
+      ],
+      "available_switches": [
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 21.436948776245117,
+      "active_pokemon": "chienpao (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "politoed (pokemon object) [Active: False, Status: None]",
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 14,
+      "action": 3,
+      "value_estimate": 21.09023094177246,
+      "active_pokemon": "politoed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "encore (Move object)",
+        "icebeam (Move object)",
+        "rest (Move object)",
+        "surf (Move object)"
+      ],
+      "available_switches": [
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": 18.122648239135742,
+      "active_pokemon": "politoed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hypno (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "encore (Move object)",
+        "icebeam (Move object)",
+        "rest (Move object)",
+        "surf (Move object)"
+      ],
+      "available_switches": [
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": 21.292539596557617,
+      "active_pokemon": "politoed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hypno (pokemon object) [Active: True, Status: FRZ]",
+      "available_moves": [
+        "encore (Move object)",
+        "icebeam (Move object)",
+        "surf (Move object)"
+      ],
+      "available_switches": [
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 17,
+      "action": 1,
+      "value_estimate": 18.122648239135742,
+      "active_pokemon": "politoed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hypno (pokemon object) [Active: True, Status: FRZ]",
+      "available_moves": [
+        "encore (Move object)",
+        "icebeam (Move object)",
+        "rest (Move object)",
+        "surf (Move object)"
+      ],
+      "available_switches": [
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": 18.122648239135742,
+      "active_pokemon": "politoed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hypno (pokemon object) [Active: True, Status: FRZ]",
+      "available_moves": [
+        "encore (Move object)",
+        "icebeam (Move object)",
+        "rest (Move object)",
+        "surf (Move object)"
+      ],
+      "available_switches": [
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": 18.122648239135742,
+      "active_pokemon": "politoed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hypno (pokemon object) [Active: True, Status: FRZ]",
+      "available_moves": [
+        "encore (Move object)",
+        "icebeam (Move object)",
+        "rest (Move object)",
+        "surf (Move object)"
+      ],
+      "available_switches": [
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": 18.122648239135742,
+      "active_pokemon": "politoed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hypno (pokemon object) [Active: True, Status: FRZ]",
+      "available_moves": [
+        "encore (Move object)",
+        "icebeam (Move object)",
+        "rest (Move object)",
+        "surf (Move object)"
+      ],
+      "available_switches": [
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": 21.09023094177246,
+      "active_pokemon": "politoed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "encore (Move object)",
+        "icebeam (Move object)",
+        "rest (Move object)",
+        "surf (Move object)"
+      ],
+      "available_switches": [
+        "houndoom (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    }
+  ]
+}

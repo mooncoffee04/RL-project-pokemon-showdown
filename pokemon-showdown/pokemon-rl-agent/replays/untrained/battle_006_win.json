@@ -1,0 +1,269 @@
+{
+  "battle_num": 6,
+  "outcome": "win",
+  "turns": 35,
+  "timestamp": "2025-10-31T15:56:34.759222",
+  "battle_id": "battle-gen9randombattle-26068",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26068",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": -0.14118237793445587,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": 0.018876969814300537,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "medicham (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 0.08813229203224182,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": -0.11297440528869629,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": -0.11297440528869629,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": -0.0053446292877197266,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "medicham (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": -0.11297440528869629,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": 0.004931822419166565,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": -0.22831106185913086,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": -0.22831106185913086,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": 0.004931822419166565,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": -0.22831106185913086,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": -0.03812740743160248,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "drednaw (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": -0.01672522723674774,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": -0.01672522723674774,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": -0.26521065831184387,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": -0.26521065831184387,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clefable (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": -0.01672522723674774,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": -0.01672522723674774,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": -0.014736589044332504,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "drednaw (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": -0.0053446292877197266,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "medicham (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": -0.006917983293533325,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": -0.006917983293533325,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": -0.22831106185913086,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clefable (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": 0.009494036436080933,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": 0.003578498959541321,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "drednaw (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 27,
+      "action": 1,
+      "value_estimate": 0.00277826189994812,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 2,
+      "value_estimate": -0.16915996372699738,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clefable (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 29,
+      "action": 2,
+      "value_estimate": -0.20688548684120178,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 2,
+      "value_estimate": -0.20688548684120178,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 2,
+      "value_estimate": -0.20688548684120178,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 5,
+      "value_estimate": -0.5189332962036133,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 1,
+      "value_estimate": -0.02474912256002426,
+      "active_pokemon": "keldeoresolute (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 0,
+      "value_estimate": -0.394247829914093,
+      "active_pokemon": "keldeoresolute (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 0,
+      "value_estimate": -0.394247829914093,
+      "active_pokemon": "keldeoresolute (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 5,
+      "value_estimate": -0.5299092531204224,
+      "active_pokemon": "keldeoresolute (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 2,
+      "value_estimate": 0.0239095538854599,
+      "active_pokemon": "conkeldurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

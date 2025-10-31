@@ -1,0 +1,129 @@
+{
+  "battle_num": 5,
+  "outcome": "win",
+  "turns": 16,
+  "timestamp": "2025-10-31T15:56:34.711806",
+  "battle_id": "battle-gen9randombattle-26067",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26067",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 0.0016366764903068542,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "registeel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": 0.0016366764903068542,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "registeel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 0.04831835255026817,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "registeel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": 0.036833759397268295,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 0.036833759397268295,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": 0.039041370153427124,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 0.03818253055214882,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 5,
+      "value_estimate": 0.02767425775527954,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": 0.006824485957622528,
+      "active_pokemon": "delibird (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": -0.054671093821525574,
+      "active_pokemon": "delibird (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": 0.006824485957622528,
+      "active_pokemon": "delibird (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 5,
+      "value_estimate": -0.5297156572341919,
+      "active_pokemon": "delibird (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": -0.10127677023410797,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 0.04754862189292908,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": -0.09721832722425461,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": -0.09721832722425461,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": -0.10564589500427246,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "battle_num": 10,
+  "outcome": "win",
+  "turns": 22,
+  "timestamp": "2025-10-31T13:47:06.890621",
+  "battle_id": "battle-gen9randombattle-25992",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25992",
+  "team": [
+    {
+      "species": "chesnaught",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "irontreads",
+      "fainted": false,
+      "hp_fraction": 0.8830188679245283
+    },
+    {
+      "species": "gogoat",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "muk",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "cyclizar",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "raikou",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "misdreavus",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "entei",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "mienshao",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "glastrier",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "swalot",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "mightyena",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 19.830419540405273,
+      "active_pokemon": "chesnaught (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "synthesis (Move object)",
+        "bodypress (Move object)",
+        "spikes (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "irontreads (pokemon object) [Active: False, Status: None]",
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 19.830419540405273,
+      "active_pokemon": "chesnaught (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "synthesis (Move object)",
+        "bodypress (Move object)",
+        "spikes (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "irontreads (pokemon object) [Active: False, Status: None]",
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": 19.830419540405273,
+      "active_pokemon": "chesnaught (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "synthesis (Move object)",
+        "bodypress (Move object)",
+        "spikes (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "irontreads (pokemon object) [Active: False, Status: None]",
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 4,
+      "action": 3,
+      "value_estimate": 19.665115356445312,
+      "active_pokemon": "chesnaught (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "synthesis (Move object)",
+        "bodypress (Move object)",
+        "spikes (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "irontreads (pokemon object) [Active: False, Status: None]",
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 19.919254302978516,
+      "active_pokemon": "chesnaught (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "entei (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "synthesis (Move object)",
+        "bodypress (Move object)",
+        "spikes (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "irontreads (pokemon object) [Active: False, Status: None]",
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": 19.593050003051758,
+      "active_pokemon": "chesnaught (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "synthesis (Move object)",
+        "bodypress (Move object)",
+        "spikes (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "irontreads (pokemon object) [Active: False, Status: None]",
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 6,
+      "action": 4,
+      "value_estimate": 20.07407569885254,
+      "active_pokemon": "chesnaught (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "irontreads (pokemon object) [Active: False, Status: None]",
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 20.39566993713379,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": 20.835229873657227,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "entei (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 20.39566993713379,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": 20.16598129272461,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 20.649267196655273,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": 20.82136344909668,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 20.39566993713379,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 14,
+      "action": 3,
+      "value_estimate": 20.214662551879883,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mightyena (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": 20.534929275512695,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 20.39566993713379,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 20.39566993713379,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": 20.85785484313965,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "entei (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 19,
+      "action": 3,
+      "value_estimate": 20.39516258239746,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mightyena (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": 20.39516258239746,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mightyena (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 20.845474243164062,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 22,
+      "action": 3,
+      "value_estimate": 20.599746704101562,
+      "active_pokemon": "irontreads (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mightyena (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "ironhead (Move object)",
+        "rapidspin (Move object)",
+        "stealthrock (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "gogoat (pokemon object) [Active: False, Status: None]",
+        "muk (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "raikou (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    }
+  ]
+}

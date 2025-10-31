@@ -1,0 +1,437 @@
+{
+  "battle_num": 15,
+  "outcome": "loss",
+  "turns": 55,
+  "timestamp": "2025-10-31T15:56:34.227924",
+  "battle_id": "battle-gen9randombattle-26057",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26057",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 20.242555618286133,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eternatus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 20.82073402404785,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 20.53803062438965,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "umbreon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 20.53803062438965,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "umbreon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 20.53803062438965,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "umbreon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "umbreon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 21.045434951782227,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "umbreon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 3,
+      "value_estimate": 21.38959312438965,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "quaquaval (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": 20.99540901184082,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "umbreon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": 20.99839973449707,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": 20.99839973449707,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": 21.023239135742188,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 1,
+      "value_estimate": 21.023239135742188,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 21.231088638305664,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 21.406286239624023,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 21.406286239624023,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 21.406286239624023,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "umbreon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 21.406286239624023,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 21.646514892578125,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 21.646514892578125,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": 21.406286239624023,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 21.646514892578125,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": 21.406286239624023,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 21.646514892578125,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": 21.406286239624023,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 20.645912170410156,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "umbreon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": 21.040571212768555,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "umbreon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 2,
+      "value_estimate": 21.202064514160156,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eternatus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 2,
+      "value_estimate": 21.202064514160156,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eternatus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": 20.719741821289062,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": 20.719741821289062,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 0,
+      "value_estimate": 20.719741821289062,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 0,
+      "value_estimate": 20.719741821289062,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 0,
+      "value_estimate": 20.719741821289062,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 0,
+      "value_estimate": 20.719741821289062,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 0,
+      "value_estimate": 20.719741821289062,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 0,
+      "value_estimate": 20.719741821289062,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 0,
+      "value_estimate": 20.719741821289062,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 4,
+      "value_estimate": 21.478923797607422,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 0,
+      "value_estimate": 22.536603927612305,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 0,
+      "value_estimate": 22.536603927612305,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 3,
+      "value_estimate": 20.884063720703125,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 3,
+      "value_estimate": 20.884063720703125,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusgrass (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 0,
+      "value_estimate": 22.933544158935547,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 0,
+      "value_estimate": 22.933544158935547,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 0,
+      "value_estimate": 22.933544158935547,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 0,
+      "value_estimate": 22.933544158935547,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": 22.58433723449707,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 4,
+      "value_estimate": 22.082624435424805,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 1,
+      "value_estimate": 22.82998275756836,
+      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 1,
+      "value_estimate": 22.82998275756836,
+      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 1,
+      "value_estimate": 22.82998275756836,
+      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 1,
+      "value_estimate": 22.82998275756836,
+      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 4,
+      "value_estimate": 21.436948776245117,
+      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 4,
+      "value_estimate": 19.91664695739746,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 0,
+      "value_estimate": 17.30295753479004,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 4,
+      "value_estimate": 21.436948776245117,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 4,
+      "value_estimate": 14.274845123291016,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 0,
+      "value_estimate": 9.443469047546387,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 0,
+      "value_estimate": 9.443469047546387,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vespiquen (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

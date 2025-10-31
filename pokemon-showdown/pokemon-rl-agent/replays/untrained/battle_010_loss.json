@@ -1,0 +1,430 @@
+{
+  "battle_num": 10,
+  "outcome": "loss",
+  "turns": 55,
+  "timestamp": "2025-10-31T15:56:34.950180",
+  "battle_id": "battle-gen9randombattle-26072",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26072",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": -0.2352580577135086,
+      "active_pokemon": "enamorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 7,
+      "value_estimate": -0.014372695237398148,
+      "active_pokemon": "enamorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": -0.22165092825889587,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": -0.0861685574054718,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": -0.20018669962882996,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 5,
+      "value_estimate": -0.5365684628486633,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": -0.23189662396907806,
+      "active_pokemon": "gothitelle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": -0.23189662396907806,
+      "active_pokemon": "gothitelle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": -0.23189662396907806,
+      "active_pokemon": "gothitelle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": -0.23189662396907806,
+      "active_pokemon": "gothitelle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": -0.23189662396907806,
+      "active_pokemon": "gothitelle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": -0.23189662396907806,
+      "active_pokemon": "gothitelle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 5,
+      "value_estimate": -0.5455848574638367,
+      "active_pokemon": "gothitelle (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 1,
+      "value_estimate": -0.2749370336532593,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 1,
+      "value_estimate": -0.2757124900817871,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": -0.3067963123321533,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": -0.2757124900817871,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": -0.2757124900817871,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 1,
+      "value_estimate": -0.21724486351013184,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": -0.21724486351013184,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": -0.2757124900817871,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": -0.3355097472667694,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 1,
+      "value_estimate": -0.2833937108516693,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 1,
+      "value_estimate": -0.3434871733188629,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 1,
+      "value_estimate": -0.3434871733188629,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 1,
+      "value_estimate": -0.2442639172077179,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 1,
+      "value_estimate": -0.3434871733188629,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 1,
+      "value_estimate": -0.29899081587791443,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 1,
+      "value_estimate": -0.36012738943099976,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 1,
+      "value_estimate": -0.36012738943099976,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 1,
+      "value_estimate": -0.2833937108516693,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 1,
+      "value_estimate": -0.2833937108516693,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 1,
+      "value_estimate": -0.3677977919578552,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 1,
+      "value_estimate": -0.3677977919578552,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 5,
+      "value_estimate": -0.5973167419433594,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 2,
+      "value_estimate": -0.10518334805965424,
+      "active_pokemon": "enamorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 2,
+      "value_estimate": -0.13669252395629883,
+      "active_pokemon": "enamorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 2,
+      "value_estimate": -0.10518334805965424,
+      "active_pokemon": "enamorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 2,
+      "value_estimate": -0.10518334805965424,
+      "active_pokemon": "enamorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 2,
+      "value_estimate": 0.07635080814361572,
+      "active_pokemon": "enamorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 5,
+      "value_estimate": -0.6103317737579346,
+      "active_pokemon": "enamorus (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 1,
+      "value_estimate": 0.11002659052610397,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 2,
+      "value_estimate": -0.14624479413032532,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 2,
+      "value_estimate": -0.10602064430713654,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 2,
+      "value_estimate": -0.14624479413032532,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 2,
+      "value_estimate": 0.07167041301727295,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 2,
+      "value_estimate": 0.07167041301727295,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 2,
+      "value_estimate": 0.07167041301727295,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 2,
+      "value_estimate": -0.05358719080686569,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 2,
+      "value_estimate": -0.05358719080686569,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 2,
+      "value_estimate": -0.05358719080686569,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 2,
+      "value_estimate": -0.05358719080686569,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 2,
+      "value_estimate": -0.05358719080686569,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 2,
+      "value_estimate": -0.05358719080686569,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 2,
+      "value_estimate": -0.05358719080686569,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 4,
+      "value_estimate": -0.5763733983039856,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 2,
+      "value_estimate": 0.04828028380870819,
+      "active_pokemon": "florgeswhite (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "exeggutor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 2,
+      "value_estimate": -0.0632907897233963,
+      "active_pokemon": "florgeswhite (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 2,
+      "value_estimate": -0.0632907897233963,
+      "active_pokemon": "florgeswhite (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 1,
+      "value_estimate": 0.13110417127609253,
+      "active_pokemon": "florgeswhite (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

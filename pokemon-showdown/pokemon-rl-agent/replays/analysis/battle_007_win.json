@@ -1,0 +1,568 @@
+{
+  "battle_num": 7,
+  "outcome": "win",
+  "turns": 23,
+  "timestamp": "2025-10-31T13:47:06.790336",
+  "battle_id": "battle-gen9randombattle-25989",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25989",
+  "team": [
+    {
+      "species": "minun",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "azumarill",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "dewgong",
+      "fainted": false,
+      "hp_fraction": 0.6273291925465838
+    },
+    {
+      "species": "diancie",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "taurospaldeacombat",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "hitmonlee",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "groudon",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "frosmoth",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "okidogi",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "wigglytuff",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "porygon2",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "slowbro",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 19.818513870239258,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "alluringvoice (Move object)",
+        "thunderbolt (Move object)",
+        "grassknot (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 19.838905334472656,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "alluringvoice (Move object)",
+        "thunderbolt (Move object)",
+        "grassknot (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 20.365888595581055,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "alluringvoice (Move object)",
+        "thunderbolt (Move object)",
+        "grassknot (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 19.950904846191406,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "okidogi (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "alluringvoice (Move object)",
+        "thunderbolt (Move object)",
+        "grassknot (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 19.7324161529541,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "alluringvoice (Move object)",
+        "thunderbolt (Move object)",
+        "grassknot (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 19.7324161529541,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "alluringvoice (Move object)",
+        "thunderbolt (Move object)",
+        "grassknot (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 19.7324161529541,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "alluringvoice (Move object)",
+        "thunderbolt (Move object)",
+        "grassknot (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 19.824609756469727,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "alluringvoice (Move object)",
+        "thunderbolt (Move object)",
+        "grassknot (Move object)",
+        "nastyplot (Move object)"
+      ],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "azumarill (pokemon object) [Active: False, Status: None]",
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 20.56404685974121,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "aquajet (Move object)",
+        "playrough (Move object)",
+        "icespinner (Move object)"
+      ],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 20.534257888793945,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)"
+      ],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 20.534257888793945,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "okidogi (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)"
+      ],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 20.433155059814453,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "frosmoth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)"
+      ],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 20.779062271118164,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)"
+      ],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 21.093923568725586,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)"
+      ],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 21.093923568725586,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)"
+      ],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 20.65777015686035,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)"
+      ],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 20.65777015686035,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)"
+      ],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 17,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "azumarill (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "dewgong (pokemon object) [Active: False, Status: None]",
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 21.465795516967773,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "surf (Move object)",
+        "icebeam (Move object)",
+        "flipturn (Move object)"
+      ],
+      "available_switches": [
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 21.72843360900879,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "surf (Move object)",
+        "icebeam (Move object)",
+        "flipturn (Move object)"
+      ],
+      "available_switches": [
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 22.07069206237793,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "surf (Move object)",
+        "icebeam (Move object)",
+        "flipturn (Move object)"
+      ],
+      "available_switches": [
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 22.07069206237793,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "surf (Move object)",
+        "icebeam (Move object)",
+        "flipturn (Move object)"
+      ],
+      "available_switches": [
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 22.07069206237793,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "surf (Move object)",
+        "icebeam (Move object)",
+        "flipturn (Move object)"
+      ],
+      "available_switches": [
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 22.07069206237793,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wigglytuff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "surf (Move object)",
+        "icebeam (Move object)",
+        "flipturn (Move object)"
+      ],
+      "available_switches": [
+        "diancie (pokemon object) [Active: False, Status: None]",
+        "taurospaldeacombat (pokemon object) [Active: False, Status: None]",
+        "hitmonlee (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    }
+  ]
+}

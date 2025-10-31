@@ -1,0 +1,185 @@
+{
+  "battle_num": 4,
+  "outcome": "win",
+  "turns": 21,
+  "timestamp": "2025-10-31T15:56:34.686566",
+  "battle_id": "battle-gen9randombattle-26066",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26066",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": -0.12027440965175629,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 1,
+      "value_estimate": -0.12027440965175629,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 5,
+      "value_estimate": -0.13212594389915466,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chimecho (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 0.035142429172992706,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chimecho (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": 0.0037139877676963806,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": -0.037367552518844604,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gothitelle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": -0.037367552518844604,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gothitelle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": -0.037367552518844604,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gothitelle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": -0.31089910864830017,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": -0.31089910864830017,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": 0.12704454362392426,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 1,
+      "value_estimate": 0.12704454362392426,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 1,
+      "value_estimate": -0.26720139384269714,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": -0.10476341843605042,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 5,
+      "value_estimate": -0.5297156572341919,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": -0.3156277537345886,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": -0.29600757360458374,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 1,
+      "value_estimate": -0.11138352751731873,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 5,
+      "value_estimate": -0.5299092531204224,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": 0.04497066140174866,
+      "active_pokemon": "vivillonsavanna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 5,
+      "value_estimate": -0.5408852696418762,
+      "active_pokemon": "vivillonsavanna (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": -0.08989134430885315,
+      "active_pokemon": "golurk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 5,
+      "value_estimate": -0.5518359541893005,
+      "active_pokemon": "golurk (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": -0.16948261857032776,
+      "active_pokemon": "ditto (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": -0.42854413390159607,
+      "active_pokemon": "ditto (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

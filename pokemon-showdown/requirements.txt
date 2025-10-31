@@ -1,0 +1,32 @@
+# Pokemon Showdown RL Agent - Requirements
+# Compatible with Python 3.9.6 and macOS M4 chip
+# Install with: pip install -r requirements.txt
+
+# Core RL Framework
+poke-env         # Pokemon Showdown environment wrapper
+stable-baselines3  # RL algorithms (PPO, DQN)
+gymnasium        # OpenAI Gym replacement (modern, required by poke-env)
+
+# Deep Learning Backend (CPU optimized for M4)
+torch              # PyTorch for M4 Mac
+numpy             # Numerical computing
+
+# Visualization and Analysis
+matplotlib         # Plotting win rates and statistics
+pandas             # Data analysis for battle logs
+seaborn            # Enhanced visualizations
+tensorboard        # Training progress monitoring
+
+# Async/Network (for Pokemon Showdown communication)
+aiohttp            # Async HTTP client
+websockets         # WebSocket support for Showdown
+requests           # HTTP requests
+
+# Utilities
+tqdm               # Progress bars for training
+pyyaml             # Configuration files
+tabulate           # Pretty tables for results
+
+# Optional but recommended
+jupyter            # For interactive analysis (optional)
+ipython            # Better Python shell

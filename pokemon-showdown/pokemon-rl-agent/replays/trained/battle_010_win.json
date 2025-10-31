@@ -1,0 +1,227 @@
+{
+  "battle_num": 10,
+  "outcome": "win",
+  "turns": 27,
+  "timestamp": "2025-10-31T15:56:33.993107",
+  "battle_id": "battle-gen9randombattle-26052",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26052",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 20.68434715270996,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 20.68434715270996,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 20.054899215698242,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dunsparce (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 19.885129928588867,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 19.885129928588867,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 19.885129928588867,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 19.722211837768555,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "houndstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 19.80679702758789,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 19.851484298706055,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "houndstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": 20.366113662719727,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "serperior (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": 20.366113662719727,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "serperior (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 20.36736488342285,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 20.36736488342285,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 19.851484298706055,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "houndstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "dewgong (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "houndstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 20.54991912841797,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "houndstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 20.54991912841797,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "houndstone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 3,
+      "value_estimate": 19.94096565246582,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 20.969030380249023,
+      "active_pokemon": "raikou (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 20.61430549621582,
+      "active_pokemon": "raikou (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": 20.813905715942383,
+      "active_pokemon": "raikou (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 20.813905715942383,
+      "active_pokemon": "raikou (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dunsparce (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": 20.813905715942383,
+      "active_pokemon": "raikou (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dunsparce (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 21.123132705688477,
+      "active_pokemon": "raikou (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "raikou (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": 20.968523025512695,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gardevoir (pokemon object) [Active: True, Status: FNT]"
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": 21.9810733795166,
+      "active_pokemon": "pincurchin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": 21.9810733795166,
+      "active_pokemon": "pincurchin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 0,
+      "value_estimate": 21.9810733795166,
+      "active_pokemon": "pincurchin (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "RandomPlayer": {
+    "opponent": "RandomPlayer",
+    "n_battles": 100,
+    "wins": 98,
+    "losses": 2,
+    "win_rate": 0.98
+  }
+}

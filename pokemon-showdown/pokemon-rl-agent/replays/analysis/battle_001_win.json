@@ -1,0 +1,706 @@
+{
+  "battle_num": 1,
+  "outcome": "win",
+  "turns": 29,
+  "timestamp": "2025-10-31T13:47:06.516444",
+  "battle_id": "battle-gen9randombattle-25983",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25983",
+  "team": [
+    {
+      "species": "gurdurr",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "feraligatr",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "lunala",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "golduck",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "koraidon",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "dusknoir",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "terapagosstellar",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "charizard",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "vigoroth",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "basculegionf",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "miraidon",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "slowbro",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 19.879629135131836,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "terapagos (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "machpunch (Move object)",
+        "knockoff (Move object)",
+        "bulkup (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "feraligatr (pokemon object) [Active: False, Status: None]",
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 19.4199161529541,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "terapagos (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "machpunch (Move object)",
+        "knockoff (Move object)",
+        "bulkup (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "feraligatr (pokemon object) [Active: False, Status: None]",
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": 19.38645362854004,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "machpunch (Move object)",
+        "knockoff (Move object)",
+        "bulkup (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "feraligatr (pokemon object) [Active: False, Status: None]",
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 19.38645362854004,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "machpunch (Move object)",
+        "knockoff (Move object)",
+        "bulkup (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "feraligatr (pokemon object) [Active: False, Status: None]",
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": 19.32654571533203,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "terapagosstellar (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "machpunch (Move object)",
+        "knockoff (Move object)",
+        "bulkup (Move object)",
+        "drainpunch (Move object)"
+      ],
+      "available_switches": [
+        "feraligatr (pokemon object) [Active: False, Status: None]",
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "terapagosstellar (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "feraligatr (pokemon object) [Active: False, Status: None]",
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 21.021108627319336,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "terapagosstellar (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "crunch (Move object)",
+        "icepunch (Move object)",
+        "dragondance (Move object)"
+      ],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 21.021108627319336,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "terapagosstellar (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "crunch (Move object)",
+        "icepunch (Move object)",
+        "dragondance (Move object)"
+      ],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 21.021108627319336,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "terapagosstellar (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "crunch (Move object)",
+        "icepunch (Move object)",
+        "dragondance (Move object)"
+      ],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 21.021108627319336,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "crunch (Move object)",
+        "icepunch (Move object)",
+        "dragondance (Move object)"
+      ],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 20.591503143310547,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "basculegionf (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "crunch (Move object)",
+        "icepunch (Move object)",
+        "dragondance (Move object)"
+      ],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": 21.322378158569336,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "miraidon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "crunch (Move object)",
+        "icepunch (Move object)",
+        "dragondance (Move object)"
+      ],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 20.591503143310547,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "basculegionf (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "crunch (Move object)",
+        "icepunch (Move object)",
+        "dragondance (Move object)"
+      ],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 20.591503143310547,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "basculegionf (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "crunch (Move object)",
+        "icepunch (Move object)",
+        "dragondance (Move object)"
+      ],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 20.591503143310547,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "basculegionf (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "liquidation (Move object)",
+        "crunch (Move object)",
+        "icepunch (Move object)",
+        "dragondance (Move object)"
+      ],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "basculegionf (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "lunala (pokemon object) [Active: False, Status: None]",
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": 22.376928329467773,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "basculegionf (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 21.133134841918945,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 21.133134841918945,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": 22.376928329467773,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "basculegionf (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 19,
+      "action": 3,
+      "value_estimate": 22.218294143676758,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": 22.36793327331543,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 21.183744430541992,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 21.183744430541992,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 21.183744430541992,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": 21.183744430541992,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": 21.183744430541992,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": 21.183744430541992,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 27,
+      "action": 2,
+      "value_estimate": 21.183744430541992,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 28,
+      "action": 2,
+      "value_estimate": 21.183744430541992,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 29,
+      "action": 2,
+      "value_estimate": 21.183744430541992,
+      "active_pokemon": "lunala (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vigoroth (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "moonlight (Move object)",
+        "moonblast (Move object)",
+        "moongeistbeam (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "koraidon (pokemon object) [Active: False, Status: None]",
+        "dusknoir (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    }
+  ]
+}

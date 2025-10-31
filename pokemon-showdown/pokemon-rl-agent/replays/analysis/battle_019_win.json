@@ -1,0 +1,780 @@
+{
+  "battle_num": 19,
+  "outcome": "win",
+  "turns": 33,
+  "timestamp": "2025-10-31T13:47:07.250359",
+  "battle_id": "battle-gen9randombattle-26001",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26001",
+  "team": [
+    {
+      "species": "espeon",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "deoxysdefense",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "serperior",
+      "fainted": false,
+      "hp_fraction": 0.020161290322580645
+    },
+    {
+      "species": "blaziken",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "coalossal",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "scyther",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "baxcalibur",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "gogoat",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ogerpon",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "charizard",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "furret",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ambipom",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 20.5058650970459,
+      "active_pokemon": "espeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "shadowball (Move object)",
+        "psychic (Move object)",
+        "alluringvoice (Move object)"
+      ],
+      "available_switches": [
+        "deoxysdefense (pokemon object) [Active: False, Status: None]",
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 20.5058650970459,
+      "active_pokemon": "espeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "shadowball (Move object)",
+        "psychic (Move object)",
+        "alluringvoice (Move object)"
+      ],
+      "available_switches": [
+        "deoxysdefense (pokemon object) [Active: False, Status: None]",
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "espeon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "deoxysdefense (pokemon object) [Active: False, Status: None]",
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": 20.536603927612305,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 20.536603927612305,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": 20.536603927612305,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 20.536603927612305,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": 20.42237663269043,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": 20.35152816772461,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": 20.13087272644043,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "furret (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": 20.13087272644043,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": 20.13087272644043,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 12,
+      "action": 1,
+      "value_estimate": 20.13087272644043,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 13,
+      "action": 1,
+      "value_estimate": 20.13087272644043,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": 20.13087272644043,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "teleport (Move object)",
+        "psychicnoise (Move object)",
+        "knockoff (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 19.302854537963867,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "serperior (pokemon object) [Active: False, Status: None]",
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": 20.334348678588867,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": 20.334348678588867,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 17,
+      "action": 1,
+      "value_estimate": 19.876705169677734,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": 19.876705169677734,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": 19.876705169677734,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": 19.876705169677734,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 21,
+      "action": 1,
+      "value_estimate": 20.334348678588867,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "furret (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 22,
+      "action": 1,
+      "value_estimate": 20.334348678588867,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "furret (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 23,
+      "action": 1,
+      "value_estimate": 20.334348678588867,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "furret (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 24,
+      "action": 1,
+      "value_estimate": 19.876705169677734,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 25,
+      "action": 1,
+      "value_estimate": 20.798782348632812,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 26,
+      "action": 1,
+      "value_estimate": 20.798782348632812,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 27,
+      "action": 1,
+      "value_estimate": 20.685014724731445,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 28,
+      "action": 1,
+      "value_estimate": 21.660234451293945,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "furret (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 29,
+      "action": 1,
+      "value_estimate": 21.813570022583008,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 30,
+      "action": 1,
+      "value_estimate": 22.273176193237305,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "terablast (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 31,
+      "action": 1,
+      "value_estimate": 22.47775650024414,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 32,
+      "action": 1,
+      "value_estimate": 22.47775650024414,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 33,
+      "action": 1,
+      "value_estimate": 22.47775650024414,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerpon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "leechseed (Move object)",
+        "leafstorm (Move object)",
+        "substitute (Move object)"
+      ],
+      "available_switches": [
+        "blaziken (pokemon object) [Active: False, Status: None]",
+        "coalossal (pokemon object) [Active: False, Status: None]",
+        "scyther (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    }
+  ]
+}

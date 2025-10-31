@@ -1,0 +1,290 @@
+{
+  "battle_num": 20,
+  "outcome": "win",
+  "turns": 36,
+  "timestamp": "2025-10-31T15:56:36.136243",
+  "battle_id": "battle-gen9randombattle-26082",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26082",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": -0.10017360746860504,
+      "active_pokemon": "forretress (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tyranitar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": -0.10017360746860504,
+      "active_pokemon": "forretress (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tyranitar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": -0.18616151809692383,
+      "active_pokemon": "forretress (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tyranitar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": -0.10406418144702911,
+      "active_pokemon": "forretress (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 5,
+      "value_estimate": -0.5189332962036133,
+      "active_pokemon": "forretress (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": -0.013856068253517151,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": -0.013856068253517151,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": 0.05909505486488342,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": 0.08474567532539368,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": 0.01990865170955658,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "komala (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": 0.0414411723613739,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 5,
+      "value_estimate": -0.01771698147058487,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "hariyama (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": -0.27837374806404114,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hariyama (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": -0.27837374806404114,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hariyama (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 13,
+      "action": 5,
+      "value_estimate": -0.5455848574638367,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hariyama (pokemon object) [Active: True, Status: FNT]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 0.05122870206832886,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": -0.07712817192077637,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": -0.07712817192077637,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 0.05122870206832886,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 0.09592508524656296,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 0.09592508524656296,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 0.09592508524656296,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 0.05122870206832886,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": -0.07712817192077637,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 5,
+      "value_estimate": -0.5567560791969299,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": -0.23091134428977966,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 1,
+      "value_estimate": -0.08512262254953384,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "komala (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": -0.23091134428977966,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": -0.22679655253887177,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 2,
+      "value_estimate": -0.22679655253887177,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 2,
+      "value_estimate": -0.19520771503448486,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 2,
+      "value_estimate": -0.14162367582321167,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 2,
+      "value_estimate": -0.1820518970489502,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 2,
+      "value_estimate": -0.1820518970489502,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 2,
+      "value_estimate": -0.1820518970489502,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 2,
+      "value_estimate": -0.1331104040145874,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 2,
+      "value_estimate": -0.1331104040145874,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 5,
+      "value_estimate": -0.557806134223938,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 1,
+      "value_estimate": -0.12230484187602997,
+      "active_pokemon": "spidops (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 1,
+      "value_estimate": -0.10814310610294342,
+      "active_pokemon": "spidops (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "battle_num": 17,
+  "outcome": "win",
+  "turns": 26,
+  "timestamp": "2025-10-31T15:56:35.976697",
+  "battle_id": "battle-gen9randombattle-26079",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26079",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 5,
+      "value_estimate": -0.07655374705791473,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bruxish (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 5,
+      "value_estimate": 0.06526266038417816,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bruxish (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": -0.04281766712665558,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zekrom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": -0.04281766712665558,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zekrom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": -0.04281766712665558,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zekrom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": -0.16475209593772888,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": -0.032235316932201385,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": -0.04142981395125389,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "entei (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": -0.21884270012378693,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": -0.03127278387546539,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "entei (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": -0.03127278387546539,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "entei (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": -0.16475209593772888,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": -0.1466253399848938,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": -0.18013736605644226,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": -0.18013736605644226,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": -0.18013736605644226,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": -0.19661548733711243,
+      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

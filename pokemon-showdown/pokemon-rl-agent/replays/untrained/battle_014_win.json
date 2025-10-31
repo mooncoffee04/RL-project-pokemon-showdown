@@ -1,0 +1,164 @@
+{
+  "battle_num": 14,
+  "outcome": "win",
+  "turns": 18,
+  "timestamp": "2025-10-31T15:56:35.134603",
+  "battle_id": "battle-gen9randombattle-26076",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26076",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": -0.27848076820373535,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 1,
+      "value_estimate": -0.27848076820373535,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": -0.13694705069065094,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": -0.13694705069065094,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 5,
+      "value_estimate": -0.5244015455245972,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": -0.2112281173467636,
+      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": -0.40529686212539673,
+      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": -0.40529686212539673,
+      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": -0.2112281173467636,
+      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": -0.40529686212539673,
+      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 5,
+      "value_estimate": -0.5355770587921143,
+      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": -0.18257352709770203,
+      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": -0.27766260504722595,
+      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lucario (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": -0.18257352709770203,
+      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": -0.3844624161720276,
+      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "magcargo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": -0.21797910332679749,
+      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 5,
+      "value_estimate": -0.5524657964706421,
+      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 0.009432241320610046,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": -0.39843717217445374,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magcargo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": -0.42364054918289185,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 5,
+      "value_estimate": -0.5518359541893005,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 0.06930254399776459,
+      "active_pokemon": "froslass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

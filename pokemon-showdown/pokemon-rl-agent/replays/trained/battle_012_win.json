@@ -1,0 +1,297 @@
+{
+  "battle_num": 12,
+  "outcome": "win",
+  "turns": 37,
+  "timestamp": "2025-10-31T15:56:34.088951",
+  "battle_id": "battle-gen9randombattle-26054",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26054",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 20.325712203979492,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 20.325712203979492,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 20.96099281311035,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 20.2675838470459,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 20.2675838470459,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 20.325712203979492,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 20.980600357055664,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": 20.917959213256836,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 21.189424514770508,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 21.61151695251465,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "donphan (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 6,
+      "value_estimate": 20.112279891967773,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "donphan (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": 20.018341064453125,
+      "active_pokemon": "taurospaldeacombat (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "donphan (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": 20.018341064453125,
+      "active_pokemon": "taurospaldeacombat (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "donphan (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 20.716045379638672,
+      "active_pokemon": "taurospaldeacombat (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": 20.59282875061035,
+      "active_pokemon": "taurospaldeacombat (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "taurospaldeacombat (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 20.69697380065918,
+      "active_pokemon": "vileplume (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 20.403249740600586,
+      "active_pokemon": "vileplume (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "crabominable (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 20.403249740600586,
+      "active_pokemon": "vileplume (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "crabominable (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "vileplume (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "crabominable (pokemon object) [Active: True, Status: PSN]"
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": 22.952259063720703,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "crabominable (pokemon object) [Active: True, Status: PSN]"
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": 21.479686737060547,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": 21.479686737060547,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 3,
+      "value_estimate": 21.479686737060547,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": 21.519250869750977,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": 21.519250869750977,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 1,
+      "value_estimate": 20.52101707458496,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 18.446016311645508,
+      "active_pokemon": "hypno (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 3,
+      "value_estimate": 14.36634349822998,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": 14.36634349822998,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": 20.851341247558594,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": 20.274137496948242,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": 20.274137496948242,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": 20.851341247558594,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": 20.851341247558594,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 0,
+      "value_estimate": 20.274137496948242,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 0,
+      "value_estimate": 20.762285232543945,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 0,
+      "value_estimate": 20.762285232543945,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 0,
+      "value_estimate": 20.762285232543945,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 0,
+      "value_estimate": 20.762285232543945,
+      "active_pokemon": "lugia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "comfey (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

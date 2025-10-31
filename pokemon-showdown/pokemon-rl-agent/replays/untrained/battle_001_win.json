@@ -1,0 +1,227 @@
+{
+  "battle_num": 1,
+  "outcome": "win",
+  "turns": 22,
+  "timestamp": "2025-10-31T15:56:34.501904",
+  "battle_id": "battle-gen9randombattle-26063",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26063",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": -0.09325653314590454,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 1,
+      "value_estimate": -0.20556853711605072,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 5,
+      "value_estimate": -0.5189332962036133,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": -0.07908661663532257,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": -0.07908661663532257,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": -0.07908661663532257,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 5,
+      "value_estimate": 0.039834439754486084,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": -0.06872247904539108,
+      "active_pokemon": "yanmega (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": -0.38018912076950073,
+      "active_pokemon": "yanmega (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": -0.38018912076950073,
+      "active_pokemon": "yanmega (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": -0.3941734731197357,
+      "active_pokemon": "yanmega (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": -0.38018912076950073,
+      "active_pokemon": "yanmega (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": -0.3941734731197357,
+      "active_pokemon": "yanmega (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 5,
+      "value_estimate": -0.5299092531204224,
+      "active_pokemon": "yanmega (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 0.025484323501586914,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 5,
+      "value_estimate": -0.5299092531204224,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 0.07751531898975372,
+      "active_pokemon": "calyrexshadow (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 5,
+      "value_estimate": -0.5408852696418762,
+      "active_pokemon": "calyrexshadow (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 0.038348063826560974,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 5,
+      "value_estimate": -0.5465644001960754,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eiscue (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 1,
+      "value_estimate": -0.23216873407363892,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eiscue (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 1,
+      "value_estimate": -0.23216873407363892,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eiscue (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 5,
+      "value_estimate": -0.557806134223938,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "eiscue (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": -0.011713013052940369,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eiscue (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 4,
+      "value_estimate": -0.5518359541893005,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eiscue (pokemon object) [Active: True, Status: FNT]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 0.029217109084129333,
+      "active_pokemon": "lilligant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 0.05662734806537628,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 4,
+      "value_estimate": -0.5518359541893005,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 4,
+      "value_estimate": 0.029217109084129333,
+      "active_pokemon": "lilligant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 4,
+      "value_estimate": -0.5594068765640259,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 1,
+      "value_estimate": 0.032388657331466675,
+      "active_pokemon": "lilligant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

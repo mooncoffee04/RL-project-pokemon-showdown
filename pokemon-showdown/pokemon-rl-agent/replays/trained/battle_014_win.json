@@ -1,0 +1,178 @@
+{
+  "battle_num": 14,
+  "outcome": "win",
+  "turns": 21,
+  "timestamp": "2025-10-31T15:56:34.156779",
+  "battle_id": "battle-gen9randombattle-26056",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26056",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 19.93894386291504,
+      "active_pokemon": "mightyena (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "forretress (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 20.8915958404541,
+      "active_pokemon": "mightyena (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "forretress (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 20.458980560302734,
+      "active_pokemon": "mightyena (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 20.458980560302734,
+      "active_pokemon": "mightyena (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "mightyena (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 21.19667625427246,
+      "active_pokemon": "arboliva (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 20.65696144104004,
+      "active_pokemon": "arboliva (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "weezing (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 21.002880096435547,
+      "active_pokemon": "arboliva (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusground (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": 20.775558471679688,
+      "active_pokemon": "arboliva (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 3,
+      "value_estimate": 20.775558471679688,
+      "active_pokemon": "arboliva (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 20.056100845336914,
+      "active_pokemon": "arboliva (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 21.04669761657715,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 21.464757919311523,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "weezing (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 21.18595314025879,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "forretress (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 21.18595314025879,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "forretress (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 21.18595314025879,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "forretress (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 21.04669761657715,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skuntank (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 21.04669761657715,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skuntank (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 21.61384391784668,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 22.225431442260742,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "weezing (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 23.00966453552246,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusground (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 22.58433723449707,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "arceusground (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": 22.7271671295166,
+      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "arceusground (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": 22.7271671295166,
+      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "arceusground (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

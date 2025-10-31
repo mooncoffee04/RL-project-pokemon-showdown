@@ -1,0 +1,850 @@
+{
+  "battle_num": 5,
+  "outcome": "win",
+  "turns": 35,
+  "timestamp": "2025-10-31T13:47:06.720019",
+  "battle_id": "battle-gen9randombattle-25987",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25987",
+  "team": [
+    {
+      "species": "floatzel",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "veluza",
+      "fainted": false,
+      "hp_fraction": 0.2636986301369863
+    },
+    {
+      "species": "golurk",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "gengar",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "illumise",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "okidogi",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "ariados",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "phione",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "bombirdier",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "sylveon",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "sinistchamasterpiece",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "kingdra",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 20.368276596069336,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ariados (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 20.549184799194336,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ariados (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 20.033193588256836,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 20.51655387878418,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bombirdier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 20.127389907836914,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sylveon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 20.025808334350586,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 20.025808334350586,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.025808334350586,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 20.92844009399414,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 19.902938842773438,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ariados (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 19.902938842773438,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ariados (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 20.136594772338867,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 20.136594772338867,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 20.204256057739258,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingdra (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 20.24660873413086,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 20.24660873413086,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 20.24660873413086,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 20.209016799926758,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sylveon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 20.699411392211914,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": 19.902938842773438,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ariados (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 19.902938842773438,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ariados (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": 20.136594772338867,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 20.136594772338867,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": 20.136594772338867,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "icespinner (Move object)",
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": 19.740537643432617,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingdra (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": 19.740537643432617,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingdra (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "wavecrash (Move object)",
+        "bulkup (Move object)",
+        "taunt (Move object)"
+      ],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 26,
+      "action": 4,
+      "value_estimate": 20.07407569885254,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "kingdra (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "veluza (pokemon object) [Active: False, Status: None]",
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 27,
+      "action": 0,
+      "value_estimate": 20.33151626586914,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "kingdra (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychocut (Move object)",
+        "nightslash (Move object)",
+        "aquacutter (Move object)",
+        "filletaway (Move object)"
+      ],
+      "available_switches": [
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": 20.3397216796875,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "sylveon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychocut (Move object)",
+        "nightslash (Move object)",
+        "aquacutter (Move object)",
+        "filletaway (Move object)"
+      ],
+      "available_switches": [
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": 20.3397216796875,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "sylveon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychocut (Move object)",
+        "nightslash (Move object)",
+        "aquacutter (Move object)",
+        "filletaway (Move object)"
+      ],
+      "available_switches": [
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": 20.30341911315918,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "psychocut (Move object)",
+        "nightslash (Move object)",
+        "aquacutter (Move object)",
+        "filletaway (Move object)"
+      ],
+      "available_switches": [
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 31,
+      "action": 0,
+      "value_estimate": 20.30341911315918,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "psychocut (Move object)",
+        "nightslash (Move object)",
+        "aquacutter (Move object)",
+        "filletaway (Move object)"
+      ],
+      "available_switches": [
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 32,
+      "action": 0,
+      "value_estimate": 20.30341911315918,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "psychocut (Move object)",
+        "nightslash (Move object)",
+        "aquacutter (Move object)",
+        "filletaway (Move object)"
+      ],
+      "available_switches": [
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 33,
+      "action": 0,
+      "value_estimate": 20.343515396118164,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "psychocut (Move object)",
+        "nightslash (Move object)",
+        "aquacutter (Move object)",
+        "filletaway (Move object)"
+      ],
+      "available_switches": [
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 34,
+      "action": 0,
+      "value_estimate": 20.412946701049805,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "phione (pokemon object) [Active: True, Status: SLP]",
+      "available_moves": [
+        "psychocut (Move object)",
+        "nightslash (Move object)",
+        "aquacutter (Move object)",
+        "filletaway (Move object)"
+      ],
+      "available_switches": [
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 35,
+      "action": 0,
+      "value_estimate": 21.016233444213867,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "ariados (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "psychocut (Move object)",
+        "nightslash (Move object)",
+        "aquacutter (Move object)",
+        "filletaway (Move object)"
+      ],
+      "available_switches": [
+        "golurk (pokemon object) [Active: False, Status: None]",
+        "gengar (pokemon object) [Active: False, Status: None]",
+        "illumise (pokemon object) [Active: False, Status: None]",
+        "okidogi (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    }
+  ]
+}

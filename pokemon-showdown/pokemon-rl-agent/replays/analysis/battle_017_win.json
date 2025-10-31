@@ -1,0 +1,643 @@
+{
+  "battle_num": 17,
+  "outcome": "win",
+  "turns": 26,
+  "timestamp": "2025-10-31T13:47:07.171348",
+  "battle_id": "battle-gen9randombattle-25999",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25999",
+  "team": [
+    {
+      "species": "ambipom",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "magearna",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "poliwrath",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "flamigo",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "mimikyu",
+      "fainted": false,
+      "hp_fraction": 0.7777777777777778
+    },
+    {
+      "species": "arceusflying",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "reshiram",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "clawitzer",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "smeargle",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "seviper",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "wyrdeer",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "coalossal",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 19.767332077026367,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "fakeout (Move object)",
+        "knockoff (Move object)",
+        "uturn (Move object)",
+        "doubleedge (Move object)"
+      ],
+      "available_switches": [
+        "magearna (pokemon object) [Active: False, Status: None]",
+        "poliwrath (pokemon object) [Active: False, Status: None]",
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 19.767332077026367,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "fakeout (Move object)",
+        "knockoff (Move object)",
+        "uturn (Move object)",
+        "doubleedge (Move object)"
+      ],
+      "available_switches": [
+        "magearna (pokemon object) [Active: False, Status: None]",
+        "poliwrath (pokemon object) [Active: False, Status: None]",
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 4,
+      "value_estimate": 21.563737869262695,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: FNT]",
+      "available_moves": [],
+      "available_switches": [
+        "magearna (pokemon object) [Active: False, Status: None]",
+        "poliwrath (pokemon object) [Active: False, Status: None]",
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 0
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 20.86302947998047,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "flashcannon (Move object)",
+        "fleurcannon (Move object)",
+        "calmmind (Move object)",
+        "shiftgear (Move object)"
+      ],
+      "available_switches": [
+        "poliwrath (pokemon object) [Active: False, Status: None]",
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 20.86302947998047,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "flashcannon (Move object)",
+        "fleurcannon (Move object)",
+        "calmmind (Move object)",
+        "shiftgear (Move object)"
+      ],
+      "available_switches": [
+        "poliwrath (pokemon object) [Active: False, Status: None]",
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 4,
+      "action": 4,
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "poliwrath (pokemon object) [Active: False, Status: None]",
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 22.157835006713867,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": 22.157835006713867,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 21.75801658630371,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 21.970579147338867,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 22.540761947631836,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 22.540761947631836,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 22.540761947631836,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 21.75801658630371,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 21.75801658630371,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": 25.69999885559082,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": 25.69999885559082,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 21.75801658630371,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 21.75801658630371,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": 25.69999885559082,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": 25.69999885559082,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": 25.69999885559082,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "liquidation (Move object)",
+        "closecombat (Move object)",
+        "circlethrow (Move object)"
+      ],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 20,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "flamigo (pokemon object) [Active: False, Status: None]",
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": 23.004453659057617,
+      "active_pokemon": "flamigo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "throatchop (Move object)",
+        "uturn (Move object)",
+        "bravebird (Move object)",
+        "closecombat (Move object)"
+      ],
+      "available_switches": [
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": 22.380334854125977,
+      "active_pokemon": "flamigo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "closecombat (Move object)"
+      ],
+      "available_switches": [
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 22.380334854125977,
+      "active_pokemon": "flamigo (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "closecombat (Move object)"
+      ],
+      "available_switches": [
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": 22.380334854125977,
+      "active_pokemon": "flamigo (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "closecombat (Move object)"
+      ],
+      "available_switches": [
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": 22.380334854125977,
+      "active_pokemon": "flamigo (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "closecombat (Move object)"
+      ],
+      "available_switches": [
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 21.436948776245117,
+      "active_pokemon": "flamigo (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "mimikyu (pokemon object) [Active: False, Status: None]",
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": 20.67974853515625,
+      "active_pokemon": "mimikyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "playrough (Move object)",
+        "drainpunch (Move object)",
+        "swordsdance (Move object)",
+        "shadowsneak (Move object)"
+      ],
+      "available_switches": [
+        "arceusflying (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "battle_num": 15,
+  "outcome": "win",
+  "turns": 32,
+  "timestamp": "2025-10-31T13:47:07.103268",
+  "battle_id": "battle-gen9randombattle-25997",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25997",
+  "team": [
+    {
+      "species": "drifblim",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "golduck",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ironboulder",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "umbreon",
+      "fainted": false,
+      "hp_fraction": 0.48484848484848486
+    },
+    {
+      "species": "vikavolt",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "clefable",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "vivillonelegant",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "dedenne",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "swampert",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "chandelure",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "swalot",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "sinistcha",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 19.749361038208008,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonelegant (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 19.749361038208008,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonelegant (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 19.660490036010742,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": 19.458168029785156,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 19.458168029785156,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 20.064664840698242,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": 20.064664840698242,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": 19.590152740478516,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": 19.590152740478516,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": 19.161149978637695,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": 19.161149978637695,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": 19.161149978637695,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 19.543251037597656,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": 19.56916046142578,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 19.543251037597656,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 19.543251037597656,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "strengthsap (Move object)",
+        "shadowball (Move object)",
+        "airslash (Move object)"
+      ],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 16,
+      "action": 4,
+      "value_estimate": 20.07407569885254,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "golduck (pokemon object) [Active: False, Status: None]",
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 17,
+      "action": 3,
+      "value_estimate": 20.313013076782227,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "nastyplot (Move object)",
+        "icebeam (Move object)",
+        "encore (Move object)",
+        "hydropump (Move object)"
+      ],
+      "available_switches": [
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": 20.55593490600586,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "nastyplot (Move object)",
+        "icebeam (Move object)",
+        "encore (Move object)",
+        "hydropump (Move object)"
+      ],
+      "available_switches": [
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": 20.55593490600586,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "nastyplot (Move object)",
+        "icebeam (Move object)",
+        "encore (Move object)",
+        "hydropump (Move object)"
+      ],
+      "available_switches": [
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": 20.32636833190918,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "nastyplot (Move object)",
+        "icebeam (Move object)",
+        "encore (Move object)",
+        "hydropump (Move object)"
+      ],
+      "available_switches": [
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 21,
+      "action": 1,
+      "value_estimate": 19.985830307006836,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "nastyplot (Move object)",
+        "icebeam (Move object)",
+        "encore (Move object)",
+        "hydropump (Move object)"
+      ],
+      "available_switches": [
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 22,
+      "action": 1,
+      "value_estimate": 19.985830307006836,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "nastyplot (Move object)",
+        "icebeam (Move object)",
+        "encore (Move object)",
+        "hydropump (Move object)"
+      ],
+      "available_switches": [
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "ironboulder (pokemon object) [Active: False, Status: None]",
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 20.976694107055664,
+      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "swordsdance (Move object)",
+        "zenheadbutt (Move object)",
+        "mightycleave (Move object)",
+        "closecombat (Move object)"
+      ],
+      "available_switches": [
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 23,
+      "action": 4,
+      "value_estimate": 20.375444412231445,
+      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "umbreon (pokemon object) [Active: False, Status: None]",
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": 18.88016128540039,
+      "active_pokemon": "umbreon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "protect (Move object)",
+        "toxic (Move object)",
+        "wish (Move object)",
+        "foulplay (Move object)"
+      ],
+      "available_switches": [
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 25,
+      "action": 3,
+      "value_estimate": 18.88016128540039,
+      "active_pokemon": "umbreon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "protect (Move object)",
+        "toxic (Move object)",
+        "wish (Move object)",
+        "foulplay (Move object)"
+      ],
+      "available_switches": [
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 26,
+      "action": 3,
+      "value_estimate": 18.88016128540039,
+      "active_pokemon": "umbreon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "protect (Move object)",
+        "toxic (Move object)",
+        "wish (Move object)",
+        "foulplay (Move object)"
+      ],
+      "available_switches": [
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": 18.88016128540039,
+      "active_pokemon": "umbreon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "protect (Move object)",
+        "toxic (Move object)",
+        "wish (Move object)",
+        "foulplay (Move object)"
+      ],
+      "available_switches": [
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": 18.88016128540039,
+      "active_pokemon": "umbreon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "protect (Move object)",
+        "toxic (Move object)",
+        "wish (Move object)",
+        "foulplay (Move object)"
+      ],
+      "available_switches": [
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": 18.88016128540039,
+      "active_pokemon": "umbreon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "protect (Move object)",
+        "toxic (Move object)",
+        "wish (Move object)",
+        "foulplay (Move object)"
+      ],
+      "available_switches": [
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": 20.237154006958008,
+      "active_pokemon": "umbreon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "protect (Move object)",
+        "toxic (Move object)",
+        "wish (Move object)",
+        "foulplay (Move object)"
+      ],
+      "available_switches": [
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": 20.034868240356445,
+      "active_pokemon": "umbreon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "protect (Move object)",
+        "toxic (Move object)",
+        "wish (Move object)",
+        "foulplay (Move object)"
+      ],
+      "available_switches": [
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": 20.58894157409668,
+      "active_pokemon": "umbreon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "protect (Move object)",
+        "toxic (Move object)",
+        "wish (Move object)",
+        "foulplay (Move object)"
+      ],
+      "available_switches": [
+        "vikavolt (pokemon object) [Active: False, Status: None]",
+        "clefable (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "battle_num": 11,
+  "outcome": "win",
+  "turns": 23,
+  "timestamp": "2025-10-31T13:47:06.924094",
+  "battle_id": "battle-gen9randombattle-25993",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25993",
+  "team": [
+    {
+      "species": "skeledirge",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "necrozmadawnwings",
+      "fainted": false,
+      "hp_fraction": 0.6691176470588235
+    },
+    {
+      "species": "mamoswine",
+      "fainted": false,
+      "hp_fraction": 0.5048231511254019
+    },
+    {
+      "species": "scovillain",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "floatzel",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "kricketune",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "cramorant",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "dipplin",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "mabosstiff",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "magearna",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "probopass",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "spectrier",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": 19.42685890197754,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 1,
+      "value_estimate": 19.295682907104492,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": 19.295682907104492,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 19.295682907104492,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": 19.005353927612305,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mabosstiff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": 19.804588317871094,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magearna (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": 19.62663459777832,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": 19.421144485473633,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 5
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": 19.158794403076172,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mabosstiff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": 19.57679557800293,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": 19.57679557800293,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 12,
+      "action": 1,
+      "value_estimate": 19.57679557800293,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 13,
+      "action": 1,
+      "value_estimate": 19.31719398498535,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": 19.58606719970703,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spectrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "slackoff (Move object)",
+        "shadowball (Move object)",
+        "flamecharge (Move object)",
+        "torchsong (Move object)"
+      ],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "spectrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]",
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 20.927858352661133,
+      "active_pokemon": "necrozmadawnwings (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spectrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "photongeyser (Move object)",
+        "moongeistbeam (Move object)",
+        "dragondance (Move object)",
+        "brickbreak (Move object)"
+      ],
+      "available_switches": [
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 16,
+      "action": 3,
+      "value_estimate": 21.029376983642578,
+      "active_pokemon": "necrozmadawnwings (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mabosstiff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "photongeyser (Move object)",
+        "moongeistbeam (Move object)",
+        "dragondance (Move object)",
+        "brickbreak (Move object)"
+      ],
+      "available_switches": [
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 20.882761001586914,
+      "active_pokemon": "necrozmadawnwings (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "photongeyser (Move object)",
+        "moongeistbeam (Move object)",
+        "dragondance (Move object)",
+        "brickbreak (Move object)"
+      ],
+      "available_switches": [
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "kricketune (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 20.646364212036133,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "taunt (Move object)",
+        "knockoff (Move object)",
+        "pounce (Move object)",
+        "stickyweb (Move object)"
+      ],
+      "available_switches": [
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": 20.226362228393555,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spectrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "taunt (Move object)",
+        "knockoff (Move object)",
+        "pounce (Move object)",
+        "stickyweb (Move object)"
+      ],
+      "available_switches": [
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": 20.226362228393555,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spectrier (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "taunt (Move object)",
+        "knockoff (Move object)",
+        "pounce (Move object)",
+        "stickyweb (Move object)"
+      ],
+      "available_switches": [
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 20.488725662231445,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mabosstiff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "taunt (Move object)",
+        "knockoff (Move object)",
+        "pounce (Move object)",
+        "stickyweb (Move object)"
+      ],
+      "available_switches": [
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 20.488725662231445,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mabosstiff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "taunt (Move object)",
+        "knockoff (Move object)",
+        "pounce (Move object)",
+        "stickyweb (Move object)"
+      ],
+      "available_switches": [
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "mabosstiff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "mamoswine (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 22.046579360961914,
+      "active_pokemon": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mabosstiff (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "iceshard (Move object)",
+        "iciclecrash (Move object)",
+        "stealthrock (Move object)"
+      ],
+      "available_switches": [
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "floatzel (pokemon object) [Active: False, Status: None]",
+        "necrozmadawnwings (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    }
+  ]
+}

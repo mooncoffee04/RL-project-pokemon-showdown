@@ -1,0 +1,150 @@
+{
+  "battle_num": 3,
+  "outcome": "win",
+  "turns": 20,
+  "timestamp": "2025-10-31T15:56:33.702681",
+  "battle_id": "battle-gen9randombattle-26045",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26045",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 20.7172908782959,
+      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 20.82073402404785,
+      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "jolteon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 21.453777313232422,
+      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 20.611286163330078,
+      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 20.82073402404785,
+      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 20.53803062438965,
+      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironjugulis (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 20.413084030151367,
+      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.413084030151367,
+      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 19.755027770996094,
+      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 20.326980590820312,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 20.326980590820312,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 20.326980590820312,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 1,
+      "value_estimate": 19.84870719909668,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": 19.84870719909668,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 20.532682418823242,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 20.532682418823242,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 20.532682418823242,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 20.00734519958496,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 20.053407669067383,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironjugulis (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": 20.17790985107422,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

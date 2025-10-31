@@ -1,0 +1,248 @@
+{
+  "battle_num": 2,
+  "outcome": "loss",
+  "turns": 28,
+  "timestamp": "2025-10-31T15:56:34.546257",
+  "battle_id": "battle-gen9randombattle-26064",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26064",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 0.014204822480678558,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": 0.014204822480678558,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 0.014204822480678558,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 5,
+      "value_estimate": -0.5189332962036133,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 0.012351945042610168,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": 0.04363924264907837,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "jumpluff (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 0.04363924264907837,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "jumpluff (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 7,
+      "value_estimate": -0.0382460281252861,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": -0.03277989849448204,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": -0.03277989849448204,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "jumpluff (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": -0.03277989849448204,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": -0.05289532616734505,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": -0.03931611776351929,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": -0.03931611776351929,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 5,
+      "value_estimate": -0.5455848574638367,
+      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": -0.118475042283535,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 5,
+      "value_estimate": -0.5455848574638367,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 5,
+      "value_estimate": 0.16316822171211243,
+      "active_pokemon": "kilowattrel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 5,
+      "value_estimate": -0.5567560791969299,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 5,
+      "value_estimate": 0.17147032916545868,
+      "active_pokemon": "kilowattrel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 1,
+      "value_estimate": -0.2104446291923523,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": -0.2104446291923523,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 1,
+      "value_estimate": -0.05869969725608826,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": -0.2104446291923523,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 1,
+      "value_estimate": -0.2104446291923523,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": -0.07805235683917999,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 5,
+      "value_estimate": -0.5695374011993408,
+      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 1,
+      "value_estimate": -0.25663721561431885,
+      "active_pokemon": "kilowattrel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 4,
+      "value_estimate": -0.5862204432487488,
+      "active_pokemon": "kilowattrel (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 1,
+      "value_estimate": -0.5191067457199097,
+      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": -0.4469771981239319,
+      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": -0.4469771981239319,
+      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 0,
+      "value_estimate": -0.4469771981239319,
+      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": -0.49559885263442993,
+      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

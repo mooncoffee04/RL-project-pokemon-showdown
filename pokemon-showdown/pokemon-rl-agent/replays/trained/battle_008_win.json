@@ -1,0 +1,122 @@
+{
+  "battle_num": 8,
+  "outcome": "win",
+  "turns": 15,
+  "timestamp": "2025-10-31T15:56:33.901482",
+  "battle_id": "battle-gen9randombattle-26050",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26050",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 20.62677001953125,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "weezinggalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 1,
+      "value_estimate": 20.998445510864258,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": 20.783903121948242,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 22.162683486938477,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 22.162683486938477,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 20.154752731323242,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 21.853200912475586,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": 20.221433639526367,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sunflora (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 3,
+      "value_estimate": 20.221433639526367,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sunflora (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": 20.154752731323242,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": 21.07859230041504,
+      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 1,
+      "value_estimate": 21.07859230041504,
+      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 21.205354690551758,
+      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "weezinggalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 21.205354690551758,
+      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "weezinggalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": 21.500776290893555,
+      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

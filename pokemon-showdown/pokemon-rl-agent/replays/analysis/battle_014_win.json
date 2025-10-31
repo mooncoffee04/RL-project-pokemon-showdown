@@ -1,0 +1,521 @@
+{
+  "battle_num": 14,
+  "outcome": "win",
+  "turns": 21,
+  "timestamp": "2025-10-31T13:47:07.058064",
+  "battle_id": "battle-gen9randombattle-25996",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25996",
+  "team": [
+    {
+      "species": "grimmsnarl",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "ampharos",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "palkiaorigin",
+      "fainted": false,
+      "hp_fraction": 0.5622489959839357
+    },
+    {
+      "species": "greedent",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "spiritomb",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "forretress",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "scovillain",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "barraskewda",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "landorustherian",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "hooh",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "sableye",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "morpeko",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 18.973548889160156,
+      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scovillain (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "spiritbreak (Move object)",
+        "lightscreen (Move object)",
+        "reflect (Move object)",
+        "thunderwave (Move object)"
+      ],
+      "available_switches": [
+        "ampharos (pokemon object) [Active: False, Status: None]",
+        "palkiaorigin (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 19.022920608520508,
+      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scovillain (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "spiritbreak (Move object)",
+        "lightscreen (Move object)",
+        "reflect (Move object)",
+        "thunderwave (Move object)"
+      ],
+      "available_switches": [
+        "ampharos (pokemon object) [Active: False, Status: None]",
+        "palkiaorigin (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 4,
+      "value_estimate": 21.130598068237305,
+      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "scovillain (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "ampharos (pokemon object) [Active: False, Status: None]",
+        "palkiaorigin (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 21.237150192260742,
+      "active_pokemon": "ampharos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scovillain (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dazzlinggleam (Move object)",
+        "focusblast (Move object)",
+        "agility (Move object)",
+        "thunderbolt (Move object)"
+      ],
+      "available_switches": [
+        "palkiaorigin (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 21.237150192260742,
+      "active_pokemon": "ampharos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scovillain (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dazzlinggleam (Move object)",
+        "focusblast (Move object)",
+        "agility (Move object)",
+        "thunderbolt (Move object)"
+      ],
+      "available_switches": [
+        "palkiaorigin (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": 21.858251571655273,
+      "active_pokemon": "ampharos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "dazzlinggleam (Move object)",
+        "focusblast (Move object)",
+        "agility (Move object)",
+        "thunderbolt (Move object)"
+      ],
+      "available_switches": [
+        "palkiaorigin (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "ampharos (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "palkiaorigin (pokemon object) [Active: False, Status: None]",
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": 22.110525131225586,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "hydropump (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": 22.840347290039062,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "hydropump (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": 23.094528198242188,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "hydropump (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": 23.282548904418945,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "hydropump (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": 21.868942260742188,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "hydropump (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 21.621374130249023,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 22.134809494018555,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "hydropump (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 13,
+      "action": 1,
+      "value_estimate": 22.65660285949707,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "hydropump (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 1,
+      "value_estimate": 22.443317413330078,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "hydropump (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 23.311433792114258,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 23.311433792114258,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 23.22237205505371,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "morpeko (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 23.22237205505371,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "morpeko (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 23.130048751831055,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 23.57950782775879,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "morpeko (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 23.57950782775879,
+      "active_pokemon": "palkiaorigin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "morpeko (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "thunderwave (Move object)",
+        "spacialrend (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "greedent (pokemon object) [Active: False, Status: None]",
+        "spiritomb (pokemon object) [Active: False, Status: None]",
+        "forretress (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    }
+  ]
+}

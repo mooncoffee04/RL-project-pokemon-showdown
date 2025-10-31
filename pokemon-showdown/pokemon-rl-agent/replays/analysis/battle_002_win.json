@@ -1,0 +1,596 @@
+{
+  "battle_num": 2,
+  "outcome": "win",
+  "turns": 23,
+  "timestamp": "2025-10-31T13:47:06.592759",
+  "battle_id": "battle-gen9randombattle-25984",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25984",
+  "team": [
+    {
+      "species": "abomasnow",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "carbink",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "golemalola",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "florges",
+      "fainted": false,
+      "hp_fraction": 0.19557195571955718
+    },
+    {
+      "species": "scovillain",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "cyclizar",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "rotomfan",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "oricoriopompom",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "mamoswine",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "keldeoresolute",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "garganacl",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "necrozma",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 20.82421112060547,
+      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "auroraveil (Move object)",
+        "earthquake (Move object)",
+        "blizzard (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 21.277910232543945,
+      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "auroraveil (Move object)",
+        "earthquake (Move object)",
+        "blizzard (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": 21.24589729309082,
+      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "keldeoresolute (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "auroraveil (Move object)",
+        "earthquake (Move object)",
+        "blizzard (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 22.06218147277832,
+      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "auroraveil (Move object)",
+        "earthquake (Move object)",
+        "blizzard (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 20.216432571411133,
+      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "auroraveil (Move object)",
+        "earthquake (Move object)",
+        "blizzard (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 20.382774353027344,
+      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "necrozma (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "auroraveil (Move object)",
+        "earthquake (Move object)",
+        "blizzard (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": 20.764739990234375,
+      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "necrozma (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "auroraveil (Move object)",
+        "earthquake (Move object)",
+        "blizzard (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": 20.985143661499023,
+      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "auroraveil (Move object)",
+        "earthquake (Move object)",
+        "blizzard (Move object)",
+        "woodhammer (Move object)"
+      ],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 20.07407569885254,
+      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "carbink (pokemon object) [Active: False, Status: None]",
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 20.25811195373535,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "rockpolish (Move object)",
+        "irondefense (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 20.45833396911621,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "necrozma (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "rockpolish (Move object)",
+        "irondefense (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": 19.572500228881836,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "rockpolish (Move object)",
+        "irondefense (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": 19.572500228881836,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "rockpolish (Move object)",
+        "irondefense (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": 19.572500228881836,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "rockpolish (Move object)",
+        "irondefense (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 14,
+      "action": 3,
+      "value_estimate": 19.572500228881836,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "bodypress (Move object)",
+        "rockpolish (Move object)",
+        "irondefense (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "golemalola (pokemon object) [Active: False, Status: None]",
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": 25.330238342285156,
+      "active_pokemon": "golemalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "stoneedge (Move object)",
+        "earthquake (Move object)",
+        "doubleedge (Move object)",
+        "explosion (Move object)"
+      ],
+      "available_switches": [
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 15,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "golemalola (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "florges (pokemon object) [Active: False, Status: None]",
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 22.19620132446289,
+      "active_pokemon": "florges (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "terablast (Move object)",
+        "synthesis (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 22.19620132446289,
+      "active_pokemon": "florges (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "terablast (Move object)",
+        "synthesis (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": 21.41351890563965,
+      "active_pokemon": "florges (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "terablast (Move object)",
+        "synthesis (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 22.19620132446289,
+      "active_pokemon": "florges (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "terablast (Move object)",
+        "synthesis (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": 21.41351890563965,
+      "active_pokemon": "florges (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "terablast (Move object)",
+        "synthesis (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 22.673545837402344,
+      "active_pokemon": "florges (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "terablast (Move object)",
+        "synthesis (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 22.673545837402344,
+      "active_pokemon": "florges (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "terablast (Move object)",
+        "synthesis (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 22.673545837402344,
+      "active_pokemon": "florges (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mamoswine (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "calmmind (Move object)",
+        "terablast (Move object)",
+        "synthesis (Move object)",
+        "moonblast (Move object)"
+      ],
+      "available_switches": [
+        "scovillain (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    }
+  ]
+}

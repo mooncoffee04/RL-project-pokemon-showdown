@@ -1,0 +1,283 @@
+{
+  "battle_num": 8,
+  "outcome": "loss",
+  "turns": 34,
+  "timestamp": "2025-10-31T15:56:34.842325",
+  "battle_id": "battle-gen9randombattle-26070",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26070",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": -0.19565555453300476,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "virizion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": 0.06103198602795601,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 0.12848682701587677,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "miraidon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": 0.12848682701587677,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "miraidon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 0.05108347162604332,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": -0.12781618535518646,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": -0.12781618535518646,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 5,
+      "value_estimate": -0.5365684628486633,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": -0.20542743802070618,
+      "active_pokemon": "slaking (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": -0.36217600107192993,
+      "active_pokemon": "slaking (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "virizion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": -0.36217600107192993,
+      "active_pokemon": "slaking (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "virizion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 5,
+      "value_estimate": -0.5455848574638367,
+      "active_pokemon": "slaking (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "virizion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": -0.24459585547447205,
+      "active_pokemon": "whimsicott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "virizion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": -0.24459585547447205,
+      "active_pokemon": "whimsicott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "virizion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 5,
+      "value_estimate": -0.17995969951152802,
+      "active_pokemon": "whimsicott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "passimian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": -0.07967432588338852,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "smeargle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": -0.07967432588338852,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "smeargle (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": -0.18457487225532532,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 0.14481221139431,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 0.14481221139431,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 0.012197747826576233,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "passimian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 5,
+      "value_estimate": -0.5567560791969299,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "passimian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 5,
+      "value_estimate": -0.13781684637069702,
+      "active_pokemon": "whimsicott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "passimian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": -0.13510262966156006,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "passimian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": -0.13510262966156006,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "passimian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": -0.09263872355222702,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": -0.11660677194595337,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": -0.11660677194595337,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": -0.11660677194595337,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 5,
+      "value_estimate": -0.557806134223938,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 1,
+      "value_estimate": -0.2644863426685333,
+      "active_pokemon": "whimsicott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 1,
+      "value_estimate": -0.2644863426685333,
+      "active_pokemon": "whimsicott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 1,
+      "value_estimate": -0.2644863426685333,
+      "active_pokemon": "whimsicott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 29,
+      "action": 4,
+      "value_estimate": -0.5671645998954773,
+      "active_pokemon": "whimsicott (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 30,
+      "action": 1,
+      "value_estimate": -0.21242979168891907,
+      "active_pokemon": "heracross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 31,
+      "action": 1,
+      "value_estimate": -0.21242979168891907,
+      "active_pokemon": "heracross (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 32,
+      "action": 1,
+      "value_estimate": -0.21242979168891907,
+      "active_pokemon": "heracross (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 33,
+      "action": 1,
+      "value_estimate": -0.21242979168891907,
+      "active_pokemon": "heracross (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 34,
+      "action": 1,
+      "value_estimate": -0.1637868583202362,
+      "active_pokemon": "heracross (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "virizion (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

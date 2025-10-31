@@ -1,0 +1,604 @@
+{
+  "battle_num": 6,
+  "outcome": "win",
+  "turns": 23,
+  "timestamp": "2025-10-31T13:47:06.756093",
+  "battle_id": "battle-gen9randombattle-25988",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25988",
+  "team": [
+    {
+      "species": "quagsire",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "gumshoos",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "cyclizar",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "yanmega",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "misdreavus",
+      "fainted": false,
+      "hp_fraction": 0.7755905511811023
+    },
+    {
+      "species": "basculinbluestriped",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "mienshao",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "fluttermane",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "wyrdeer",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "annihilape",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "landorus",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "duraludon",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": 20.520235061645508,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "toxic (Move object)",
+        "earthquake (Move object)",
+        "icebeam (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 1,
+      "value_estimate": 20.520235061645508,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "toxic (Move object)",
+        "earthquake (Move object)",
+        "icebeam (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 21.11907386779785,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "toxic (Move object)",
+        "earthquake (Move object)",
+        "icebeam (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 20.347490310668945,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "toxic (Move object)",
+        "earthquake (Move object)",
+        "icebeam (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": 20.347490310668945,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "toxic (Move object)",
+        "earthquake (Move object)",
+        "icebeam (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 20.347490310668945,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "toxic (Move object)",
+        "earthquake (Move object)",
+        "icebeam (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 7,
+      "action": 1,
+      "value_estimate": 20.347490310668945,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "toxic (Move object)",
+        "earthquake (Move object)",
+        "icebeam (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": 20.347490310668945,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "toxic (Move object)",
+        "earthquake (Move object)",
+        "icebeam (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": 21.11907386779785,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "toxic (Move object)",
+        "earthquake (Move object)",
+        "icebeam (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "quagsire (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "gumshoos (pokemon object) [Active: False, Status: None]",
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": 20.220050811767578,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "doubleedge (Move object)",
+        "uturn (Move object)",
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 21.181547164916992,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 20.602294921875,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 20.602294921875,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)"
+      ],
+      "available_switches": [
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "landorus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "cyclizar (pokemon object) [Active: False, Status: None]",
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 14,
+      "action": 3,
+      "value_estimate": 21.398326873779297,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "rapidspin (Move object)",
+        "shedtail (Move object)",
+        "taunt (Move object)",
+        "dracometeor (Move object)"
+      ],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": 21.398326873779297,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "rapidspin (Move object)",
+        "shedtail (Move object)",
+        "taunt (Move object)",
+        "dracometeor (Move object)"
+      ],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 16,
+      "action": 3,
+      "value_estimate": 21.398326873779297,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorus (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "rapidspin (Move object)",
+        "shedtail (Move object)",
+        "taunt (Move object)",
+        "dracometeor (Move object)"
+      ],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 17,
+      "action": 3,
+      "value_estimate": 21.31304359436035,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "rapidspin (Move object)",
+        "shedtail (Move object)",
+        "taunt (Move object)",
+        "dracometeor (Move object)"
+      ],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": 21.57145881652832,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "rapidspin (Move object)",
+        "shedtail (Move object)",
+        "taunt (Move object)",
+        "dracometeor (Move object)"
+      ],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 18,
+      "action": 4,
+      "value_estimate": 20.375444412231445,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 18.86659049987793,
+      "active_pokemon": "yanmega (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "airslash (Move object)",
+        "bugbuzz (Move object)",
+        "uturn (Move object)",
+        "gigadrain (Move object)"
+      ],
+      "available_switches": [
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 20.375444412231445,
+      "active_pokemon": "yanmega (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "misdreavus (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 20.714662551879883,
+      "active_pokemon": "misdreavus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "willowisp (Move object)",
+        "calmmind (Move object)",
+        "shadowball (Move object)",
+        "drainingkiss (Move object)"
+      ],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": 22.011003494262695,
+      "active_pokemon": "misdreavus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "willowisp (Move object)",
+        "calmmind (Move object)",
+        "shadowball (Move object)",
+        "drainingkiss (Move object)"
+      ],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 21.9345703125,
+      "active_pokemon": "misdreavus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "willowisp (Move object)",
+        "calmmind (Move object)",
+        "shadowball (Move object)",
+        "drainingkiss (Move object)"
+      ],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 21.9345703125,
+      "active_pokemon": "misdreavus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "willowisp (Move object)",
+        "calmmind (Move object)",
+        "shadowball (Move object)",
+        "drainingkiss (Move object)"
+      ],
+      "available_switches": [
+        "yanmega (pokemon object) [Active: False, Status: None]",
+        "basculinbluestriped (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 1
+    }
+  ]
+}

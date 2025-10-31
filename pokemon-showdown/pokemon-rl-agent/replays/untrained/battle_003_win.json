@@ -1,0 +1,192 @@
+{
+  "battle_num": 3,
+  "outcome": "win",
+  "turns": 24,
+  "timestamp": "2025-10-31T13:49:42.255117",
+  "battle_id": "battle-gen9randombattle-26025",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26025",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 0.16062292456626892,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 0.30301278829574585,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 0.07449782639741898,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 5,
+      "value_estimate": -0.09091861546039581,
+      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": -0.020691920071840286,
+      "active_pokemon": "banette (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 0.0541144534945488,
+      "active_pokemon": "banette (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skarmory (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 0.08664558082818985,
+      "active_pokemon": "banette (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chienpao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": -0.06483109295368195,
+      "active_pokemon": "banette (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": -0.059268925338983536,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": -0.29713165760040283,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": -0.29713165760040283,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": -0.37397706508636475,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": -0.37397706508636475,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chienpao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": -0.4067244827747345,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": -0.3627561330795288,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": -0.3561997413635254,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": -0.32535114884376526,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 5,
+      "value_estimate": -0.1279514580965042,
+      "active_pokemon": "tornadus (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": -0.2591910660266876,
+      "active_pokemon": "baxcalibur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": -0.4803659915924072,
+      "active_pokemon": "baxcalibur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": -0.4803659915924072,
+      "active_pokemon": "baxcalibur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": -0.38353466987609863,
+      "active_pokemon": "baxcalibur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": -0.14637517929077148,
+      "active_pokemon": "mightyena (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": -0.40777596831321716,
+      "active_pokemon": "mightyena (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": -0.36246538162231445,
+      "active_pokemon": "mightyena (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": -0.36246538162231445,
+      "active_pokemon": "mightyena (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

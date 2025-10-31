@@ -1,0 +1,586 @@
+{
+  "battle_num": 12,
+  "outcome": "win",
+  "turns": 24,
+  "timestamp": "2025-10-31T13:47:06.958289",
+  "battle_id": "battle-gen9randombattle-25994",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-25994",
+  "team": [
+    {
+      "species": "clodsire",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "crawdaunt",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "cloyster",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "hydreigon",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "palossand",
+      "fainted": false,
+      "hp_fraction": 1.0
+    },
+    {
+      "species": "heracross",
+      "fainted": false,
+      "hp_fraction": 1.0
+    }
+  ],
+  "opponent_team": [
+    {
+      "species": "latias",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "tatsugiri",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "dugtrioalola",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "regieleki",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "mausholdfour",
+      "fainted": true,
+      "hp_fraction": 0
+    },
+    {
+      "species": "fezandipiti",
+      "fainted": true,
+      "hp_fraction": 0
+    }
+  ],
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 20.925058364868164,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "curse (Move object)",
+        "gunkshot (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "crawdaunt (pokemon object) [Active: False, Status: None]",
+        "cloyster (pokemon object) [Active: False, Status: None]",
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 20.925058364868164,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthquake (Move object)",
+        "curse (Move object)",
+        "gunkshot (Move object)",
+        "recover (Move object)"
+      ],
+      "available_switches": [
+        "crawdaunt (pokemon object) [Active: False, Status: None]",
+        "cloyster (pokemon object) [Active: False, Status: None]",
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 6,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 2,
+      "action": 4,
+      "value_estimate": 21.130598068237305,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "crawdaunt (pokemon object) [Active: False, Status: None]",
+        "cloyster (pokemon object) [Active: False, Status: None]",
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": 20.76589584350586,
+      "active_pokemon": "crawdaunt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "knockoff (Move object)",
+        "crabhammer (Move object)",
+        "dragondance (Move object)",
+        "aquajet (Move object)"
+      ],
+      "available_switches": [
+        "cloyster (pokemon object) [Active: False, Status: None]",
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 5,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 3,
+      "action": 4,
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "crawdaunt (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "cloyster (pokemon object) [Active: False, Status: None]",
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": 21.258617401123047,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": 21.258617401123047,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 1
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": 20.946077346801758,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": 20.946077346801758,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": 20.946077346801758,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": 21.09992790222168,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dugtrioalola (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 21.008333206176758,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 21.00873565673828,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regieleki (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 19.891263961791992,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 20.69099998474121,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 4
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 21.9315185546875,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 20.841373443603516,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "drillrun (Move object)",
+        "shellsmash (Move object)",
+        "rockblast (Move object)",
+        "iciclespear (Move object)"
+      ],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 4,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 15,
+      "action": 4,
+      "value_estimate": 20.375444412231445,
+      "active_pokemon": "cloyster (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "hydreigon (pokemon object) [Active: False, Status: None]",
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 16,
+      "action": 3,
+      "value_estimate": 21.6271915435791,
+      "active_pokemon": "hydreigon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "darkpulse (Move object)",
+        "flashcannon (Move object)",
+        "dracometeor (Move object)",
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 20.10398292541504,
+      "active_pokemon": "hydreigon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 20.10398292541504,
+      "active_pokemon": "hydreigon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 20.10398292541504,
+      "active_pokemon": "hydreigon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": 20.10398292541504,
+      "active_pokemon": "hydreigon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 3
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 21.790067672729492,
+      "active_pokemon": "hydreigon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": 21.790067672729492,
+      "active_pokemon": "hydreigon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "fireblast (Move object)"
+      ],
+      "available_switches": [
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 3,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 18.446016311645508,
+      "active_pokemon": "hydreigon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]",
+      "available_moves": [],
+      "available_switches": [
+        "palossand (pokemon object) [Active: False, Status: None]",
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 22.412633895874023,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthpower (Move object)",
+        "sludgebomb (Move object)",
+        "shoreup (Move object)",
+        "shadowball (Move object)"
+      ],
+      "available_switches": [
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 2
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": 21.35886573791504,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mausholdfour (pokemon object) [Active: True, Status: None]",
+      "available_moves": [
+        "earthpower (Move object)",
+        "sludgebomb (Move object)",
+        "shoreup (Move object)",
+        "shadowball (Move object)"
+      ],
+      "available_switches": [
+        "heracross (pokemon object) [Active: False, Status: None]"
+      ],
+      "team_alive": 2,
+      "opponent_alive": 1
+    }
+  ]
+}

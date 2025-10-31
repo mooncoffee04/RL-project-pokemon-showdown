@@ -1,0 +1,262 @@
+{
+  "battle_num": 18,
+  "outcome": "loss",
+  "turns": 31,
+  "timestamp": "2025-10-31T13:49:43.057730",
+  "battle_id": "battle-gen9randombattle-26040",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26040",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 0.021570030599832535,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": 0.021570030599832535,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 0,
+      "value_estimate": -0.013931069523096085,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 0,
+      "value_estimate": -0.030934106558561325,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 0,
+      "value_estimate": -0.02482408843934536,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 0,
+      "value_estimate": -0.10264937579631805,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 0,
+      "value_estimate": -0.06293173134326935,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 0,
+      "value_estimate": -0.07682645320892334,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 0,
+      "value_estimate": -0.0075903404504060745,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": -0.0075903404504060745,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": -0.09603600203990936,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "samurotthisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": -0.09603600203990936,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "samurotthisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": -0.08408623188734055,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 5,
+      "value_estimate": -0.18478497862815857,
+      "active_pokemon": "samurott (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": -0.15467199683189392,
+      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 0.06554087996482849,
+      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": -0.04092482104897499,
+      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": -0.055307935923337936,
+      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "samurotthisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": -0.12412966042757034,
+      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": -0.12412966042757034,
+      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": -0.12412966042757034,
+      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 5,
+      "value_estimate": -0.17881402373313904,
+      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 0.10241954028606415,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 5,
+      "value_estimate": -0.21494238078594208,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": -0.2549307942390442,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": -0.4983508884906769,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "samurotthisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": -0.6007310748100281,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": -0.6007310748100281,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": -0.6007310748100281,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 5,
+      "value_estimate": -0.19386321306228638,
+      "active_pokemon": "azelf (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 0,
+      "value_estimate": -0.02888251096010208,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": 0.15470096468925476,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": 0.15470096468925476,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": 0.15470096468925476,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 4,
+      "value_estimate": -0.15242154896259308,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 0,
+      "value_estimate": -0.03849213570356369,
+      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

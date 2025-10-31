@@ -1,0 +1,311 @@
+{
+  "battle_num": 12,
+  "outcome": "win",
+  "turns": 37,
+  "timestamp": "2025-10-31T15:56:35.057393",
+  "battle_id": "battle-gen9randombattle-26074",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26074",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 1,
+      "value_estimate": 0.05047445371747017,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 0,
+      "value_estimate": -0.3766007423400879,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "avalugghisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 5,
+      "value_estimate": -0.5198098421096802,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": 0.03136066347360611,
+      "active_pokemon": "ironthorns (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": 0.011067017912864685,
+      "active_pokemon": "ironthorns (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 5,
+      "value_estimate": -0.517743706703186,
+      "active_pokemon": "ironthorns (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 0.0247604101896286,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 8,
+      "value_estimate": -0.3604990839958191,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 1,
+      "value_estimate": -0.11005039513111115,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 5,
+      "value_estimate": -0.5297156572341919,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": -0.01575760543346405,
+      "active_pokemon": "ironthorns (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": -0.01575760543346405,
+      "active_pokemon": "ironthorns (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 5,
+      "value_estimate": -0.5412448644638062,
+      "active_pokemon": "ironthorns (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 1,
+      "value_estimate": -0.0681203305721283,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": -0.19742882251739502,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": -0.19742882251739502,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 0.07573998719453812,
+      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 1,
+      "value_estimate": 0.08218735456466675,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 5,
+      "value_estimate": -0.5266930460929871,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": -0.19742882251739502,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": -0.19742882251739502,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 5,
+      "value_estimate": -0.010985147207975388,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": -0.021564528346061707,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": -0.37758928537368774,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 5,
+      "value_estimate": -0.5298188924789429,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": -0.17915450036525726,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": -0.17915450036525726,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 0.0833752378821373,
+      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": -0.17915450036525726,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 5,
+      "value_estimate": 0.01027967780828476,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 5,
+      "value_estimate": -0.5465644001960754,
+      "active_pokemon": "chandelure (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 1,
+      "value_estimate": -0.1510932892560959,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 1,
+      "value_estimate": -0.1510932892560959,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 1,
+      "value_estimate": -0.1510932892560959,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "giratinaorigin (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 5,
+      "value_estimate": 0.028556309640407562,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 5,
+      "value_estimate": -0.557806134223938,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 1,
+      "value_estimate": 0.04491708055138588,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 4,
+      "value_estimate": -0.5671645998954773,
+      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 1,
+      "value_estimate": -0.09996694326400757,
+      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 1,
+      "value_estimate": -0.09996694326400757,
+      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 1,
+      "value_estimate": -0.08388062566518784,
+      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 1,
+      "value_estimate": -0.08388062566518784,
+      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 1,
+      "value_estimate": -0.08388062566518784,
+      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

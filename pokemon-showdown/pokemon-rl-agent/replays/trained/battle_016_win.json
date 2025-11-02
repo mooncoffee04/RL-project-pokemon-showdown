@@ -1,178 +1,150 @@
 {
   "battle_num": 16,
   "outcome": "win",
-  "turns": 21,
-  "timestamp": "2025-10-31T15:56:34.260778",
-  "battle_id": "battle-gen9randombattle-26058",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26058",
+  "turns": 18,
+  "timestamp": "2025-11-02T12:48:59.963033",
+  "battle_id": "battle-gen9randombattle-26309",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26309",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": 19.70046043395996,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.305326461791992,
+      "active_pokemon": "rotomheat (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dialga (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
       "action": 0,
-      "value_estimate": 19.61577033996582,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.747896194458008,
+      "active_pokemon": "rotomheat (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "rotomheat (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
       "action": 3,
-      "value_estimate": 20.003591537475586,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.33030891418457,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": 19.714990615844727,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drifblim (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.33030891418457,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
       "action": 0,
-      "value_estimate": 19.714990615844727,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drifblim (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.239336013793945,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kricketune (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
       "action": 3,
-      "value_estimate": 19.792802810668945,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "seviper (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.587566375732422,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": 19.798707962036133,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gothitelle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.587566375732422,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": 19.798707962036133,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gothitelle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.35140037536621,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": 19.798707962036133,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gothitelle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.55426597595215,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dialga (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
       "action": 0,
-      "value_estimate": 19.73590660095215,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drifblim (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.613758087158203,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
       "action": 0,
-      "value_estimate": 19.73590660095215,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drifblim (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.239336013793945,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kricketune (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "kricketune (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 3,
-      "value_estimate": 19.37853240966797,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 21.80843162536621,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kricketune (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": 19.714990615844727,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drifblim (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 13,
-      "action": 4,
-      "value_estimate": 20.323888778686523,
-      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "drifblim (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 22.42559051513672,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
       "action": 1,
-      "value_estimate": 22.664690017700195,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drifblim (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 22.42559051513672,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 1,
-      "value_estimate": 22.664690017700195,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 22.951921463012695,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rhyperior (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 1,
-      "value_estimate": 22.664690017700195,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 22.951921463012695,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rhyperior (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 2,
-      "value_estimate": 21.305620193481445,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 23.161500930786133,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rhyperior (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
       "action": 1,
-      "value_estimate": 21.558847427368164,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 4,
-      "value_estimate": 21.495088577270508,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 19,
-      "action": 0,
-      "value_estimate": 22.208248138427734,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 20,
-      "action": 0,
-      "value_estimate": 22.21600914001465,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 20,
-      "action": 4,
-      "value_estimate": 22.58433723449707,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 21,
-      "action": 0,
-      "value_estimate": 22.09788703918457,
-      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 22.71723747253418,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

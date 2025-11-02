@@ -1,0 +1,185 @@
+{
+  "battle_num": 8,
+  "outcome": "win",
+  "turns": 21,
+  "timestamp": "2025-11-02T12:38:37.420896",
+  "battle_id": "battle-gen9randombattle-26281",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26281",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 0.4034483730792999,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dugtrio (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": 0.38677629828453064,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 0.3999295234680176,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": 0.40429872274398804,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 0.40429872274398804,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dugtrio (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": 0.6514312028884888,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pikachuhoenn (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 0.40429872274398804,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": 0.6044489741325378,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pikachuhoenn (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": 0.6044489741325378,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pikachuhoenn (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": 0.4034483730792999,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": 0.5428955554962158,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": 0.5428955554962158,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 0.3797272741794586,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 0.3797272741794586,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 6,
+      "value_estimate": 0.34011900424957275,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 0.8777562379837036,
+      "active_pokemon": "walkingwake (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 6,
+      "value_estimate": 0.31964224576950073,
+      "active_pokemon": "walkingwake (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 0.5242217183113098,
+      "active_pokemon": "arcanine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 0.5242217183113098,
+      "active_pokemon": "arcanine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 17,
+      "action": 6,
+      "value_estimate": 0.30346226692199707,
+      "active_pokemon": "arcanine (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 0.20468956232070923,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 0.38388726115226746,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 5,
+      "value_estimate": 0.29060837626457214,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 0.6419180631637573,
+      "active_pokemon": "arbok (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 0.6419180631637573,
+      "active_pokemon": "arbok (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

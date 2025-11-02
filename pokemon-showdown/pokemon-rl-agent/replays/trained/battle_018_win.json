@@ -1,185 +1,185 @@
 {
   "battle_num": 18,
   "outcome": "win",
-  "turns": 23,
-  "timestamp": "2025-10-31T15:56:34.325074",
-  "battle_id": "battle-gen9randombattle-26060",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26060",
+  "turns": 22,
+  "timestamp": "2025-11-02T12:49:00.032332",
+  "battle_id": "battle-gen9randombattle-26311",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26311",
   "decision_log": [
     {
       "turn": 1,
-      "action": 3,
-      "value_estimate": 19.407686233520508,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.550386428833008,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kommoo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 3,
-      "value_estimate": 19.407686233520508,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.699682235717773,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kommoo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 3,
-      "value_estimate": 19.407686233520508,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.543821334838867,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": 19.33256721496582,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.367666244506836,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bruxish (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 1,
-      "value_estimate": 19.33256721496582,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.398130416870117,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 3,
-      "value_estimate": 19.94847297668457,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.398130416870117,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 1,
-      "value_estimate": 19.284860610961914,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.809167861938477,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kommoo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 3,
-      "value_estimate": 19.141305923461914,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.543821334838867,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 3,
-      "value_estimate": 19.50678825378418,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "skeledirge (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.543821334838867,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
     },
     {
-      "turn": 10,
-      "action": 3,
-      "value_estimate": 19.269132614135742,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 10,
+      "turn": 9,
       "action": 4,
-      "value_estimate": 20.07407569885254,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": 19.824403762817383,
+      "active_pokemon": "spectrier (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vaporeon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
       "action": 3,
-      "value_estimate": 21.302793502807617,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.533710479736328,
+      "active_pokemon": "spectrier (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "medicham (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 2,
-      "value_estimate": 21.21516990661621,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "skeledirge (pokemon object) [Active: True, Status: PSN]"
+      "action": 0,
+      "value_estimate": 20.002843856811523,
+      "active_pokemon": "spectrier (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toedscruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 3,
-      "value_estimate": 21.142295837402344,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "galvantula (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.002843856811523,
+      "active_pokemon": "spectrier (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toedscruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 2,
-      "value_estimate": 21.379690170288086,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 19.870508193969727,
+      "active_pokemon": "spectrier (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "spectrier (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 2,
-      "value_estimate": 21.379690170288086,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+      "action": 3,
+      "value_estimate": 21.11492347717285,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 2,
-      "value_estimate": 21.254316329956055,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "skeledirge (pokemon object) [Active: True, Status: PSN]"
+      "action": 3,
+      "value_estimate": 21.11492347717285,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 2,
-      "value_estimate": 21.552091598510742,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+      "action": 3,
+      "value_estimate": 21.11492347717285,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
       "action": 2,
-      "value_estimate": 21.552091598510742,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+      "value_estimate": 21.50812339782715,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "medicham (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 2,
-      "value_estimate": 21.552091598510742,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+      "action": 3,
+      "value_estimate": 23.09126091003418,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toedscruel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 20.375444412231445,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "toedscruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 2,
-      "value_estimate": 21.552091598510742,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceuspsychic (pokemon object) [Active: True, Status: TOX]"
+      "action": 3,
+      "value_estimate": 21.852148056030273,
+      "active_pokemon": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toedscruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
       "action": 3,
-      "value_estimate": 21.46588706970215,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 22.567724227905273,
+      "active_pokemon": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toedscruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 3,
-      "value_estimate": 21.46588706970215,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 22,
-      "action": 4,
-      "value_estimate": 21.880361557006836,
-      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 23,
-      "action": 3,
-      "value_estimate": 21.094572067260742,
-      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regidrago (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.1885929107666,
+      "active_pokemon": "rotomfan (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

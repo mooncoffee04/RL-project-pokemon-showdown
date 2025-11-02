@@ -1,0 +1,213 @@
+{
+  "battle_num": 2,
+  "outcome": "loss",
+  "turns": 24,
+  "timestamp": "2025-11-01T13:07:38.526230",
+  "battle_id": "battle-gen9randombattle-26094",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26094",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 0,
+      "value_estimate": 19.569149017333984,
+      "active_pokemon": "alcremielemoncream (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 1,
+      "action": 4,
+      "value_estimate": 21.130598068237305,
+      "active_pokemon": "alcremielemoncream (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 20.691524505615234,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 1,
+      "value_estimate": 21.48820686340332,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 20.705392837524414,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 1,
+      "value_estimate": 20.705392837524414,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 1,
+      "value_estimate": 20.705392837524414,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 3,
+      "value_estimate": 20.2669620513916,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": 23.007747650146484,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "coalossal (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 1,
+      "value_estimate": 20.705392837524414,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 1,
+      "value_estimate": 20.705392837524414,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": 20.2669620513916,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "arceusground (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": 21.94469451904297,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": 21.467288970947266,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "indeedeef (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": 21.467288970947266,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "indeedeef (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 20.375444412231445,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "indeedeef (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": 19.827957153320312,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "indeedeef (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": 19.297327041625977,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 4,
+      "value_estimate": 14.491249084472656,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 1,
+      "value_estimate": 15.491220474243164,
+      "active_pokemon": "passimian (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": 15.491220474243164,
+      "active_pokemon": "passimian (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 19.3697566986084,
+      "active_pokemon": "passimian (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "indeedeef (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": 20.312541961669922,
+      "active_pokemon": "passimian (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "metagross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 1,
+      "value_estimate": 19.387502670288086,
+      "active_pokemon": "passimian (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "exeggutoralola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 1,
+      "value_estimate": 19.387502670288086,
+      "active_pokemon": "passimian (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "exeggutoralola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 9.535524368286133,
+      "active_pokemon": "passimian (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "exeggutoralola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": 15.799579620361328,
+      "active_pokemon": "squawkabillywhite (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "exeggutoralola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": 15.799579620361328,
+      "active_pokemon": "squawkabillywhite (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "exeggutoralola (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

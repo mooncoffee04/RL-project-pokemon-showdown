@@ -1,171 +1,262 @@
 {
   "battle_num": 1,
   "outcome": "win",
-  "turns": 22,
-  "timestamp": "2025-10-31T15:56:33.602776",
-  "battle_id": "battle-gen9randombattle-26043",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26043",
+  "turns": 32,
+  "timestamp": "2025-11-02T12:48:59.372173",
+  "battle_id": "battle-gen9randombattle-26294",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26294",
   "decision_log": [
     {
       "turn": 1,
       "action": 0,
-      "value_estimate": 19.83331871032715,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sandslash (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.591705322265625,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
       "action": 0,
-      "value_estimate": 19.83331871032715,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sandslash (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.41448402404785,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 3,
-      "value_estimate": 19.612564086914062,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.35367774963379,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinderace (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
       "action": 0,
-      "value_estimate": 20.424741744995117,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.35367774963379,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 3,
-      "value_estimate": 19.443723678588867,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 19.952863693237305,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
       "action": 0,
-      "value_estimate": 20.320558547973633,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.35367774963379,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinderace (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
       "action": 0,
-      "value_estimate": 19.753854751586914,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "phione (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.23726463317871,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "cinderace (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 3,
-      "value_estimate": 19.561452865600586,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.479848861694336,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinderace (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": 19.801664352416992,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zarude (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.715070724487305,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": 20.243799209594727,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.48890495300293,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": 20.243799209594727,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.207822799682617,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": 20.780868530273438,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.62392807006836,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": 20.33570098876953,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sandslash (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.62392807006836,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": 20.927494049072266,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "phione (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.715070724487305,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": 20.33570098876953,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sandslash (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.36513328552246,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 0,
-      "value_estimate": 20.780868530273438,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.36513328552246,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": 20.33570098876953,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zarude (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.48890495300293,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 0,
-      "value_estimate": 20.22602653503418,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.48890495300293,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 4,
+      "value_estimate": 19.302854537963867,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 0,
-      "value_estimate": 20.445341110229492,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "phione (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 18.998798370361328,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 0,
-      "value_estimate": 20.27201271057129,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sandslash (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 18.998798370361328,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 0,
-      "value_estimate": 20.39732551574707,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 21,
-      "action": 4,
-      "value_estimate": 21.130598068237305,
-      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 18.998798370361328,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 2,
-      "value_estimate": 22.700490951538086,
-      "active_pokemon": "ninetalesalola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.12520408630371,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 1,
+      "value_estimate": 20.601938247680664,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "cinderace (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 4,
+      "value_estimate": 20.375444412231445,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "cinderace (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": 20.81590461730957,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinderace (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": 21.41472625732422,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": 21.865154266357422,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 0,
+      "value_estimate": 21.41472625732422,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": 22.7908878326416,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": 22.7908878326416,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": 22.7908878326416,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 4,
+      "value_estimate": 21.436948776245117,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": 23.8675594329834,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": 23.8675594329834,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

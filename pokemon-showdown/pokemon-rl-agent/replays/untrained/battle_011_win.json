@@ -1,360 +1,360 @@
 {
   "battle_num": 11,
   "outcome": "win",
-  "turns": 45,
-  "timestamp": "2025-10-31T15:56:35.007548",
-  "battle_id": "battle-gen9randombattle-26073",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26073",
+  "turns": 46,
+  "timestamp": "2025-11-02T12:49:01.081240",
+  "battle_id": "battle-gen9randombattle-26324",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26324",
   "decision_log": [
     {
       "turn": 1,
-      "action": 2,
-      "value_estimate": -0.15976828336715698,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gliscor (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.4146221876144409,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "serperior (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 2,
-      "value_estimate": -0.15976828336715698,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+      "action": 3,
+      "value_estimate": -0.16977424919605255,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "serperior (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 2,
-      "value_estimate": 0.026498114690184593,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2653983533382416,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 2,
-      "value_estimate": 0.026498114690184593,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1295471489429474,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 2,
-      "value_estimate": -0.12288781255483627,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2706570327281952,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lanturn (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 2,
-      "value_estimate": -0.2996995449066162,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.13337776064872742,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 2,
-      "value_estimate": -0.12257000803947449,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "wyrdeer (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2706570327281952,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lanturn (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 2,
-      "value_estimate": -0.20701144635677338,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.18021976947784424,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "serperior (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 2,
-      "value_estimate": -0.2996995449066162,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 9,
-      "action": 5,
-      "value_estimate": -0.5365684628486633,
-      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.18021976947784424,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "serperior (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 1,
-      "value_estimate": -0.2242755889892578,
-      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.18021976947784424,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "serperior (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 1,
-      "value_estimate": -0.17535969614982605,
-      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.25637131929397583,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 1,
-      "value_estimate": -0.24350525438785553,
-      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+      "action": 3,
+      "value_estimate": -0.25637131929397583,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 1,
-      "value_estimate": -0.17535969614982605,
-      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.5291454195976257,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 2,
-      "value_estimate": -0.31340891122817993,
-      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.44782018661499023,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 2,
-      "value_estimate": -0.31340891122817993,
-      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.44782018661499023,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 2,
-      "value_estimate": -0.31340891122817993,
-      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.44782018661499023,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 2,
-      "value_estimate": -0.31340891122817993,
-      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 17,
-      "action": 5,
-      "value_estimate": -0.5626561641693115,
-      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4586601257324219,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 2,
-      "value_estimate": -0.25183582305908203,
-      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 5,
-      "value_estimate": -0.5720034241676331,
-      "active_pokemon": "ogerponhearthflame (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4586601257324219,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 2,
-      "value_estimate": -0.09948278218507767,
-      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4586601257324219,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 2,
-      "value_estimate": -0.28728199005126953,
-      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4586601257324219,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 2,
-      "value_estimate": 0.0731607973575592,
-      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4586601257324219,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 2,
-      "value_estimate": -0.08403459936380386,
-      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.6526665687561035,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "serperior (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 2,
-      "value_estimate": -0.26882362365722656,
-      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.7098385095596313,
+      "active_pokemon": "urshifurapidstrike (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 2,
-      "value_estimate": 0.06309745460748672,
-      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.25820404291152954,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "lanturn (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 2,
-      "value_estimate": 0.06309745460748672,
-      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.25820404291152954,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "lanturn (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 2,
-      "value_estimate": -0.26882362365722656,
-      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 26,
-      "action": 5,
-      "value_estimate": -0.5637075901031494,
-      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.17670337855815887,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 1,
-      "value_estimate": -0.2524731159210205,
-      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.14515164494514465,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 1,
-      "value_estimate": -0.2524731159210205,
-      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: PAR]"
+      "action": 3,
+      "value_estimate": -0.17670337855815887,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 4,
-      "value_estimate": -0.09101981669664383,
-      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+      "action": 3,
+      "value_estimate": -0.5368804931640625,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 8,
+      "value_estimate": -0.45074740052223206,
+      "active_pokemon": "girafarig (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
-      "action": 1,
-      "value_estimate": -0.062218666076660156,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.32329654693603516,
+      "active_pokemon": "urshifurapidstrike (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.32329654693603516,
+      "active_pokemon": "urshifurapidstrike (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 32,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.32329654693603516,
+      "active_pokemon": "urshifurapidstrike (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 33,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.30170243978500366,
+      "active_pokemon": "urshifurapidstrike (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 34,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.30170243978500366,
+      "active_pokemon": "urshifurapidstrike (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 35,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.32329654693603516,
+      "active_pokemon": "urshifurapidstrike (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 6,
+      "value_estimate": -0.4594704508781433,
+      "active_pokemon": "urshifurapidstrike (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 36,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+      "action": 6,
+      "value_estimate": -0.6253817081451416,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 37,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.324409544467926,
+      "active_pokemon": "coalossal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 6,
+      "value_estimate": -0.461674302816391,
+      "active_pokemon": "coalossal (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "feraligatr (pokemon object) [Active: True, Status: FNT]"
     },
     {
       "turn": 38,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.5966840982437134,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 39,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.5966840982437134,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 5,
+      "value_estimate": -0.4720974862575531,
+      "active_pokemon": "cresselia (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 40,
-      "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+      "action": 3,
+      "value_estimate": -0.8072435855865479,
+      "active_pokemon": "koraidon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 41,
       "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+      "value_estimate": -0.5014076828956604,
+      "active_pokemon": "koraidon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 42,
       "action": 0,
-      "value_estimate": -0.45109447836875916,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+      "value_estimate": -0.4900738000869751,
+      "active_pokemon": "koraidon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 43,
       "action": 0,
-      "value_estimate": -0.44815191626548767,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 44,
-      "action": 0,
-      "value_estimate": -0.44815191626548767,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.4900738000869751,
+      "active_pokemon": "koraidon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "granbull (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 44,
       "action": 4,
-      "value_estimate": -0.5594068765640259,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: FNT]"
+      "value_estimate": -0.9573040008544922,
+      "active_pokemon": "koraidon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 45,
-      "action": 1,
-      "value_estimate": -0.2036166787147522,
-      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: PAR]"
+      "action": 3,
+      "value_estimate": -0.27626878023147583,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "serperior (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 3,
+      "value_estimate": -0.2606754004955292,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

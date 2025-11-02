@@ -1,0 +1,584 @@
+{
+  "battle_num": 7,
+  "outcome": "loss",
+  "turns": 77,
+  "timestamp": "2025-11-02T10:41:59.648733",
+  "battle_id": "battle-gen9randombattle-26240",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26240",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 1.223771572113037,
+      "active_pokemon": "froslass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 0.9847847819328308,
+      "active_pokemon": "froslass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 4,
+      "value_estimate": 0.8563477396965027,
+      "active_pokemon": "froslass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 4,
+      "value_estimate": 0.622505784034729,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 0.7952063083648682,
+      "active_pokemon": "froslass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 4,
+      "value_estimate": 0.9696214199066162,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 0.9456719160079956,
+      "active_pokemon": "froslass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 0.27781441807746887,
+      "active_pokemon": "tinkaton (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 0.9353846311569214,
+      "active_pokemon": "froslass (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 0.7541871070861816,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 0.3012758791446686,
+      "active_pokemon": "froslass (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 4,
+      "value_estimate": 0.7386724948883057,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 0.9928246736526489,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 4,
+      "value_estimate": 0.8007453083992004,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 0.9928246736526489,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 1.0925877094268799,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 4,
+      "value_estimate": 1.0925886631011963,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 4,
+      "value_estimate": 0.6345936059951782,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 4,
+      "value_estimate": 0.9928246736526489,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 4,
+      "value_estimate": 2.1163077354431152,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 0.9928246736526489,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 4,
+      "value_estimate": 2.1163077354431152,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 4,
+      "value_estimate": 0.9928246736526489,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 1.0925877094268799,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 4,
+      "value_estimate": 1.0925886631011963,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 0.7662620544433594,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 0.9928246736526489,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 4,
+      "value_estimate": 0.8007453083992004,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 4,
+      "value_estimate": 0.9928246736526489,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": 0.8888432383537292,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 4,
+      "value_estimate": 1.0925877094268799,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 4,
+      "value_estimate": 0.32693129777908325,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 4,
+      "value_estimate": 1.0888437032699585,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 4,
+      "value_estimate": 1.6295393705368042,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 4,
+      "value_estimate": 0.6175093650817871,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 4,
+      "value_estimate": 1.6295393705368042,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 4,
+      "value_estimate": 0.6175093650817871,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 4,
+      "value_estimate": 0.9388935565948486,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 4,
+      "value_estimate": 0.7894679307937622,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 4,
+      "value_estimate": 1.6295393705368042,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 4,
+      "value_estimate": 1.0888437032699585,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 4,
+      "value_estimate": 0.8806214332580566,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 4,
+      "value_estimate": 2.1296324729919434,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 4,
+      "value_estimate": 1.039077639579773,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 4,
+      "value_estimate": 2.1296324729919434,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 4,
+      "value_estimate": 1.0315155982971191,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 4,
+      "value_estimate": 2.1296324729919434,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 4,
+      "value_estimate": 0.9388935565948486,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": 0.882030725479126,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 4,
+      "value_estimate": 0.9388935565948486,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 4,
+      "value_estimate": 0.882030725479126,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 4,
+      "value_estimate": 1.6295393705368042,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 4,
+      "value_estimate": 1.0888437032699585,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 4,
+      "value_estimate": 0.9388935565948486,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 4,
+      "value_estimate": 0.7561123371124268,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 4,
+      "value_estimate": 0.8806214332580566,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 4,
+      "value_estimate": 0.7894679307937622,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 4,
+      "value_estimate": 0.8806214332580566,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 4,
+      "value_estimate": 0.6175093650817871,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 4,
+      "value_estimate": 0.9388935565948486,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 4,
+      "value_estimate": 1.0888437032699585,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 4,
+      "value_estimate": 1.6295393705368042,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 4,
+      "value_estimate": 0.7561123371124268,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ceruledge (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 4,
+      "value_estimate": 1.039077639579773,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 62,
+      "action": 4,
+      "value_estimate": 2.1296324729919434,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 63,
+      "action": 4,
+      "value_estimate": 1.6295393705368042,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 4,
+      "value_estimate": 2.1296324729919434,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 4,
+      "value_estimate": 0.3526727855205536,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 4,
+      "value_estimate": 2.151461124420166,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 4,
+      "value_estimate": 0.8128457069396973,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 67,
+      "action": 4,
+      "value_estimate": 2.151461124420166,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 68,
+      "action": 4,
+      "value_estimate": 0.8804489374160767,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 69,
+      "action": 4,
+      "value_estimate": 0.7861977815628052,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 69,
+      "action": 4,
+      "value_estimate": 0.38059675693511963,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 70,
+      "action": 1,
+      "value_estimate": 0.7817068099975586,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 71,
+      "action": 1,
+      "value_estimate": 2.196157932281494,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 72,
+      "action": 3,
+      "value_estimate": 0.883513867855072,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 73,
+      "action": 1,
+      "value_estimate": 0.5902383923530579,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 74,
+      "action": 1,
+      "value_estimate": 1.1328392028808594,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 75,
+      "action": 1,
+      "value_estimate": 0.5902383923530579,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 76,
+      "action": 1,
+      "value_estimate": 0.5902383923530579,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 77,
+      "action": 1,
+      "value_estimate": 1.1328392028808594,
+      "active_pokemon": "skarmory (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

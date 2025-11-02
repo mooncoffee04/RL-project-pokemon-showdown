@@ -1,0 +1,451 @@
+{
+  "battle_num": 17,
+  "outcome": "loss",
+  "turns": 58,
+  "timestamp": "2025-11-02T12:38:38.175291",
+  "battle_id": "battle-gen9randombattle-26290",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26290",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 0.5001958012580872,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxtricity (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 2,
+      "value_estimate": 0.5001958012580872,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxtricity (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 0.378879576921463,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greninja (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": 0.5001958012580872,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greninja (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 0.46995046734809875,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": 0.44120991230010986,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kommoo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 6,
+      "value_estimate": 0.330316424369812,
+      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "kommoo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 0.3746766448020935,
+      "active_pokemon": "bisharp (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kommoo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 6,
+      "value_estimate": 0.31162622570991516,
+      "active_pokemon": "bisharp (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "kommoo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": 0.5410637259483337,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kommoo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": 0.6225982904434204,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": 0.5410637259483337,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kommoo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": 0.6225982904434204,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": 0.6214319467544556,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "luxray (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 0.5448496341705322,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 0.6065309643745422,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "luxray (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 0.6214319467544556,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "greninja (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 0.6045538187026978,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 0.6045538187026978,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 0.6468549966812134,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 6,
+      "value_estimate": 0.30346226692199707,
+      "active_pokemon": "flygon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 0.6903953552246094,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 0.6903953552246094,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 2,
+      "value_estimate": 0.3613765835762024,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 5,
+      "value_estimate": 0.2879679799079895,
+      "active_pokemon": "regice (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 2,
+      "value_estimate": 0.5134413242340088,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 2,
+      "value_estimate": 0.5134413242340088,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 2,
+      "value_estimate": 0.5134413242340088,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 2,
+      "value_estimate": 0.5134413242340088,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 2,
+      "value_estimate": 0.5134413242340088,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 2,
+      "value_estimate": 0.5134413242340088,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 2,
+      "value_estimate": 0.5134413242340088,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 2,
+      "value_estimate": 0.5134413242340088,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 2,
+      "value_estimate": 0.5134413242340088,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "enamorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 2,
+      "value_estimate": 0.5875574946403503,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 2,
+      "value_estimate": 0.6463647484779358,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 2,
+      "value_estimate": 0.6463647484779358,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 4,
+      "value_estimate": 0.2690162658691406,
+      "active_pokemon": "venusaur (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 2,
+      "value_estimate": 0.5492937564849854,
+      "active_pokemon": "dugtrio (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 2,
+      "value_estimate": 0.5492937564849854,
+      "active_pokemon": "dugtrio (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

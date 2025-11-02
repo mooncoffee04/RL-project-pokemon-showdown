@@ -1,297 +1,143 @@
 {
   "battle_num": 7,
   "outcome": "win",
-  "turns": 37,
-  "timestamp": "2025-10-31T15:56:33.877228",
-  "battle_id": "battle-gen9randombattle-26049",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26049",
+  "turns": 16,
+  "timestamp": "2025-11-02T12:48:59.662599",
+  "battle_id": "battle-gen9randombattle-26300",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26300",
   "decision_log": [
     {
       "turn": 1,
-      "action": 2,
-      "value_estimate": 20.460609436035156,
-      "active_pokemon": "qwilfishhisui (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 22.405641555786133,
+      "active_pokemon": "pawmot (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 2,
-      "value_estimate": 20.293212890625,
-      "active_pokemon": "qwilfishhisui (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.795228958129883,
+      "active_pokemon": "pawmot (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": 22.8009090423584,
-      "active_pokemon": "qwilfishhisui (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.577775955200195,
+      "active_pokemon": "pawmot (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "yanmega (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 2,
-      "value_estimate": 20.733076095581055,
-      "active_pokemon": "qwilfishhisui (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.334299087524414,
+      "active_pokemon": "pawmot (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sawsbuck (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 2,
-      "value_estimate": 20.350364685058594,
-      "active_pokemon": "qwilfishhisui (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.599998474121094,
+      "active_pokemon": "pawmot (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "camerupt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "pawmot (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "camerupt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
       "action": 3,
-      "value_estimate": 20.41171646118164,
-      "active_pokemon": "qwilfishhisui (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 6,
-      "action": 4,
-      "value_estimate": 20.323888778686523,
-      "active_pokemon": "qwilfishhisui (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 24.41460609436035,
+      "active_pokemon": "wugtrio (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "camerupt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
       "action": 0,
-      "value_estimate": 20.63682746887207,
-      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.9321231842041,
+      "active_pokemon": "wugtrio (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sawsbuck (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "wugtrio (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "sawsbuck (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": 21.100244522094727,
-      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 22.203479766845703,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sawsbuck (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": 21.100244522094727,
-      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.67794418334961,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 3,
-      "value_estimate": 22.005191802978516,
-      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 10,
-      "action": 4,
-      "value_estimate": 21.495088577270508,
-      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.67794418334961,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": 23.587312698364258,
-      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 21.636295318603516,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "sawsbuck (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 20.375444412231445,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "sawsbuck (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 3,
-      "value_estimate": 21.21430778503418,
-      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brambleghast (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 22.06195831298828,
+      "active_pokemon": "altaria (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sawsbuck (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 3,
-      "value_estimate": 21.21430778503418,
-      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brambleghast (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.374547958374023,
+      "active_pokemon": "altaria (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": 21.74498748779297,
-      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brambleghast (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.374547958374023,
+      "active_pokemon": "altaria (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
       "action": 0,
-      "value_estimate": 23.587312698364258,
-      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "probopass (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.864957809448242,
+      "active_pokemon": "altaria (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "camerupt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 3,
-      "value_estimate": 22.194900512695312,
-      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 16,
-      "action": 4,
-      "value_estimate": 22.58433723449707,
-      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 17,
-      "action": 2,
-      "value_estimate": 22.70956802368164,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 1,
-      "value_estimate": 20.97730827331543,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "electrodehisui (pokemon object) [Active: True, Status: TOX]"
-    },
-    {
-      "turn": 19,
-      "action": 1,
-      "value_estimate": 20.97730827331543,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "electrodehisui (pokemon object) [Active: True, Status: TOX]"
-    },
-    {
-      "turn": 20,
-      "action": 3,
-      "value_estimate": 22.117734909057617,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drednaw (pokemon object) [Active: True, Status: TOX]"
-    },
-    {
-      "turn": 21,
-      "action": 2,
-      "value_estimate": 21.055635452270508,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 22,
-      "action": 1,
-      "value_estimate": 19.859724044799805,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "electrodehisui (pokemon object) [Active: True, Status: TOX]"
-    },
-    {
-      "turn": 23,
-      "action": 1,
-      "value_estimate": 19.859724044799805,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "electrodehisui (pokemon object) [Active: True, Status: TOX]"
-    },
-    {
-      "turn": 24,
-      "action": 3,
-      "value_estimate": 23.060091018676758,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drednaw (pokemon object) [Active: True, Status: TOX]"
-    },
-    {
-      "turn": 25,
-      "action": 2,
-      "value_estimate": 22.70956802368164,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 26,
-      "action": 2,
-      "value_estimate": 22.70956802368164,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 27,
-      "action": 2,
-      "value_estimate": 22.70956802368164,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 28,
-      "action": 2,
-      "value_estimate": 22.70956802368164,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 28,
-      "action": 4,
-      "value_estimate": 21.436948776245117,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 29,
-      "action": 2,
-      "value_estimate": 23.561304092407227,
-      "active_pokemon": "salamence (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 30,
-      "action": 2,
-      "value_estimate": 23.561304092407227,
-      "active_pokemon": "salamence (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 31,
-      "action": 2,
-      "value_estimate": 23.561304092407227,
-      "active_pokemon": "salamence (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 32,
-      "action": 2,
-      "value_estimate": 23.561304092407227,
-      "active_pokemon": "salamence (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 33,
-      "action": 2,
-      "value_estimate": 23.561304092407227,
-      "active_pokemon": "salamence (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 34,
-      "action": 2,
-      "value_estimate": 23.561304092407227,
-      "active_pokemon": "salamence (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 35,
-      "action": 2,
-      "value_estimate": 23.561304092407227,
-      "active_pokemon": "salamence (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 36,
-      "action": 2,
-      "value_estimate": 23.561304092407227,
-      "active_pokemon": "salamence (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 37,
       "action": 0,
-      "value_estimate": 25.54161834716797,
-      "active_pokemon": "salamence (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "slitherwing (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 22.819650650024414,
+      "active_pokemon": "altaria (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "camerupt (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

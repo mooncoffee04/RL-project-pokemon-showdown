@@ -1,269 +1,234 @@
 {
   "battle_num": 9,
   "outcome": "win",
-  "turns": 33,
-  "timestamp": "2025-10-31T15:56:33.949494",
-  "battle_id": "battle-gen9randombattle-26051",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26051",
+  "turns": 29,
+  "timestamp": "2025-11-02T12:48:59.746262",
+  "battle_id": "battle-gen9randombattle-26302",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26302",
   "decision_log": [
     {
       "turn": 1,
-      "action": 2,
-      "value_estimate": 20.33537483215332,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clodsire (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 19.46688461303711,
+      "active_pokemon": "brutebonnet (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "darkrai (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 1,
+      "action": 4,
+      "value_estimate": 21.130598068237305,
+      "active_pokemon": "brutebonnet (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "darkrai (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 2,
-      "value_estimate": 20.33537483215332,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clodsire (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.158660888671875,
+      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "darkrai (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 2,
-      "value_estimate": 20.33537483215332,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clodsire (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.53388786315918,
+      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "darkrai (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 2,
-      "value_estimate": 20.33537483215332,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clodsire (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.350637435913086,
+      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 4,
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 2,
-      "value_estimate": 20.199419021606445,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 22.195724487304688,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 2,
-      "value_estimate": 20.199419021606445,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 22.11064338684082,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 2,
-      "value_estimate": 20.19725227355957,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 22.11064338684082,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 2,
-      "value_estimate": 20.19725227355957,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.840177536010742,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
       "action": 0,
-      "value_estimate": 19.720176696777344,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.840177536010742,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 4,
-      "value_estimate": 19.59181022644043,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clodsire (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.840177536010742,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
       "action": 0,
-      "value_estimate": 19.595901489257812,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "palkia (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.840177536010742,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
       "action": 0,
-      "value_estimate": 19.98393440246582,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.840177536010742,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
       "action": 0,
-      "value_estimate": 19.98393440246582,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.590360641479492,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": 19.98393440246582,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 22.476749420166016,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "groudon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": 19.836774826049805,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glaceon (pokemon object) [Active: True, Status: PSN]"
+      "action": 2,
+      "value_estimate": 21.45573616027832,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 4,
-      "value_estimate": 19.98993492126465,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sudowoodo (pokemon object) [Active: True, Status: PSN]"
-    },
-    {
-      "turn": 16,
-      "action": 4,
-      "value_estimate": 19.192676544189453,
-      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "sudowoodo (pokemon object) [Active: True, Status: PSN]"
+      "action": 2,
+      "value_estimate": 21.45573616027832,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cramorant (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": 19.036531448364258,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sudowoodo (pokemon object) [Active: True, Status: PSN]"
+      "action": 2,
+      "value_estimate": 20.245487213134766,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 4,
-      "value_estimate": 19.87019157409668,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.678457260131836,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 0,
-      "value_estimate": 19.80116844177246,
-      "active_pokemon": "drednaw (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.45573616027832,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 3,
-      "value_estimate": 20.431997299194336,
-      "active_pokemon": "drednaw (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "palkia (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.45573616027832,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 0,
-      "value_estimate": 20.506046295166016,
-      "active_pokemon": "drednaw (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 21,
-      "action": 4,
-      "value_estimate": 19.302854537963867,
-      "active_pokemon": "drednaw (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: FNT]"
+      "action": 2,
+      "value_estimate": 21.45573616027832,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 0,
-      "value_estimate": 17.899112701416016,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.69538116455078,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 0,
-      "value_estimate": 18.970394134521484,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.69538116455078,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 0,
-      "value_estimate": 18.970394134521484,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.69538116455078,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 0,
-      "value_estimate": 18.970394134521484,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.69538116455078,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 0,
-      "value_estimate": 20.505224227905273,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.45573616027832,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 0,
-      "value_estimate": 20.774547576904297,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "palkia (pokemon object) [Active: True, Status: PSN]"
-    },
-    {
-      "turn": 27,
-      "action": 4,
-      "value_estimate": 10.275952339172363,
-      "active_pokemon": "zoroark (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "sudowoodo (pokemon object) [Active: True, Status: PSN]"
+      "action": 2,
+      "value_estimate": 21.45573616027832,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
       "action": 2,
-      "value_estimate": 13.51063060760498,
-      "active_pokemon": "reshiram (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sudowoodo (pokemon object) [Active: True, Status: PSN]"
+      "value_estimate": 21.45573616027832,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 0,
-      "value_estimate": 13.288911819458008,
-      "active_pokemon": "reshiram (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clodsire (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 30,
-      "action": 0,
-      "value_estimate": 18.84502410888672,
-      "active_pokemon": "reshiram (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "palkia (pokemon object) [Active: True, Status: PSN]"
-    },
-    {
-      "turn": 31,
-      "action": 0,
-      "value_estimate": 18.84502410888672,
-      "active_pokemon": "reshiram (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "palkia (pokemon object) [Active: True, Status: PSN]"
-    },
-    {
-      "turn": 31,
-      "action": 4,
-      "value_estimate": 9.535524368286133,
-      "active_pokemon": "reshiram (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "palkia (pokemon object) [Active: True, Status: PSN]"
-    },
-    {
-      "turn": 32,
-      "action": 0,
-      "value_estimate": 10.127361297607422,
-      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "palkia (pokemon object) [Active: True, Status: PSN]"
-    },
-    {
-      "turn": 33,
-      "action": 0,
-      "value_estimate": 9.761188507080078,
-      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clodsire (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 22.193239212036133,
+      "active_pokemon": "corviknight (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

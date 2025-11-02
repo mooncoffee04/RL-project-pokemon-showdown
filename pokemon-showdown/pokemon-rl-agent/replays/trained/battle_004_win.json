@@ -1,150 +1,143 @@
 {
   "battle_num": 4,
   "outcome": "win",
-  "turns": 18,
-  "timestamp": "2025-10-31T15:56:33.731360",
-  "battle_id": "battle-gen9randombattle-26046",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26046",
+  "turns": 17,
+  "timestamp": "2025-11-02T12:48:59.522300",
+  "battle_id": "battle-gen9randombattle-26297",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26297",
   "decision_log": [
     {
       "turn": 1,
-      "action": 2,
-      "value_estimate": 19.93110466003418,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 22.580080032348633,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxtricity (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 2,
-      "value_estimate": 19.93110466003418,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.03525733947754,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 3,
-      "value_estimate": 19.768014907836914,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.607030868530273,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 3,
-      "value_estimate": 19.768014907836914,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.2636775970459,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 3,
-      "value_estimate": 20.544218063354492,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.2636775970459,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 1,
-      "value_estimate": 20.033523559570312,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "smeargle (pokemon object) [Active: True, Status: PSN]"
+      "action": 0,
+      "value_estimate": 20.607030868530273,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 2,
-      "value_estimate": 19.634546279907227,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.607030868530273,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 3,
-      "value_estimate": 20.271631240844727,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.3450927734375,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "oricoriosensu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 1,
-      "value_estimate": 19.69782829284668,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.3450927734375,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "oricoriosensu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "gumshoos (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 3,
-      "value_estimate": 20.544218063354492,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.22841453552246,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 3,
-      "value_estimate": 19.804224014282227,
-      "active_pokemon": "miniorblue (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.22841453552246,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 3,
-      "value_estimate": 19.804224014282227,
-      "active_pokemon": "miniorblue (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 12,
-      "action": 4,
-      "value_estimate": 20.712614059448242,
-      "active_pokemon": "miniorblue (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.22841453552246,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 2,
-      "value_estimate": 20.79730796813965,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.22841453552246,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "chansey (pokemon object) [Active: True, Status: PSN]"
     },
     {
       "turn": 14,
       "action": 2,
-      "value_estimate": 20.79730796813965,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.256811141967773,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "oricoriosensu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
       "action": 2,
-      "value_estimate": 20.79730796813965,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.256811141967773,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "oricoriosensu (pokemon object) [Active: True, Status: None]"
     },
     {
-      "turn": 16,
-      "action": 1,
-      "value_estimate": 21.752153396606445,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "beartic (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 16,
+      "turn": 15,
       "action": 4,
-      "value_estimate": 21.495088577270508,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "beartic (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 21.880361557006836,
+      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "oricoriosensu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 22.33220863342285,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricoriosensu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": 21.130041122436523,
-      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "beartic (pokemon object) [Active: True, Status: BRN]"
-    },
-    {
-      "turn": 18,
-      "action": 0,
-      "value_estimate": 21.346885681152344,
-      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "beartic (pokemon object) [Active: True, Status: BRN]"
+      "action": 2,
+      "value_estimate": 22.33220863342285,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricoriosensu (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

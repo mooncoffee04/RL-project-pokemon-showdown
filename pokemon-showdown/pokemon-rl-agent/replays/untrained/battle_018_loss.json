@@ -1,262 +1,542 @@
 {
   "battle_num": 18,
   "outcome": "loss",
-  "turns": 31,
-  "timestamp": "2025-10-31T13:49:43.057730",
-  "battle_id": "battle-gen9randombattle-26040",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26040",
+  "turns": 66,
+  "timestamp": "2025-11-02T10:42:00.617445",
+  "battle_id": "battle-gen9randombattle-26251",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26251",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": 0.021570030599832535,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 0.5049775242805481,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 1,
+      "action": 4,
+      "value_estimate": 0.24120381474494934,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": 0.021570030599832535,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 0.9452431797981262,
+      "active_pokemon": "hariyama (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": -0.013931069523096085,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 0.9452431797981262,
+      "active_pokemon": "hariyama (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": -0.030934106558561325,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8478422164916992,
+      "active_pokemon": "hariyama (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": -0.02482408843934536,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.5577598810195923,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": -0.10264937579631805,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 0.991228461265564,
+      "active_pokemon": "hariyama (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 4,
+      "value_estimate": 0.26931849122047424,
+      "active_pokemon": "hariyama (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": -0.06293173134326935,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 0.5024325847625732,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 0.2723764479160309,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": -0.07682645320892334,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.975193977355957,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": -0.0075903404504060745,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.5765748023986816,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": -0.0075903404504060745,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": 0.7285107374191284,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": -0.09603600203990936,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "samurotthisui (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8145546913146973,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": -0.09603600203990936,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "samurotthisui (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 0.8951083421707153,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "roaringmoon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 4,
+      "value_estimate": 0.27781441807746887,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": -0.08408623188734055,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 13,
-      "action": 5,
-      "value_estimate": -0.18478497862815857,
-      "active_pokemon": "samurott (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.9448232054710388,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": -0.15467199683189392,
-      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 0.7076729536056519,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 0.27781441807746887,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": 0.06554087996482849,
-      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "fluttermane (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8284493088722229,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 0,
-      "value_estimate": -0.04092482104897499,
-      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 0.8951083421707153,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "roaringmoon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 4,
+      "value_estimate": 0.2978094816207886,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": -0.055307935923337936,
-      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "samurotthisui (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.315563678741455,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 0,
-      "value_estimate": -0.12412966042757034,
-      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.5426509380340576,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 0,
-      "value_estimate": -0.12412966042757034,
-      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8868215084075928,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "roaringmoon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 0,
-      "value_estimate": -0.12412966042757034,
-      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 20,
-      "action": 5,
-      "value_estimate": -0.17881402373313904,
-      "active_pokemon": "alomomola (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8985258340835571,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "roaringmoon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 0,
-      "value_estimate": 0.10241954028606415,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 21,
-      "action": 5,
-      "value_estimate": -0.21494238078594208,
-      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.968740701675415,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 0,
-      "value_estimate": -0.2549307942390442,
-      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.6271733045578003,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 0,
-      "value_estimate": -0.4983508884906769,
-      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "samurotthisui (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.968740701675415,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 0,
-      "value_estimate": -0.6007310748100281,
-      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.5426509380340576,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 0,
-      "value_estimate": -0.6007310748100281,
-      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8330691456794739,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 0,
-      "value_estimate": -0.6007310748100281,
-      "active_pokemon": "azelf (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 26,
-      "action": 5,
-      "value_estimate": -0.19386321306228638,
-      "active_pokemon": "azelf (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.6271733045578003,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 0,
-      "value_estimate": -0.02888251096010208,
-      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "chiyu (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.9400473833084106,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 0,
-      "value_estimate": 0.15470096468925476,
-      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": 0.5683659315109253,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 0,
-      "value_estimate": 0.15470096468925476,
-      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 30,
-      "action": 0,
-      "value_estimate": 0.15470096468925476,
-      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.2771110534667969,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
       "action": 4,
-      "value_estimate": -0.15242154896259308,
-      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.968740701675415,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 0,
-      "value_estimate": -0.03849213570356369,
-      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "toxicroak (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": 0.7928032875061035,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 4,
+      "value_estimate": 0.8985258340835571,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "roaringmoon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 4,
+      "value_estimate": 0.3086797595024109,
+      "active_pokemon": "cacturne (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 4,
+      "value_estimate": 0.5986047387123108,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 4,
+      "value_estimate": 0.7651008367538452,
+      "active_pokemon": "articuno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 4,
+      "value_estimate": 0.5058972835540771,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 4,
+      "value_estimate": 1.3122225999832153,
+      "active_pokemon": "articuno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "roaringmoon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 4,
+      "value_estimate": 0.5058972835540771,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 4,
+      "value_estimate": 0.9869303703308105,
+      "active_pokemon": "articuno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 6,
+      "value_estimate": 0.5446841716766357,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 4,
+      "value_estimate": 0.9557521939277649,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 4,
+      "value_estimate": 0.8621751070022583,
+      "active_pokemon": "articuno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 4,
+      "value_estimate": 0.9557521939277649,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 4,
+      "value_estimate": 0.8621751070022583,
+      "active_pokemon": "articuno (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 4,
+      "value_estimate": 0.9557521939277649,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 4,
+      "value_estimate": 0.32693129777908325,
+      "active_pokemon": "articuno (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 4,
+      "value_estimate": 0.9478774070739746,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": 1.2691013813018799,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 4,
+      "value_estimate": 0.7370887994766235,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 4,
+      "value_estimate": 1.2691013813018799,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 4,
+      "value_estimate": 0.7201260924339294,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "roaringmoon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 4,
+      "value_estimate": 0.9123417139053345,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 4,
+      "value_estimate": 0.6406413912773132,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 4,
+      "value_estimate": 0.788093626499176,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 4,
+      "value_estimate": 0.6406413912773132,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 4,
+      "value_estimate": 0.8612793684005737,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "roaringmoon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 4,
+      "value_estimate": 0.6219440698623657,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 4,
+      "value_estimate": 0.8612793684005737,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "roaringmoon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 4,
+      "value_estimate": 0.7370887994766235,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 4,
+      "value_estimate": 0.3526727855205536,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 4,
+      "value_estimate": 0.743457555770874,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 4,
+      "value_estimate": 0.4698687791824341,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 4,
+      "value_estimate": 0.6440303325653076,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 4,
+      "value_estimate": 0.38059675693511963,
+      "active_pokemon": "cyclizar (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 3,
+      "value_estimate": 0.6510742902755737,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 62,
+      "action": 3,
+      "value_estimate": 0.6510742902755737,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 63,
+      "action": 3,
+      "value_estimate": 0.6510742902755737,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 64,
+      "action": 3,
+      "value_estimate": 0.6510742902755737,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 65,
+      "action": 3,
+      "value_estimate": 0.9140380024909973,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 3,
+      "value_estimate": 0.629380464553833,
+      "active_pokemon": "pachirisu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: PAR]"
     }
   ]
 }

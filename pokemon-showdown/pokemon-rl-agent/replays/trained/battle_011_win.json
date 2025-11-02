@@ -1,276 +1,164 @@
 {
   "battle_num": 11,
   "outcome": "win",
-  "turns": 35,
-  "timestamp": "2025-10-31T15:56:34.039222",
-  "battle_id": "battle-gen9randombattle-26053",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26053",
+  "turns": 17,
+  "timestamp": "2025-11-02T12:48:59.822684",
+  "battle_id": "battle-gen9randombattle-26304",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26304",
   "decision_log": [
     {
       "turn": 1,
-      "action": 1,
-      "value_estimate": 20.511003494262695,
-      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.061124801635742,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 1,
-      "value_estimate": 20.300861358642578,
-      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.00225830078125,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 1,
-      "value_estimate": 20.300861358642578,
-      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.151865005493164,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pecharunt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": 20.395463943481445,
-      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.125864028930664,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 1,
-      "value_estimate": 20.05060386657715,
-      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.816164016723633,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 1,
-      "value_estimate": 20.11142921447754,
-      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 6,
-      "action": 4,
-      "value_estimate": 20.07407569885254,
-      "active_pokemon": "grafaiai (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.816164016723633,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": 21.52412223815918,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.667139053344727,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysspeed (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysspeed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
       "action": 0,
-      "value_estimate": 21.52412223815918,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.67511558532715,
+      "active_pokemon": "scizor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysspeed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 2,
-      "value_estimate": 21.07082748413086,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.55159568786621,
+      "active_pokemon": "scizor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "scizor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": 20.77589988708496,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espathra (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.667139053344727,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 4,
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pecharunt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": 20.77589988708496,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espathra (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.656007766723633,
+      "active_pokemon": "scizor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pecharunt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "scizor (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "pecharunt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 2,
-      "value_estimate": 20.933759689331055,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.432756423950195,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pecharunt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
       "action": 2,
-      "value_estimate": 20.933759689331055,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 26.1639461517334,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": 20.79343605041504,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.95619010925293,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": 20.79343605041504,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 15,
-      "action": 4,
-      "value_estimate": 19.302854537963867,
-      "active_pokemon": "masquerain (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 26.830408096313477,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 22.900419235229492,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "araquanid (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 19,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 20,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 21,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 22,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 23,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 24,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 25,
-      "action": 0,
-      "value_estimate": 20.77329444885254,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espathra (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 26,
-      "action": 3,
-      "value_estimate": 20.090360641479492,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glaceon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 27,
-      "action": 0,
-      "value_estimate": 20.77329444885254,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espathra (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 28,
-      "action": 3,
-      "value_estimate": 21.441181182861328,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 29,
-      "action": 3,
-      "value_estimate": 21.441181182861328,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 29,
-      "action": 4,
-      "value_estimate": 18.46083641052246,
-      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 30,
-      "action": 1,
-      "value_estimate": 17.575925827026367,
-      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 31,
-      "action": 1,
-      "value_estimate": 17.673566818237305,
-      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espathra (pokemon object) [Active: True, Status: BRN]"
-    },
-    {
-      "turn": 32,
-      "action": 1,
-      "value_estimate": 17.673566818237305,
-      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espathra (pokemon object) [Active: True, Status: BRN]"
-    },
-    {
-      "turn": 33,
-      "action": 1,
-      "value_estimate": 19.738609313964844,
-      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 34,
-      "action": 1,
-      "value_estimate": 20.577598571777344,
-      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 35,
-      "action": 1,
-      "value_estimate": 21.80550193786621,
-      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 22.900419235229492,
+      "active_pokemon": "rotomfrost (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "araquanid (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

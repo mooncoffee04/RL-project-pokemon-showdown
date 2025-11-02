@@ -1,0 +1,388 @@
+{
+  "battle_num": 5,
+  "outcome": "loss",
+  "turns": 49,
+  "timestamp": "2025-11-02T10:41:59.517580",
+  "battle_id": "battle-gen9randombattle-26238",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26238",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 4,
+      "value_estimate": 1.1994035243988037,
+      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 1,
+      "action": 4,
+      "value_estimate": 0.25377362966537476,
+      "active_pokemon": "lucario (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 6,
+      "value_estimate": 0.6499539017677307,
+      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": 0.43265989422798157,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 3,
+      "value_estimate": 0.736559271812439,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regice (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 0.5187387466430664,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 4,
+      "value_estimate": 0.807058572769165,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 3,
+      "value_estimate": 1.3160587549209595,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 0.2982388734817505,
+      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 0.7810908555984497,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 0.9057930707931519,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 4,
+      "value_estimate": 0.7810908555984497,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regice (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 0.9057930707931519,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 4,
+      "value_estimate": 0.8750375509262085,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 0.9057930707931519,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 0.7810908555984497,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": 0.7248162031173706,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 3,
+      "value_estimate": 0.6656495332717896,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 4,
+      "value_estimate": 1.0952942371368408,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 4,
+      "value_estimate": 1.1374304294586182,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 1.0967516899108887,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 4,
+      "value_estimate": 1.0149571895599365,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 4,
+      "value_estimate": 1.0967516899108887,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 1.0149571895599365,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 4,
+      "value_estimate": 0.9130393266677856,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 1.1374304294586182,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 1.0967516899108887,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 4,
+      "value_estimate": 0.9048808813095093,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 4,
+      "value_estimate": 1.0967516899108887,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 4,
+      "value_estimate": 1.1374304294586182,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 4,
+      "value_estimate": 0.6659103035926819,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 4,
+      "value_estimate": 0.32693129777908325,
+      "active_pokemon": "rayquaza (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 4,
+      "value_estimate": 0.6520209908485413,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 4,
+      "value_estimate": 0.9690659642219543,
+      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 4,
+      "value_estimate": 0.6520209908485413,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FRZ]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 4,
+      "value_estimate": 0.6452345848083496,
+      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 4,
+      "value_estimate": 1.0833184719085693,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FRZ]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 4,
+      "value_estimate": 0.3526727855205536,
+      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 4,
+      "value_estimate": 1.1001496315002441,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FRZ]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 4,
+      "value_estimate": 0.7924942970275879,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 4,
+      "value_estimate": 0.751805305480957,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FRZ]",
+      "opponent_active": "regice (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 4,
+      "value_estimate": 0.7924942970275879,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 4,
+      "value_estimate": 0.8676832914352417,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FRZ]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 4,
+      "value_estimate": 1.013753890991211,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regice (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 4,
+      "value_estimate": 1.1001496315002441,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FRZ]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 4,
+      "value_estimate": 0.7504853010177612,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 4,
+      "value_estimate": 1.1001496315002441,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FRZ]",
+      "opponent_active": "taurospaldeablaze (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 4,
+      "value_estimate": 1.013753890991211,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regice (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 4,
+      "value_estimate": 0.6357097625732422,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FRZ]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": 0.9064171314239502,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": 0.38059675693511963,
+      "active_pokemon": "deoxysdefense (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 1,
+      "value_estimate": 0.916788637638092,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 3,
+      "value_estimate": 1.0235211849212646,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regice (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 1,
+      "value_estimate": 0.769769012928009,
+      "active_pokemon": "houndoom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

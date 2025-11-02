@@ -1,0 +1,514 @@
+{
+  "battle_num": 20,
+  "outcome": "loss",
+  "turns": 67,
+  "timestamp": "2025-11-02T12:49:01.619721",
+  "battle_id": "battle-gen9randombattle-26333",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26333",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 8,
+      "value_estimate": -0.6566055417060852,
+      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 8,
+      "value_estimate": -0.3099604845046997,
+      "active_pokemon": "lokix (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": -0.39171746373176575,
+      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 3,
+      "value_estimate": -0.39171746373176575,
+      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": -0.39171746373176575,
+      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 8,
+      "value_estimate": -0.45884963870048523,
+      "active_pokemon": "decidueye (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": -0.5472390651702881,
+      "active_pokemon": "lokix (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 3,
+      "value_estimate": -0.2911166548728943,
+      "active_pokemon": "lokix (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": -0.2911166548728943,
+      "active_pokemon": "lokix (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 6,
+      "value_estimate": -0.4626316428184509,
+      "active_pokemon": "lokix (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 3,
+      "value_estimate": -0.3818992078304291,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": -0.3818992078304291,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 6,
+      "value_estimate": -0.4685036540031433,
+      "active_pokemon": "okidogi (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": -0.2903856039047241,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meowsticf (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 0,
+      "value_estimate": -0.3602127432823181,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "avalugg (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 0,
+      "value_estimate": -0.3602127432823181,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "avalugg (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 0,
+      "value_estimate": -0.3602127432823181,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "avalugg (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 0,
+      "value_estimate": -0.3790687918663025,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 0,
+      "value_estimate": -0.3233865201473236,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": -0.3468129336833954,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 27,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "avalugg (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": -0.395061731338501,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 5,
+      "value_estimate": -0.47515735030174255,
+      "active_pokemon": "palafin (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": -0.3506429195404053,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": -0.368822306394577,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 3,
+      "value_estimate": -0.368822306394577,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": -0.368822306394577,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": -0.3506429195404053,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 3,
+      "value_estimate": -0.368822306394577,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": -0.6223381161689758,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": -0.3495742678642273,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 3,
+      "value_estimate": -0.3495742678642273,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 3,
+      "value_estimate": -0.3495742678642273,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 3,
+      "value_estimate": -0.23792903125286102,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "avalugg (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 3,
+      "value_estimate": -0.23792903125286102,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "avalugg (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 3,
+      "value_estimate": -0.6223381161689758,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 3,
+      "value_estimate": -0.6223381161689758,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 3,
+      "value_estimate": -0.3719119131565094,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 3,
+      "value_estimate": -0.7372297048568726,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 47,
+      "action": 1,
+      "value_estimate": -0.7929373979568481,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 48,
+      "action": 1,
+      "value_estimate": -0.5554507970809937,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 1,
+      "value_estimate": -0.5554507970809937,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 4,
+      "value_estimate": -0.4912354648113251,
+      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 3,
+      "value_estimate": -0.2682817876338959,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 3,
+      "value_estimate": -0.2682817876338959,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 3,
+      "value_estimate": -0.2808699309825897,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 53,
+      "action": 3,
+      "value_estimate": -0.2808699309825897,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "zamazenta (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 1,
+      "value_estimate": -0.41659966111183167,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "avalugg (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 3,
+      "value_estimate": -0.25165730714797974,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 3,
+      "value_estimate": -0.25165730714797974,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 1,
+      "value_estimate": -0.41659966111183167,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "avalugg (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 3,
+      "value_estimate": -0.3182961642742157,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 3,
+      "value_estimate": -0.3416854739189148,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 3,
+      "value_estimate": -0.3182961642742157,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 3,
+      "value_estimate": -0.3182961642742157,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 62,
+      "action": 3,
+      "value_estimate": -0.3416854739189148,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 63,
+      "action": 3,
+      "value_estimate": -0.31446462869644165,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 3,
+      "value_estimate": -0.31446462869644165,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 1,
+      "value_estimate": -0.2363608479499817,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 1,
+      "value_estimate": -0.2363608479499817,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 67,
+      "action": 1,
+      "value_estimate": -0.2363608479499817,
+      "active_pokemon": "houndstone (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "meganium (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

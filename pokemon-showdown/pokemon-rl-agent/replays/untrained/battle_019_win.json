@@ -1,262 +1,283 @@
 {
   "battle_num": 19,
   "outcome": "win",
-  "turns": 31,
-  "timestamp": "2025-10-31T13:49:43.101540",
-  "battle_id": "battle-gen9randombattle-26041",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26041",
+  "turns": 35,
+  "timestamp": "2025-11-02T12:49:01.539330",
+  "battle_id": "battle-gen9randombattle-26332",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26332",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": 0.08360006660223007,
-      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3025798499584198,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": 0.17872390151023865,
-      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6340090036392212,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": 0.17872390151023865,
-      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.44595739245414734,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": -0.02905818074941635,
-      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6362335681915283,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": -0.039727505296468735,
-      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.32669511437416077,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": 0.04792102053761482,
-      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.32669511437416077,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": -0.1311672329902649,
-      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "lilligant (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6285182237625122,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": -0.051035188138484955,
-      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 8,
-      "action": 5,
-      "value_estimate": -0.22727495431900024,
-      "active_pokemon": "charizard (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.32669511437416077,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": -0.324964702129364,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3301686644554138,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 8,
+      "value_estimate": -0.44654035568237305,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": -0.324964702129364,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.478801965713501,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": -0.24570174515247345,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7594165205955505,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": -0.24570174515247345,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7594165205955505,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": -0.32328298687934875,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6135990619659424,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": -0.3538408875465393,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7594165205955505,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": -0.24570174515247345,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7594165205955505,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 6,
+      "value_estimate": -0.45526331663131714,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 0,
-      "value_estimate": -0.324964702129364,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.5100516676902771,
+      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": -0.10318998992443085,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3593617379665375,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 0,
-      "value_estimate": -0.029598623514175415,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 5,
-      "value_estimate": -0.22568385303020477,
-      "active_pokemon": "ragingbolt (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3593617379665375,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 0,
-      "value_estimate": -0.2090146392583847,
-      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4309956133365631,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 0,
-      "value_estimate": -0.5618795156478882,
-      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "lilligant (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3593617379665375,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 0,
-      "value_estimate": -0.5411554574966431,
-      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5201846957206726,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 0,
-      "value_estimate": -0.5180831551551819,
-      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4309956133365631,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 0,
-      "value_estimate": -0.5180831551551819,
-      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 23,
-      "action": 5,
-      "value_estimate": -0.1636718511581421,
-      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3593617379665375,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 0,
-      "value_estimate": -0.14260677993297577,
-      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3593617379665375,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 6,
+      "value_estimate": -0.461674302816391,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 0,
-      "value_estimate": -0.11283333599567413,
+      "action": 3,
+      "value_estimate": -0.5020184516906738,
       "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
+      "opponent_active": "deoxysattack (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 0,
-      "value_estimate": -0.11283333599567413,
+      "action": 3,
+      "value_estimate": -0.4961153268814087,
       "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 0,
-      "value_estimate": -0.04853472858667374,
+      "action": 3,
+      "value_estimate": -0.4961153268814087,
       "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 0,
-      "value_estimate": -0.04853472858667374,
+      "action": 3,
+      "value_estimate": -0.28097251057624817,
       "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 28,
-      "action": 5,
-      "value_estimate": -0.04780064895749092,
-      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 0,
-      "value_estimate": 0.07580234110355377,
-      "active_pokemon": "rabsca (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 29,
-      "action": 4,
-      "value_estimate": -0.0756535530090332,
-      "active_pokemon": "rabsca (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.28097251057624817,
+      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
-      "action": 0,
-      "value_estimate": 0.12301669269800186,
-      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.23744121193885803,
+      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 5,
+      "value_estimate": -0.47584983706474304,
+      "active_pokemon": "kingambit (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 0,
-      "value_estimate": -0.5723001956939697,
-      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "annihilape (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.34946900606155396,
+      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": -0.28088152408599854,
+      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 3,
+      "value_estimate": -0.3379455804824829,
+      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": -0.3262367248535156,
+      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": -0.3262367248535156,
+      "active_pokemon": "ironboulder (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

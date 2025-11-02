@@ -1,318 +1,304 @@
 {
   "battle_num": 6,
   "outcome": "win",
-  "turns": 40,
-  "timestamp": "2025-10-31T15:56:33.825204",
-  "battle_id": "battle-gen9randombattle-26048",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26048",
+  "turns": 37,
+  "timestamp": "2025-11-02T12:48:59.633872",
+  "battle_id": "battle-gen9randombattle-26299",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26299",
   "decision_log": [
     {
       "turn": 1,
       "action": 0,
-      "value_estimate": 21.076963424682617,
-      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.11248779296875,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 1,
-      "value_estimate": 20.072696685791016,
-      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.033544540405273,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regice (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 1,
-      "value_estimate": 20.072696685791016,
-      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 4,
       "action": 0,
-      "value_estimate": 20.707754135131836,
-      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dialgaorigin (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.790117263793945,
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
     },
     {
-      "turn": 4,
+      "turn": 3,
       "action": 4,
       "value_estimate": 20.323888778686523,
-      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "dialgaorigin (pokemon object) [Active: True, Status: None]"
+      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 1,
+      "value_estimate": 20.05830192565918,
+      "active_pokemon": "illumise (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": 20.511573791503906,
-      "active_pokemon": "flareon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dialgaorigin (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 20.05830192565918,
+      "active_pokemon": "illumise (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": 20.68429183959961,
-      "active_pokemon": "flareon (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.79538345336914,
+      "active_pokemon": "illumise (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": 20.52381706237793,
-      "active_pokemon": "flareon (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.681915283203125,
+      "active_pokemon": "illumise (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "regice (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": 20.52381706237793,
-      "active_pokemon": "flareon (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 8,
-      "action": 4,
-      "value_estimate": 20.869796752929688,
-      "active_pokemon": "flareon (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.715972900390625,
+      "active_pokemon": "illumise (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 3,
-      "value_estimate": 23.072662353515625,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.696945190429688,
+      "active_pokemon": "illumise (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandaconda (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 3,
-      "value_estimate": 21.425748825073242,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.32981300354004,
+      "active_pokemon": "illumise (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": 21.42136573791504,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.984756469726562,
+      "active_pokemon": "illumise (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 20.056100845336914,
+      "active_pokemon": "illumise (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 3,
-      "value_estimate": 21.18113899230957,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.224130630493164,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 3,
-      "value_estimate": 22.24345588684082,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.65607261657715,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 3,
-      "value_estimate": 21.18113899230957,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.65607261657715,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
       "action": 0,
-      "value_estimate": 21.42136573791504,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.65607261657715,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
       "action": 0,
-      "value_estimate": 21.42136573791504,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.47431182861328,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
       "action": 0,
-      "value_estimate": 21.42136573791504,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.47431182861328,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
       "action": 0,
-      "value_estimate": 21.42136573791504,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.224130630493164,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 3,
-      "value_estimate": 21.425748825073242,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "pawmot (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.720121383666992,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandaconda (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 3,
-      "value_estimate": 22.013078689575195,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.94258689880371,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 3,
-      "value_estimate": 23.072662353515625,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.94258689880371,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
       "action": 0,
-      "value_estimate": 22.42799949645996,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.47187614440918,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandaconda (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
       "action": 0,
-      "value_estimate": 21.99433135986328,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.94258689880371,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
       "action": 0,
-      "value_estimate": 21.99433135986328,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.47187614440918,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 18.46083641052246,
+      "active_pokemon": "shiftry (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 4,
-      "value_estimate": 20.90113639831543,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 16.817426681518555,
+      "active_pokemon": "arceuspsychic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gallade (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
       "action": 3,
-      "value_estimate": 22.237943649291992,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 18.2866268157959,
+      "active_pokemon": "arceuspsychic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 0,
-      "value_estimate": 22.789106369018555,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 19.77448081970215,
+      "active_pokemon": "arceuspsychic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 0,
-      "value_estimate": 23.267759323120117,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 19.77448081970215,
+      "active_pokemon": "arceuspsychic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
       "action": 3,
-      "value_estimate": 21.749418258666992,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "landorus (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 19.77448081970215,
+      "active_pokemon": "arceuspsychic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
       "action": 3,
-      "value_estimate": 21.749418258666992,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "landorus (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.26607894897461,
+      "active_pokemon": "arceuspsychic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 4,
+      "value_estimate": 14.491249084472656,
+      "active_pokemon": "arceuspsychic (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
       "action": 0,
-      "value_estimate": 23.267759323120117,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 19.383140563964844,
+      "active_pokemon": "braviary (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hooh (pokemon object) [Active: True, Status: None]"
     },
     {
-      "turn": 31,
-      "action": 4,
-      "value_estimate": 21.509492874145508,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "turn": 32,
+      "action": 0,
+      "value_estimate": 21.08991813659668,
+      "active_pokemon": "braviary (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandaconda (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 32,
       "action": 4,
-      "value_estimate": 21.251955032348633,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 9.535524368286133,
+      "active_pokemon": "braviary (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "sandaconda (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 33,
-      "action": 1,
-      "value_estimate": 22.471529006958008,
-      "active_pokemon": "oricoriopompom (pokemon object) [Active: True, Status: SLP]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 13.755697250366211,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandaconda (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 34,
       "action": 1,
-      "value_estimate": 22.471529006958008,
-      "active_pokemon": "oricoriopompom (pokemon object) [Active: True, Status: SLP]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 10.180005073547363,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 35,
       "action": 1,
-      "value_estimate": 22.471529006958008,
-      "active_pokemon": "oricoriopompom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "brutebonnet (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 10.180005073547363,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 36,
-      "action": 1,
-      "value_estimate": 22.10298728942871,
-      "active_pokemon": "oricoriopompom (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 36,
-      "action": 4,
-      "value_estimate": 21.436948776245117,
-      "active_pokemon": "oricoriopompom (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 17.606172561645508,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandaconda (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 37,
-      "action": 4,
-      "value_estimate": 19.956998825073242,
-      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 38,
-      "action": 0,
-      "value_estimate": 21.462377548217773,
-      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: SLP]"
-    },
-    {
-      "turn": 39,
-      "action": 0,
-      "value_estimate": 21.462377548217773,
-      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: SLP]"
-    },
-    {
-      "turn": 40,
-      "action": 0,
-      "value_estimate": 21.462377548217773,
-      "active_pokemon": "clawitzer (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: SLP]"
+      "action": 3,
+      "value_estimate": 17.606172561645508,
+      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandaconda (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

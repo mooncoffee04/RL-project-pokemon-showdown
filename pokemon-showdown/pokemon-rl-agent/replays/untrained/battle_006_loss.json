@@ -1,0 +1,584 @@
+{
+  "battle_num": 6,
+  "outcome": "loss",
+  "turns": 77,
+  "timestamp": "2025-11-02T12:49:00.661640",
+  "battle_id": "battle-gen9randombattle-26319",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26319",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": -0.5905101299285889,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "crawdaunt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": -0.5905101299285889,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "crawdaunt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": -0.6856473684310913,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 3,
+      "value_estimate": -0.4317038655281067,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": -0.3328269422054291,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 8,
+      "value_estimate": -0.458282470703125,
+      "active_pokemon": "magcargo (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": -0.2758607864379883,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 3,
+      "value_estimate": -0.2758607864379883,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": -0.2758607864379883,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 3,
+      "value_estimate": -0.3539232313632965,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": -0.32417309284210205,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": -0.7517489790916443,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": -0.26563170552253723,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": -0.26563170552253723,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 3,
+      "value_estimate": -0.26563170552253723,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": -0.26563170552253723,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 3,
+      "value_estimate": -0.5587510466575623,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 3,
+      "value_estimate": -0.7610660195350647,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": -0.7610660195350647,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 3,
+      "value_estimate": -0.2606251835823059,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": -0.2606251835823059,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": -0.2606251835823059,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 3,
+      "value_estimate": -0.2606251835823059,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": -0.2606251835823059,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": -0.5587510466575623,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 3,
+      "value_estimate": -0.5587510466575623,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 3,
+      "value_estimate": -0.5587510466575623,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": -0.3656773865222931,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": -0.7610660195350647,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": -0.7610660195350647,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": -0.5587510466575623,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": -0.2606251835823059,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": -0.2606251835823059,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 3,
+      "value_estimate": -0.3313923180103302,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": -0.3313923180103302,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": -0.2606251835823059,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 3,
+      "value_estimate": -0.2606251835823059,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 6,
+      "value_estimate": -0.4594704508781433,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": -0.3319510817527771,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": -0.44962307810783386,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "crawdaunt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 3,
+      "value_estimate": -0.533501923084259,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 3,
+      "value_estimate": -0.25224852561950684,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 3,
+      "value_estimate": -0.25224852561950684,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 3,
+      "value_estimate": -0.44962307810783386,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "crawdaunt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 3,
+      "value_estimate": -0.3319225609302521,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 3,
+      "value_estimate": -0.3319225609302521,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 3,
+      "value_estimate": -0.25224852561950684,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 3,
+      "value_estimate": -0.25224852561950684,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 3,
+      "value_estimate": -0.533501923084259,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 3,
+      "value_estimate": -0.533501923084259,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 3,
+      "value_estimate": -0.533501923084259,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 3,
+      "value_estimate": -0.533501923084259,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 3,
+      "value_estimate": -0.25224852561950684,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 3,
+      "value_estimate": -0.3319225609302521,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 1,
+      "value_estimate": -0.5156709551811218,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 1,
+      "value_estimate": -0.5156709551811218,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 1,
+      "value_estimate": -0.513417661190033,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 1,
+      "value_estimate": -0.5156709551811218,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 1,
+      "value_estimate": -0.5156709551811218,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 1,
+      "value_estimate": -0.5156709551811218,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 6,
+      "value_estimate": -0.467986524105072,
+      "active_pokemon": "glaceon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 3,
+      "value_estimate": -0.3502081036567688,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 3,
+      "value_estimate": -0.2704451084136963,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 3,
+      "value_estimate": -0.5198346972465515,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 62,
+      "action": 3,
+      "value_estimate": -0.5198346972465515,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 63,
+      "action": 3,
+      "value_estimate": -0.2858792543411255,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 64,
+      "action": 3,
+      "value_estimate": -0.2704451084136963,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 3,
+      "value_estimate": -0.2858792543411255,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 66,
+      "action": 3,
+      "value_estimate": -0.2858792543411255,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 67,
+      "action": 3,
+      "value_estimate": -0.2858792543411255,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 68,
+      "action": 3,
+      "value_estimate": -0.5198346972465515,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 69,
+      "action": 3,
+      "value_estimate": -0.5198346972465515,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "golduck (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 70,
+      "action": 3,
+      "value_estimate": -0.2858792543411255,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 71,
+      "action": 3,
+      "value_estimate": -0.2858792543411255,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 71,
+      "action": 5,
+      "value_estimate": -0.47953876852989197,
+      "active_pokemon": "hatterene (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 72,
+      "action": 3,
+      "value_estimate": -0.4295259118080139,
+      "active_pokemon": "toedscruel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 73,
+      "action": 3,
+      "value_estimate": -0.4295259118080139,
+      "active_pokemon": "toedscruel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 74,
+      "action": 3,
+      "value_estimate": -0.3027680516242981,
+      "active_pokemon": "toedscruel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 74,
+      "action": 4,
+      "value_estimate": -0.4912354648113251,
+      "active_pokemon": "toedscruel (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 75,
+      "action": 3,
+      "value_estimate": -0.2396533489227295,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 76,
+      "action": 3,
+      "value_estimate": -0.12499667704105377,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragonite (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 77,
+      "action": 3,
+      "value_estimate": -0.2195514738559723,
+      "active_pokemon": "minun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

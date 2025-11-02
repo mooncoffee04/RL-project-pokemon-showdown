@@ -1,738 +1,458 @@
 {
   "battle_num": 16,
   "outcome": "win",
-  "turns": 99,
-  "timestamp": "2025-10-31T13:49:42.906910",
-  "battle_id": "battle-gen9randombattle-26038",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26038",
+  "turns": 59,
+  "timestamp": "2025-11-01T13:07:40.870726",
+  "battle_id": "battle-gen9randombattle-26128",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26128",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": 0.33631306886672974,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.04596792161464691,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": 0.08380239456892014,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": -0.14962081611156464,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": -0.025165341794490814,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 4,
-      "action": 0,
-      "value_estimate": -0.025165341794490814,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 4,
       "action": 5,
-      "value_estimate": -0.02963636815547943,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.07474908232688904,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hitmonlee (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 6,
+      "value_estimate": 0.11094269156455994,
+      "active_pokemon": "miraidon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": 0.22779715061187744,
-      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": -0.1918879747390747,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 5,
+      "value_estimate": -0.7223741412162781,
+      "active_pokemon": "piloswine (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": 0.18156160414218903,
-      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": -0.1907525658607483,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": 0.0953366681933403,
-      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espathra (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.16565826535224915,
+      "active_pokemon": "miraidon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": 0.0953366681933403,
-      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espathra (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": -0.10156838595867157,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 5,
+      "value_estimate": -0.7208309769630432,
+      "active_pokemon": "miraidon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": 0.1964811235666275,
-      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 10,
-      "action": 0,
-      "value_estimate": 0.0953366681933403,
-      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: BRN]"
-    },
-    {
-      "turn": 10,
       "action": 5,
-      "value_estimate": -0.1279514580965042,
-      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: FNT]"
+      "value_estimate": -0.13897190988063812,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 0,
+      "value_estimate": 0.19545382261276245,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
       "action": 0,
-      "value_estimate": 0.10655491054058075,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.19545382261276245,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
       "action": 0,
-      "value_estimate": 0.10655491054058075,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.19545382261276245,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": 0.10655491054058075,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4131925702095032,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
       "action": 0,
-      "value_estimate": 0.10655491054058075,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.2163904458284378,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": 0.10655491054058075,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.15529632568359375,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 0,
-      "value_estimate": 0.10655491054058075,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": -0.10988233983516693,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 5,
+      "value_estimate": -0.6910908818244934,
+      "active_pokemon": "hitmontop (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": 0.10655491054058075,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": -0.1113574355840683,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 0,
-      "value_estimate": 0.10655491054058075,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": -0.08630862832069397,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 0,
-      "value_estimate": -0.12823688983917236,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": -0.13167613744735718,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 0,
-      "value_estimate": -0.12823688983917236,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": -0.35181111097335815,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "stonjourner (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 0,
-      "value_estimate": -0.12823688983917236,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": -0.08216109871864319,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 4,
+      "value_estimate": -0.6650342345237732,
+      "active_pokemon": "annihilape (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 0,
-      "value_estimate": 0.057667046785354614,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": -0.02937428653240204,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 0,
-      "value_estimate": -0.12823688983917236,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 23,
-      "action": 5,
-      "value_estimate": -0.1636718511581421,
-      "active_pokemon": "abomasnow (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.04273687303066254,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hitmonlee (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 0,
-      "value_estimate": -0.24789917469024658,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": -0.10678476840257645,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 0,
-      "value_estimate": -0.24789917469024658,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": -0.06886216998100281,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "stonjourner (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 0,
-      "value_estimate": -0.202684223651886,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": -0.2642119824886322,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 0,
-      "value_estimate": -0.202684223651886,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": -0.10678476840257645,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 0,
-      "value_estimate": -0.15524746477603912,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": -0.1525818556547165,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 0,
-      "value_estimate": -0.15524746477603912,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": -0.10678476840257645,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
-      "action": 0,
-      "value_estimate": -0.16122610867023468,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": -0.1525818556547165,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 4,
+      "value_estimate": -0.6732208132743835,
+      "active_pokemon": "drifblim (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 0,
-      "value_estimate": -0.16122610867023468,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.1792353391647339,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 32,
-      "action": 0,
-      "value_estimate": -0.16122610867023468,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": -0.08773456513881683,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "stonjourner (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 33,
-      "action": 0,
-      "value_estimate": -0.16122610867023468,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.1792353391647339,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 34,
-      "action": 0,
-      "value_estimate": -0.16122610867023468,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.016239896416664124,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hitmonlee (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 35,
-      "action": 0,
-      "value_estimate": -0.16122610867023468,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 0.031624943017959595,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 36,
       "action": 0,
-      "value_estimate": -0.03118637204170227,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.2249087691307068,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 37,
-      "action": 0,
-      "value_estimate": -0.03118637204170227,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": -0.14355145394802094,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "stonjourner (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 38,
-      "action": 0,
-      "value_estimate": -0.03118637204170227,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": -0.14355145394802094,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "stonjourner (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 39,
-      "action": 0,
-      "value_estimate": -0.03118637204170227,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.004762724041938782,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "banette (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 40,
       "action": 0,
-      "value_estimate": -0.03118637204170227,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 40,
-      "action": 5,
-      "value_estimate": -0.04780064895749092,
-      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.19159647822380066,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 41,
       "action": 0,
-      "value_estimate": -0.13656237721443176,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.19159647822380066,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 42,
       "action": 0,
-      "value_estimate": -0.13656237721443176,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.19159647822380066,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 43,
       "action": 0,
-      "value_estimate": -0.13656237721443176,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.19159647822380066,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 44,
       "action": 0,
-      "value_estimate": -0.13656237721443176,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.19159647822380066,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 45,
       "action": 0,
-      "value_estimate": -0.13656237721443176,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.19159647822380066,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 46,
-      "action": 0,
-      "value_estimate": -0.13656237721443176,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.2332182228565216,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 47,
       "action": 0,
-      "value_estimate": -0.13656237721443176,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.19159647822380066,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 48,
-      "action": 0,
-      "value_estimate": -0.13656237721443176,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.2332182228565216,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 49,
-      "action": 0,
-      "value_estimate": -0.3442934453487396,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.2332182228565216,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kingambit (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 50,
       "action": 0,
-      "value_estimate": -0.3442934453487396,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.1724410057067871,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 51,
       "action": 0,
-      "value_estimate": -0.3442934453487396,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.1724410057067871,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 52,
       "action": 0,
-      "value_estimate": -0.3442934453487396,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.1724410057067871,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 53,
       "action": 0,
-      "value_estimate": -0.3442934453487396,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 53,
-      "action": 4,
-      "value_estimate": -0.0756535530090332,
-      "active_pokemon": "volbeat (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.1724410057067871,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 54,
       "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.1724410057067871,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 55,
       "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.1724410057067871,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 56,
       "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.1724410057067871,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 57,
       "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.1724410057067871,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 58,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": -0.5791212916374207,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 59,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 60,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 61,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 62,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 63,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 64,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 65,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 66,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 67,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 68,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 69,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 70,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 71,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 72,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 73,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 74,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 75,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 76,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 77,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 78,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 79,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 80,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 81,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 82,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 83,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 84,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 85,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 86,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 87,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 88,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 89,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 90,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 91,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 92,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 93,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 94,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 95,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 96,
-      "action": 0,
-      "value_estimate": 0.07644243538379669,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 97,
-      "action": 0,
-      "value_estimate": 0.004343315958976746,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 98,
-      "action": 0,
-      "value_estimate": 0.004343315958976746,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 99,
-      "action": 0,
-      "value_estimate": 0.004343315958976746,
-      "active_pokemon": "taurospaldeaaqua (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "jirachi (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": -0.5791212916374207,
+      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "oricorio (pokemon object) [Active: True, Status: SLP]"
     }
   ]
 }

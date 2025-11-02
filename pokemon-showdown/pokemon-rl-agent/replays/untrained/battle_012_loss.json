@@ -1,0 +1,297 @@
+{
+  "battle_num": 12,
+  "outcome": "loss",
+  "turns": 36,
+  "timestamp": "2025-11-02T12:49:01.128267",
+  "battle_id": "battle-gen9randombattle-26325",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26325",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 8,
+      "value_estimate": -0.505092203617096,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": -0.523910403251648,
+      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 8,
+      "value_estimate": -0.3983319401741028,
+      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 8,
+      "value_estimate": -0.5120236873626709,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": -0.6936544179916382,
+      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 8,
+      "value_estimate": -0.4107462763786316,
+      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 3,
+      "value_estimate": -0.2545353174209595,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gougingfire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": -0.35638561844825745,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 3,
+      "value_estimate": -0.35638561844825745,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 8,
+      "value_estimate": -0.5120236873626709,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": -0.6239382028579712,
+      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 8,
+      "value_estimate": -0.458282470703125,
+      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 6,
+      "value_estimate": -0.498870849609375,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": -0.28255510330200195,
+      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 3,
+      "value_estimate": -0.28255510330200195,
+      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": -0.1306350827217102,
+      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 3,
+      "value_estimate": -0.16586652398109436,
+      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 6,
+      "value_estimate": -0.46331992745399475,
+      "active_pokemon": "hitmonchan (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 3,
+      "value_estimate": -0.5402405858039856,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 6,
+      "value_estimate": -0.4670715034008026,
+      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": -1.1102067232131958,
+      "active_pokemon": "dunsparce (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 3,
+      "value_estimate": -1.1102067232131958,
+      "active_pokemon": "dunsparce (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": -0.559173047542572,
+      "active_pokemon": "dunsparce (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scrafty (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": -0.8931982517242432,
+      "active_pokemon": "dunsparce (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 3,
+      "value_estimate": -1.1144806146621704,
+      "active_pokemon": "dunsparce (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": -1.1144806146621704,
+      "active_pokemon": "dunsparce (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": -1.1144806146621704,
+      "active_pokemon": "dunsparce (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 3,
+      "value_estimate": -1.1144806146621704,
+      "active_pokemon": "dunsparce (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 5,
+      "value_estimate": -0.4802852272987366,
+      "active_pokemon": "dunsparce (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 3,
+      "value_estimate": -0.44413626194000244,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": -0.5409029126167297,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": -0.5409029126167297,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": -0.45318329334259033,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": -0.45318329334259033,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": -0.45318329334259033,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": -0.45318329334259033,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 3,
+      "value_estimate": -0.45318329334259033,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 4,
+      "value_estimate": -0.5067481994628906,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": -0.23774398863315582,
+      "active_pokemon": "landorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": -0.23774398863315582,
+      "active_pokemon": "landorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 3,
+      "value_estimate": -0.12516793608665466,
+      "active_pokemon": "landorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "samurott (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

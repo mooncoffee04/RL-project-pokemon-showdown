@@ -1,360 +1,318 @@
 {
   "battle_num": 18,
   "outcome": "win",
-  "turns": 45,
-  "timestamp": "2025-10-31T15:56:36.034146",
-  "battle_id": "battle-gen9randombattle-26080",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26080",
+  "turns": 40,
+  "timestamp": "2025-11-02T12:49:01.489099",
+  "battle_id": "battle-gen9randombattle-26331",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26331",
   "decision_log": [
     {
       "turn": 1,
-      "action": 2,
-      "value_estimate": -0.18627312779426575,
-      "active_pokemon": "slowbrogalar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "luvdisc (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.1847955882549286,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodra (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 1,
-      "value_estimate": -0.10737099498510361,
-      "active_pokemon": "slowbrogalar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "luvdisc (pokemon object) [Active: True, Status: PSN]"
+      "action": 3,
+      "value_estimate": -0.4259127378463745,
+      "active_pokemon": "seviper (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 1,
-      "value_estimate": -0.274261474609375,
-      "active_pokemon": "slowbrogalar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4259127378463745,
+      "active_pokemon": "seviper (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 8,
+      "value_estimate": -0.45884963870048523,
+      "active_pokemon": "seviper (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 2,
-      "value_estimate": -0.17847022414207458,
-      "active_pokemon": "slowbrogalar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "golurk (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 4,
-      "action": 5,
-      "value_estimate": -0.5297156572341919,
-      "active_pokemon": "slowbrogalar (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "golurk (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3523797392845154,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 5,
-      "value_estimate": -0.09547506272792816,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "golurk (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3768402934074402,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 1,
-      "value_estimate": -0.23409269750118256,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1547718644142151,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "araquanid (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 1,
-      "value_estimate": -0.23409269750118256,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1547718644142151,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "araquanid (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 1,
-      "value_estimate": -0.33172377943992615,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "golurk (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.38138777017593384,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 1,
-      "value_estimate": -0.23409269750118256,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.13273300230503082,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 5,
-      "value_estimate": -0.20405544340610504,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2549339830875397,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 1,
-      "value_estimate": -0.24855688214302063,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "luvdisc (pokemon object) [Active: True, Status: PSN]"
+      "action": 3,
+      "value_estimate": -0.2549339830875397,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "goodra (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 1,
-      "value_estimate": -0.28142663836479187,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rampardos (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2549339830875397,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 6,
+      "value_estimate": -0.45526331663131714,
+      "active_pokemon": "zangoose (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 1,
-      "value_estimate": -0.28142663836479187,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rampardos (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5378572344779968,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 7,
-      "value_estimate": -0.2058221399784088,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "golurk (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5104086399078369,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 15,
-      "action": 4,
-      "value_estimate": 0.09152163565158844,
-      "active_pokemon": "mienshao (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5104086399078369,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 16,
-      "action": 2,
-      "value_estimate": -0.31510689854621887,
-      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 16,
-      "action": 5,
-      "value_estimate": -0.5853524804115295,
-      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.9125085473060608,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 1,
-      "value_estimate": -0.1891564577817917,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.613197386264801,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodra (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 2,
-      "value_estimate": -0.4018925726413727,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "golurk (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.9125085473060608,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 1,
-      "value_estimate": -0.1891564577817917,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.9125085473060608,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 1,
-      "value_estimate": -0.1891564577817917,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5310796499252319,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "araquanid (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 1,
-      "value_estimate": -0.34076714515686035,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.613197386264801,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodra (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 2,
-      "value_estimate": -0.08123090863227844,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5310796499252319,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "araquanid (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 2,
-      "value_estimate": -0.08123090863227844,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.534954309463501,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 6,
+      "value_estimate": -0.467986524105072,
+      "active_pokemon": "tatsugiri (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 2,
-      "value_estimate": -0.052374374121427536,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.517987847328186,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 2,
-      "value_estimate": -0.052374374121427536,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": -0.5231501460075378,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 2,
-      "value_estimate": -0.08123090863227844,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": -0.5054211616516113,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodra (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 2,
-      "value_estimate": -0.142591193318367,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": -0.5054211616516113,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dudunsparce (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 2,
-      "value_estimate": -0.037315305322408676,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "luvdisc (pokemon object) [Active: True, Status: PSN]"
+      "action": 0,
+      "value_estimate": -0.48729562759399414,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "goodra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 5,
+      "value_estimate": -0.4802852272987366,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "goodra (pokemon object) [Active: True, Status: FNT]"
     },
     {
       "turn": 29,
-      "action": 2,
-      "value_estimate": -0.06110565364360809,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.979090690612793,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 30,
-      "action": 2,
-      "value_estimate": -0.06110565364360809,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.31772202253341675,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 2,
-      "value_estimate": -0.06110565364360809,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 31,
-      "action": 5,
-      "value_estimate": -0.5524657964706421,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.979090690612793,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 32,
-      "action": 1,
-      "value_estimate": 0.10555720329284668,
-      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.979090690612793,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 33,
-      "action": 1,
-      "value_estimate": 0.10555720329284668,
-      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.979090690612793,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 34,
-      "action": 2,
-      "value_estimate": -0.041902411729097366,
-      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.979090690612793,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 35,
-      "action": 2,
-      "value_estimate": 0.06643151491880417,
-      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rampardos (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 35,
-      "action": 5,
-      "value_estimate": -0.557806134223938,
-      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "rampardos (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.979090690612793,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 36,
-      "action": 1,
-      "value_estimate": -0.091469407081604,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rampardos (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.31772202253341675,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 37,
       "action": 1,
-      "value_estimate": -0.18087387084960938,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.4949357807636261,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 38,
       "action": 1,
-      "value_estimate": -0.18087387084960938,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.4977957010269165,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 39,
       "action": 1,
-      "value_estimate": -0.18087387084960938,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.4972858428955078,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 40,
       "action": 1,
-      "value_estimate": -0.18087387084960938,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 41,
-      "action": 1,
-      "value_estimate": -0.18087387084960938,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 42,
-      "action": 1,
-      "value_estimate": -0.18087387084960938,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 42,
-      "action": 4,
-      "value_estimate": -0.5594068765640259,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 43,
-      "action": 1,
-      "value_estimate": -0.1446407437324524,
-      "active_pokemon": "mienshao (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 44,
-      "action": 0,
-      "value_estimate": -0.449832946062088,
-      "active_pokemon": "mienshao (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 45,
-      "action": 0,
-      "value_estimate": -0.449832946062088,
-      "active_pokemon": "mienshao (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "irontreads (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.4972858428955078,
+      "active_pokemon": "quaquaval (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

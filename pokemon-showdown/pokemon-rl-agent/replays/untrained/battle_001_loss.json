@@ -1,0 +1,486 @@
+{
+  "battle_num": 1,
+  "outcome": "loss",
+  "turns": 63,
+  "timestamp": "2025-11-02T12:49:00.245190",
+  "battle_id": "battle-gen9randombattle-26314",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26314",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 8,
+      "value_estimate": -0.3339623510837555,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": -0.45961010456085205,
+      "active_pokemon": "honchkrow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 3,
+      "value_estimate": -0.530005156993866,
+      "active_pokemon": "honchkrow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "persianalola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 3,
+      "value_estimate": -0.3916758596897125,
+      "active_pokemon": "honchkrow (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 5,
+      "action": 3,
+      "value_estimate": -0.3916758596897125,
+      "active_pokemon": "honchkrow (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": -0.3807080388069153,
+      "active_pokemon": "honchkrow (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "tauros (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 3,
+      "value_estimate": -0.3807080388069153,
+      "active_pokemon": "honchkrow (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "tauros (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 3,
+      "value_estimate": -0.33066046237945557,
+      "active_pokemon": "honchkrow (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 8,
+      "value_estimate": -0.458282470703125,
+      "active_pokemon": "honchkrow (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "tauros (pokemon object) [Active: True, Status: FNT]"
+    },
+    {
+      "turn": 9,
+      "action": 6,
+      "value_estimate": -0.603137731552124,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": -0.37806499004364014,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 3,
+      "value_estimate": -0.39221033453941345,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 3,
+      "value_estimate": -0.5387806296348572,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 13,
+      "action": 3,
+      "value_estimate": -0.39221033453941345,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 3,
+      "value_estimate": -0.39221033453941345,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 3,
+      "value_estimate": -0.39221033453941345,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 3,
+      "value_estimate": -0.5387806296348572,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 17,
+      "action": 3,
+      "value_estimate": -0.5387806296348572,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": -0.5387806296348572,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 19,
+      "action": 3,
+      "value_estimate": -0.5387806296348572,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": -0.21408694982528687,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "persianalola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": -0.39221033453941345,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 3,
+      "value_estimate": -0.21408694982528687,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "persianalola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": -0.21408694982528687,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "persianalola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": -0.39221033453941345,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 3,
+      "value_estimate": -0.5387806296348572,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 26,
+      "action": 3,
+      "value_estimate": -0.39221033453941345,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": -0.39221033453941345,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": -0.39221033453941345,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": -0.5387806296348572,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": -0.5387806296348572,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 30,
+      "action": 6,
+      "value_estimate": -0.4592346251010895,
+      "active_pokemon": "ironcrown (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 31,
+      "action": 6,
+      "value_estimate": -0.39402055740356445,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": -0.31104612350463867,
+      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 6,
+      "value_estimate": -0.44887733459472656,
+      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "persianalola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": -0.4777604937553406,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "persianalola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": -0.43121588230133057,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 6,
+      "value_estimate": -0.39402055740356445,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": -0.28706544637680054,
+      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "persianalola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 6,
+      "value_estimate": -0.4337911605834961,
+      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 6,
+      "value_estimate": -0.38677555322647095,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 40,
+      "action": 3,
+      "value_estimate": -0.8003901839256287,
+      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 41,
+      "action": 6,
+      "value_estimate": -0.4337911605834961,
+      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 6,
+      "value_estimate": -0.38677555322647095,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 43,
+      "action": 3,
+      "value_estimate": -0.2998686730861664,
+      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 6,
+      "value_estimate": -0.4670715034008026,
+      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 3,
+      "value_estimate": -0.5929058790206909,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 3,
+      "value_estimate": -0.4255397319793701,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sandyshocks (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 3,
+      "value_estimate": -0.35546499490737915,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 47,
+      "action": 3,
+      "value_estimate": -0.35546499490737915,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 48,
+      "action": 3,
+      "value_estimate": -0.35546499490737915,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 48,
+      "action": 5,
+      "value_estimate": -0.49254292249679565,
+      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 49,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 50,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 51,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 52,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 53,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 54,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 55,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 56,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 57,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 58,
+      "action": 1,
+      "value_estimate": -0.4437028765678406,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 58,
+      "action": 4,
+      "value_estimate": -0.5067481994628906,
+      "active_pokemon": "hitmonlee (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 59,
+      "action": 3,
+      "value_estimate": -0.23019912838935852,
+      "active_pokemon": "alcremiematchacream (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 60,
+      "action": 3,
+      "value_estimate": -0.23019912838935852,
+      "active_pokemon": "alcremiematchacream (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 61,
+      "action": 3,
+      "value_estimate": -0.23019912838935852,
+      "active_pokemon": "alcremiematchacream (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 62,
+      "action": 3,
+      "value_estimate": -0.23019912838935852,
+      "active_pokemon": "alcremiematchacream (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    },
+    {
+      "turn": 63,
+      "action": 3,
+      "value_estimate": -0.23019912838935852,
+      "active_pokemon": "alcremiematchacream (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "gliscor (pokemon object) [Active: True, Status: TOX]"
+    }
+  ]
+}

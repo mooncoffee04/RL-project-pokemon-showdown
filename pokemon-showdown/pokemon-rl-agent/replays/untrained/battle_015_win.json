@@ -1,241 +1,465 @@
 {
   "battle_num": 15,
   "outcome": "win",
-  "turns": 28,
-  "timestamp": "2025-10-31T13:49:42.795640",
-  "battle_id": "battle-gen9randombattle-26037",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26037",
+  "turns": 60,
+  "timestamp": "2025-11-02T10:40:38.568390",
+  "battle_id": "battle-gen9randombattle-26208",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26208",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": -0.05657469108700752,
-      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculin (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4598243832588196,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": -0.05657469108700752,
-      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculin (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.7761596441268921,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": -0.05657469108700752,
-      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculin (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.5222271680831909,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": -0.17787307500839233,
-      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "haxorus (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 4,
-      "action": 5,
-      "value_estimate": -0.02963636815547943,
-      "active_pokemon": "gardevoir (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "haxorus (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5379363298416138,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "urshifurapidstrike (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": -0.027948394417762756,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "haxorus (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5379363298416138,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "urshifurapidstrike (pokemon object) [Active: True, Status: PSN]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": -0.04349544644355774,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5379363298416138,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "urshifurapidstrike (pokemon object) [Active: True, Status: PSN]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": -0.046578168869018555,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculin (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5379363298416138,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "urshifurapidstrike (pokemon object) [Active: True, Status: PSN]"
+    },
+    {
+      "turn": 7,
+      "action": 7,
+      "value_estimate": -0.34811997413635254,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "urshifurapidstrike (pokemon object) [Active: True, Status: FNT]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": -0.05586177855730057,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "blaziken (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5709967017173767,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": -0.05586177855730057,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "blaziken (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 9,
-      "action": 5,
-      "value_estimate": -0.06666923314332962,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "blaziken (pokemon object) [Active: True, Status: FNT]"
+      "action": 7,
+      "value_estimate": -0.37913185358047485,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": -0.07717327773571014,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculin (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.7643110156059265,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": -0.07717327773571014,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculin (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.6040411591529846,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": 0.05104425549507141,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.5319274663925171,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonarchipelago (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": -0.12628306448459625,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.6175137162208557,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": -0.12628306448459625,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculin (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5578891634941101,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
       "action": 0,
-      "value_estimate": -0.07251357287168503,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.43304574489593506,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
       "action": 0,
-      "value_estimate": -0.030251801013946533,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.468313604593277,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonarchipelago (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
       "action": 0,
-      "value_estimate": -0.030251801013946533,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.5050563812255859,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
       "action": 0,
-      "value_estimate": -0.030251801013946533,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.542488694190979,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
       "action": 0,
-      "value_estimate": 0.05104425549507141,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.542488694190979,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
       "action": 0,
-      "value_estimate": 0.05104425549507141,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.542488694190979,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceusfire (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
       "action": 0,
-      "value_estimate": 0.05104425549507141,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.4627336859703064,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
       "action": 0,
-      "value_estimate": 0.05104425549507141,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 22,
-      "action": 5,
-      "value_estimate": -0.10154716670513153,
-      "active_pokemon": "bronzong (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.4627336859703064,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
       "action": 0,
-      "value_estimate": -0.0035005249083042145,
-      "active_pokemon": "reshiram (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.4627336859703064,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 7,
+      "value_estimate": -0.41865313053131104,
+      "active_pokemon": "bruxish (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 0,
-      "value_estimate": -0.0035005249083042145,
-      "active_pokemon": "reshiram (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 24,
-      "action": 5,
-      "value_estimate": -0.12632054090499878,
-      "active_pokemon": "reshiram (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4911661744117737,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
       "action": 0,
-      "value_estimate": 0.30645543336868286,
-      "active_pokemon": "golemalola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.43128541111946106,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
       "action": 0,
-      "value_estimate": -0.5287867784500122,
-      "active_pokemon": "golemalola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.43128541111946106,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
       "action": 0,
-      "value_estimate": -0.5287867784500122,
-      "active_pokemon": "golemalola (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 27,
-      "action": 4,
-      "value_estimate": -0.0756535530090332,
-      "active_pokemon": "golemalola (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.40159428119659424,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
       "action": 0,
-      "value_estimate": -0.2744003236293793,
-      "active_pokemon": "poliwrath (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.40159428119659424,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": -0.40159428119659424,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": -0.40159428119659424,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 0,
+      "value_estimate": -0.40159428119659424,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 6,
+      "value_estimate": -0.3660527765750885,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 5,
+      "value_estimate": -0.5792200565338135,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 0,
+      "value_estimate": -0.5503056645393372,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 4,
+      "value_estimate": -0.3660527765750885,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": -0.8975719809532166,
+      "active_pokemon": "kommoo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": -0.8975719809532166,
+      "active_pokemon": "kommoo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 3,
+      "value_estimate": -0.4055679440498352,
+      "active_pokemon": "kommoo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyubusted (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": -0.4573826193809509,
+      "active_pokemon": "kommoo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dusknoir (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": -0.8994901776313782,
+      "active_pokemon": "kommoo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 5,
+      "value_estimate": -0.3134714365005493,
+      "active_pokemon": "kommoo (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 0,
+      "value_estimate": -0.5386496186256409,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 0,
+      "value_estimate": -0.5386496186256409,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 0,
+      "value_estimate": -0.5386496186256409,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 0,
+      "value_estimate": -0.5386496186256409,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 0,
+      "value_estimate": -0.5386496186256409,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 0,
+      "value_estimate": -0.5386496186256409,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 3,
+      "value_estimate": -0.2525971233844757,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyubusted (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 0,
+      "value_estimate": -0.5018829703330994,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 0,
+      "value_estimate": -0.5018829703330994,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 0,
+      "value_estimate": -0.6820899248123169,
+      "active_pokemon": "gholdengo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

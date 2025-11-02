@@ -1,192 +1,451 @@
 {
   "battle_num": 17,
   "outcome": "win",
-  "turns": 26,
-  "timestamp": "2025-10-31T15:56:35.976697",
-  "battle_id": "battle-gen9randombattle-26079",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26079",
+  "turns": 55,
+  "timestamp": "2025-11-02T12:49:01.437414",
+  "battle_id": "battle-gen9randombattle-26330",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26330",
   "decision_log": [
     {
       "turn": 1,
-      "action": 5,
-      "value_estimate": -0.07655374705791473,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bruxish (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.47821277379989624,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 5,
-      "value_estimate": 0.06526266038417816,
-      "active_pokemon": "kricketune (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bruxish (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.1690303087234497,
+      "active_pokemon": "ursaring (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 1,
-      "value_estimate": -0.04281766712665558,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zekrom (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.33163589239120483,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": -0.04281766712665558,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zekrom (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.21783946454524994,
+      "active_pokemon": "ursaring (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 1,
-      "value_estimate": -0.04281766712665558,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zekrom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4140916168689728,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 8,
+      "value_estimate": -0.4489627778530121,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 2,
-      "value_estimate": -0.16475209593772888,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.08337555825710297,
+      "active_pokemon": "ursaring (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 1,
-      "value_estimate": -0.032235316932201385,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.6848021149635315,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 2,
-      "value_estimate": -0.04142981395125389,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "entei (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3896632790565491,
+      "active_pokemon": "ursaring (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 2,
-      "value_estimate": -0.21884270012378693,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3896632790565491,
+      "active_pokemon": "ursaring (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 2,
-      "value_estimate": -0.03127278387546539,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "entei (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3896632790565491,
+      "active_pokemon": "ursaring (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 10,
+      "action": 8,
+      "value_estimate": -0.4506916403770447,
+      "active_pokemon": "ursaring (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 11,
-      "action": 2,
-      "value_estimate": -0.03127278387546539,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "entei (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.5021206140518188,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 12,
-      "action": 2,
-      "value_estimate": -0.16475209593772888,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4937330484390259,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironthorns (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1228426918387413,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 14,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.18635013699531555,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.18635013699531555,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+      "action": 3,
+      "value_estimate": -0.4937330484390259,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironthorns (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+      "action": 3,
+      "value_estimate": -0.18766739964485168,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+      "action": 3,
+      "value_estimate": -0.4957728981971741,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironthorns (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+      "action": 3,
+      "value_estimate": -0.18766739964485168,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+      "action": 3,
+      "value_estimate": -0.12477877736091614,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "staraptor (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 21,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: SLP]"
+      "action": 3,
+      "value_estimate": -0.18635013699531555,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 2,
-      "value_estimate": -0.1466253399848938,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1749328225851059,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 2,
-      "value_estimate": -0.18013736605644226,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.18635013699531555,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 2,
-      "value_estimate": -0.18013736605644226,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1749328225851059,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 2,
-      "value_estimate": -0.18013736605644226,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1749328225851059,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 2,
-      "value_estimate": -0.19661548733711243,
-      "active_pokemon": "comfey (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "espeon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1715763807296753,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 6,
+      "value_estimate": -0.4592346251010895,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": -0.4169686734676361,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 6,
+      "value_estimate": -0.4592346251010895,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": -0.13064657151699066,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": -0.16986121237277985,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": -0.16986121237277985,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": -0.16986121237277985,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": -0.11882689595222473,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 3,
+      "value_estimate": -0.11882689595222473,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": -0.11882689595222473,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": -0.5491688847541809,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 3,
+      "value_estimate": -0.11882689595222473,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": -0.11882689595222473,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": -0.11882689595222473,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 3,
+      "value_estimate": -0.11882689595222473,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 3,
+      "value_estimate": -0.11882689595222473,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 3,
+      "value_estimate": -0.11882689595222473,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 6,
+      "value_estimate": -0.4670715034008026,
+      "active_pokemon": "gurdurr (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 3,
+      "value_estimate": -0.26747503876686096,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 5,
+      "value_estimate": -0.4670715034008026,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 1,
+      "value_estimate": -0.22634249925613403,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 1,
+      "value_estimate": -0.22634249925613403,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "venusaur (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 1,
+      "value_estimate": -0.3119814991950989,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 3,
+      "value_estimate": -0.2506793141365051,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 3,
+      "value_estimate": -0.2506793141365051,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 1,
+      "value_estimate": -0.29001152515411377,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "dewgong (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 3,
+      "value_estimate": -0.2506331205368042,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 3,
+      "value_estimate": -0.2506331205368042,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 3,
+      "value_estimate": -0.2516939043998718,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 5,
+      "value_estimate": -0.49254292249679565,
+      "active_pokemon": "hippowdon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 3,
+      "value_estimate": -0.6283080577850342,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 4,
+      "value_estimate": -0.49254292249679565,
+      "active_pokemon": "empoleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 3,
+      "value_estimate": -0.33816689252853394,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 3,
+      "value_estimate": -0.33816689252853394,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 3,
+      "value_estimate": -0.33816689252853394,
+      "active_pokemon": "mukalola (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tropius (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

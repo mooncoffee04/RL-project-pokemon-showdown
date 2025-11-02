@@ -1,297 +1,122 @@
 {
   "battle_num": 15,
   "outcome": "win",
-  "turns": 36,
-  "timestamp": "2025-10-31T13:49:41.852170",
-  "battle_id": "battle-gen9randombattle-26017",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26017",
+  "turns": 15,
+  "timestamp": "2025-11-02T12:48:59.935068",
+  "battle_id": "battle-gen9randombattle-26308",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26308",
   "decision_log": [
     {
       "turn": 1,
-      "action": 3,
-      "value_estimate": 18.533109664916992,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.360578536987305,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
       "action": 1,
-      "value_estimate": 26.2835750579834,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 19.360578536987305,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 1,
-      "value_estimate": 20.387697219848633,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "virizion (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 19.966402053833008,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "morpeko (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": 26.2835750579834,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 4,
-      "action": 4,
-      "value_estimate": 20.712614059448242,
-      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.82073402404785,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "morpeko (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 3,
-      "value_estimate": 20.398622512817383,
-      "active_pokemon": "oricorio (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.82073402404785,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
       "action": 3,
-      "value_estimate": 20.284727096557617,
-      "active_pokemon": "oricorio (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "maushold (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 19.612825393676758,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 3,
-      "value_estimate": 20.398622512817383,
-      "active_pokemon": "oricorio (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.53803062438965,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
       "action": 3,
-      "value_estimate": 20.284727096557617,
-      "active_pokemon": "oricorio (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 19.599157333374023,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dodrio (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 3,
-      "value_estimate": 20.284727096557617,
-      "active_pokemon": "oricorio (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.320642471313477,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 3,
-      "value_estimate": 20.15909767150879,
-      "active_pokemon": "oricorio (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.53803062438965,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
-      "turn": 11,
-      "action": 3,
-      "value_estimate": 20.45465850830078,
-      "active_pokemon": "oricorio (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 11,
+      "turn": 10,
       "action": 4,
-      "value_estimate": 20.869796752929688,
-      "active_pokemon": "oricorio (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.323888778686523,
+      "active_pokemon": "roaringmoon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 0,
+      "value_estimate": 21.29720115661621,
+      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
       "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.29720115661621,
+      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
       "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.517385482788086,
+      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "manaphy (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
       "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.049596786499023,
+      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
       "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 16,
-      "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 17,
-      "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 19,
-      "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 20,
-      "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 21,
-      "action": 0,
-      "value_estimate": 20.145689010620117,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 22,
-      "action": 0,
-      "value_estimate": 20.572046279907227,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 23,
-      "action": 3,
-      "value_estimate": 19.959087371826172,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 24,
-      "action": 3,
-      "value_estimate": 19.959087371826172,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swampert (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 25,
-      "action": 3,
-      "value_estimate": 20.241262435913086,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swanna (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 26,
-      "action": 2,
-      "value_estimate": 20.354673385620117,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 26,
-      "action": 4,
-      "value_estimate": 21.495088577270508,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 27,
-      "action": 0,
-      "value_estimate": 20.38651466369629,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 28,
-      "action": 0,
-      "value_estimate": 20.38651466369629,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 29,
-      "action": 0,
-      "value_estimate": 20.38651466369629,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 30,
-      "action": 0,
-      "value_estimate": 20.38651466369629,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 31,
-      "action": 0,
-      "value_estimate": 20.38651466369629,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 32,
-      "action": 0,
-      "value_estimate": 20.362730026245117,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 33,
-      "action": 0,
-      "value_estimate": 20.362730026245117,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 34,
-      "action": 0,
-      "value_estimate": 20.362730026245117,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 34,
-      "action": 4,
-      "value_estimate": 22.58433723449707,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 35,
-      "action": 2,
-      "value_estimate": 21.22807502746582,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 35,
-      "action": 4,
-      "value_estimate": 22.58433723449707,
-      "active_pokemon": "grimmsnarl (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 36,
-      "action": 2,
-      "value_estimate": 22.110231399536133,
-      "active_pokemon": "toedscruel (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.049596786499023,
+      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

@@ -1,360 +1,444 @@
 {
   "battle_num": 10,
   "outcome": "win",
-  "turns": 47,
-  "timestamp": "2025-10-31T13:49:42.632667",
-  "battle_id": "battle-gen9randombattle-26032",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26032",
+  "turns": 53,
+  "timestamp": "2025-11-02T12:49:00.946796",
+  "battle_id": "battle-gen9randombattle-26323",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26323",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": -0.002099703997373581,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2567485570907593,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": -0.002099703997373581,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2567485570907593,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 5,
-      "value_estimate": -0.162126362323761,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.411513090133667,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": -0.001758921891450882,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.411513090133667,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": -0.12966565787792206,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3670378625392914,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": -0.001758921891450882,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3670378625392914,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": -0.16966375708580017,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3670378625392914,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": -0.16966375708580017,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.25546276569366455,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": -0.16966375708580017,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4770939350128174,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": -0.2106626033782959,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tornadus (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2597111463546753,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": -0.2106626033782959,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tornadus (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.7170294523239136,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": -0.09084556996822357,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.7170294523239136,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": -0.12269945442676544,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.7170294523239136,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": -0.12269945442676544,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.5515449643135071,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": -0.02891906350851059,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.7170294523239136,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 0,
-      "value_estimate": -0.2689988911151886,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.7170294523239136,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": -0.2689988911151886,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": -0.7170294523239136,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 8,
+      "value_estimate": -0.4506916403770447,
+      "active_pokemon": "orthworm (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 0,
-      "value_estimate": -0.2689988911151886,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.273644357919693,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 5,
-      "value_estimate": -0.22727495431900024,
-      "active_pokemon": "meowstic (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.4506916403770447,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 0,
-      "value_estimate": -0.10070890933275223,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5222103595733643,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 0,
-      "value_estimate": -0.25977933406829834,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.7327147722244263,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 0,
-      "value_estimate": -0.25977933406829834,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.22786250710487366,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 6,
+      "value_estimate": -0.44654035568237305,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7562176585197449,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5160136818885803,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 0,
-      "value_estimate": -0.2932409644126892,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6123654246330261,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5220211744308472,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6123654246330261,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "tornadus (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6123654246330261,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7556806802749634,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 0,
-      "value_estimate": -0.10070890933275223,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7556806802749634,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
-      "action": 0,
-      "value_estimate": -0.2932409644126892,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.546942949295044,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 0,
-      "value_estimate": -0.25977933406829834,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.546942949295044,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 32,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5087270736694336,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 33,
-      "action": 0,
-      "value_estimate": -0.2932409644126892,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5087270736694336,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 34,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.546942949295044,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 35,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "tornadus (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7468095421791077,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 36,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7468095421791077,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 37,
-      "action": 0,
-      "value_estimate": -0.09803799539804459,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: PAR]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 37,
-      "action": 5,
-      "value_estimate": -0.27120330929756165,
-      "active_pokemon": "swanna (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7468095421791077,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 38,
-      "action": 0,
-      "value_estimate": -0.27578628063201904,
-      "active_pokemon": "weavile (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hatterene (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7468095421791077,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 39,
-      "action": 0,
-      "value_estimate": -0.28585687279701233,
-      "active_pokemon": "weavile (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6123654246330261,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 40,
-      "action": 0,
-      "value_estimate": -0.3018936514854431,
-      "active_pokemon": "weavile (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 40,
-      "action": 5,
-      "value_estimate": -0.2989930510520935,
-      "active_pokemon": "weavile (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5087270736694336,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 41,
-      "action": 0,
-      "value_estimate": 0.03226839378476143,
-      "active_pokemon": "copperajah (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7468095421791077,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 42,
-      "action": 0,
-      "value_estimate": -0.4290827810764313,
-      "active_pokemon": "copperajah (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.7468095421791077,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 43,
-      "action": 0,
-      "value_estimate": -0.4346065819263458,
-      "active_pokemon": "copperajah (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.546942949295044,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 6,
+      "value_estimate": -0.4594704508781433,
+      "active_pokemon": "camerupt (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 44,
-      "action": 0,
-      "value_estimate": -0.4107140898704529,
-      "active_pokemon": "copperajah (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2554006278514862,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 6,
+      "value_estimate": -0.4594704508781433,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 45,
-      "action": 0,
-      "value_estimate": -0.3713865578174591,
-      "active_pokemon": "copperajah (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5441083908081055,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 46,
-      "action": 0,
-      "value_estimate": -0.3730910122394562,
-      "active_pokemon": "copperajah (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.5467941164970398,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 47,
-      "action": 0,
-      "value_estimate": -0.33123013377189636,
-      "active_pokemon": "copperajah (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zapdosgalar (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.792754054069519,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 6,
+      "value_estimate": -0.4594704508781433,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 3,
+      "value_estimate": -0.4151262640953064,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "landorustherian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 6,
+      "value_estimate": -0.6180784702301025,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "calyrex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 3,
+      "value_estimate": -0.385684609413147,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 6,
+      "value_estimate": -0.4626316428184509,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "calyrex (pokemon object) [Active: True, Status: FNT]"
+    },
+    {
+      "turn": 51,
+      "action": 6,
+      "value_estimate": -0.41585665941238403,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 6,
+      "value_estimate": -0.4685036540031433,
+      "active_pokemon": "ribombee (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 3,
+      "value_estimate": -0.40123042464256287,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 5,
+      "value_estimate": -0.49254292249679565,
+      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "charizard (pokemon object) [Active: True, Status: FNT]"
+    },
+    {
+      "turn": 53,
+      "action": 2,
+      "value_estimate": -0.34119343757629395,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

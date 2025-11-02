@@ -1,150 +1,318 @@
 {
   "battle_num": 3,
   "outcome": "win",
-  "turns": 20,
-  "timestamp": "2025-10-31T15:56:33.702681",
-  "battle_id": "battle-gen9randombattle-26045",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26045",
+  "turns": 39,
+  "timestamp": "2025-11-02T12:48:59.494201",
+  "battle_id": "battle-gen9randombattle-26296",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26296",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": 20.7172908782959,
-      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.4133243560791,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": 20.82073402404785,
-      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jolteon (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.4133243560791,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": 21.453777313232422,
-      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "baxcalibur (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.592666625976562,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotommow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 4,
+      "value_estimate": 19.99529457092285,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": 20.611286163330078,
-      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.22857093811035,
+      "active_pokemon": "flapple (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
       "action": 0,
-      "value_estimate": 20.82073402404785,
-      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.460527420043945,
+      "active_pokemon": "flapple (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
       "action": 0,
-      "value_estimate": 20.53803062438965,
-      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironjugulis (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.460527420043945,
+      "active_pokemon": "flapple (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "flapple (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "perrserker (pokemon object) [Active: True, Status: FNT]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": 20.413084030151367,
-      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.611452102661133,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": 20.413084030151367,
-      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.611452102661133,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 20.056100845336914,
+      "active_pokemon": "ambipom (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 4,
-      "value_estimate": 19.755027770996094,
-      "active_pokemon": "meloetta (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.533992767333984,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
       "action": 0,
-      "value_estimate": 20.326980590820312,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.712007522583008,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
       "action": 0,
-      "value_estimate": 20.326980590820312,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.579008102416992,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "haxorus (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
       "action": 0,
-      "value_estimate": 20.326980590820312,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 19.949251174926758,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 1,
-      "value_estimate": 19.84870719909668,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 19.949251174926758,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 1,
-      "value_estimate": 19.84870719909668,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.579008102416992,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "haxorus (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
       "action": 0,
-      "value_estimate": 20.532682418823242,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.23021125793457,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tentacruel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
       "action": 0,
-      "value_estimate": 20.532682418823242,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 22.118873596191406,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
       "action": 0,
-      "value_estimate": 20.532682418823242,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regirock (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 22.118873596191406,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
       "action": 0,
-      "value_estimate": 20.00734519958496,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 22.118873596191406,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
       "action": 0,
-      "value_estimate": 20.053407669067383,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironjugulis (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 22.118873596191406,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
       "action": 0,
-      "value_estimate": 20.17790985107422,
-      "active_pokemon": "trevenant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "charizard (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 22.118873596191406,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 22.118873596191406,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": 22.118873596191406,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 22.118873596191406,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": 22.118873596191406,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": 21.075918197631836,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "amoonguss (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": 21.612451553344727,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 0,
+      "value_estimate": 21.612451553344727,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": 21.612451553344727,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": 21.612451553344727,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": 21.612451553344727,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 0,
+      "value_estimate": 21.612451553344727,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 0,
+      "value_estimate": 20.07258415222168,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 0,
+      "value_estimate": 20.07258415222168,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 0,
+      "value_estimate": 20.07258415222168,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 0,
+      "value_estimate": 20.07258415222168,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 0,
+      "value_estimate": 21.612451553344727,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 0,
+      "value_estimate": 21.612451553344727,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 4,
+      "value_estimate": 18.446016311645508,
+      "active_pokemon": "dondozo (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": 20.393991470336914,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chesnaught (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 3,
+      "value_estimate": 20.9598445892334,
+      "active_pokemon": "volcarona (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "duraludon (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

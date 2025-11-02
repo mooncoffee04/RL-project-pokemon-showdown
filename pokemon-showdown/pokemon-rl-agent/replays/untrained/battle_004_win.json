@@ -1,185 +1,682 @@
 {
   "battle_num": 4,
   "outcome": "win",
-  "turns": 21,
-  "timestamp": "2025-10-31T15:56:34.686566",
-  "battle_id": "battle-gen9randombattle-26066",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26066",
+  "turns": 91,
+  "timestamp": "2025-11-02T12:49:00.532310",
+  "battle_id": "battle-gen9randombattle-26317",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26317",
   "decision_log": [
     {
       "turn": 1,
-      "action": 1,
-      "value_estimate": -0.12027440965175629,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.49253183603286743,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wochien (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 1,
-      "value_estimate": -0.12027440965175629,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6743722558021545,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 5,
-      "value_estimate": -0.13212594389915466,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "chimecho (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.5975228548049927,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wochien (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": 0.035142429172992706,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "chimecho (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.36171627044677734,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wochien (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 1,
-      "value_estimate": 0.0037139877676963806,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "porygonz (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4417664110660553,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delibird (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 1,
-      "value_estimate": -0.037367552518844604,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gothitelle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4417664110660553,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "delibird (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 1,
-      "value_estimate": -0.037367552518844604,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gothitelle (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.3366430401802063,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 1,
-      "value_estimate": -0.037367552518844604,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gothitelle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5780127644538879,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 1,
-      "value_estimate": -0.31089910864830017,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.3852942883968353,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "wochien (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 1,
-      "value_estimate": -0.31089910864830017,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4095879793167114,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 1,
-      "value_estimate": 0.12704454362392426,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4095879793167114,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 1,
-      "value_estimate": 0.12704454362392426,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dachsbun (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3754929304122925,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 1,
-      "value_estimate": -0.26720139384269714,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3754929304122925,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 1,
-      "value_estimate": -0.10476341843605042,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 14,
-      "action": 5,
-      "value_estimate": -0.5297156572341919,
-      "active_pokemon": "ironmoth (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3754929304122925,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 15,
-      "action": 1,
-      "value_estimate": -0.3156277537345886,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3754929304122925,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 16,
-      "action": 1,
-      "value_estimate": -0.29600757360458374,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "revavroom (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.5159125924110413,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wochien (pokemon object) [Active: True, Status: PSN]"
     },
     {
       "turn": 17,
-      "action": 1,
-      "value_estimate": -0.11138352751731873,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 17,
-      "action": 5,
-      "value_estimate": -0.5299092531204224,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5743873119354248,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 1,
-      "value_estimate": 0.04497066140174866,
-      "active_pokemon": "vivillonsavanna (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 5,
-      "value_estimate": -0.5408852696418762,
-      "active_pokemon": "vivillonsavanna (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.47625526785850525,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 2,
-      "value_estimate": -0.08989134430885315,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 19,
-      "action": 5,
-      "value_estimate": -0.5518359541893005,
-      "active_pokemon": "golurk (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6182262897491455,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sableye (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 1,
-      "value_estimate": -0.16948261857032776,
-      "active_pokemon": "ditto (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.45521825551986694,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 21,
+      "action": 3,
+      "value_estimate": -0.5743873119354248,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 6,
+      "value_estimate": -0.5734049677848816,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": -0.32270127534866333,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 24,
+      "action": 6,
+      "value_estimate": -0.43595200777053833,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 3,
+      "value_estimate": -0.37320294976234436,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 26,
+      "action": 6,
+      "value_estimate": -0.46248841285705566,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 27,
+      "action": 8,
+      "value_estimate": -0.31447482109069824,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 28,
+      "action": 8,
+      "value_estimate": -0.3644159138202667,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 29,
+      "action": 8,
+      "value_estimate": -0.31447482109069824,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 30,
+      "action": 8,
+      "value_estimate": -0.3644159138202667,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": -0.7724969983100891,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "wochien (pokemon object) [Active: True, Status: PSN]"
+    },
+    {
+      "turn": 32,
+      "action": 6,
+      "value_estimate": -0.42340087890625,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 3,
+      "value_estimate": -0.5549799799919128,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 6,
+      "value_estimate": -0.5672610998153687,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 8,
+      "value_estimate": -0.3113095164299011,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 8,
+      "value_estimate": -0.3530261814594269,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 8,
+      "value_estimate": -0.45884963870048523,
+      "active_pokemon": "emboar (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": -0.3492651879787445,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": -0.41823747754096985,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 3,
+      "value_estimate": -0.41823747754096985,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 6,
+      "value_estimate": -0.4626316428184509,
+      "active_pokemon": "ariados (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 3,
+      "value_estimate": -0.5428123474121094,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "toxapex (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 6,
+      "value_estimate": -0.42819496989250183,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 3,
+      "value_estimate": -0.2702300548553467,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 3,
+      "value_estimate": -0.2702300548553467,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 3,
+      "value_estimate": -0.2702300548553467,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 3,
+      "value_estimate": -0.2702300548553467,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 46,
+      "action": 3,
+      "value_estimate": -0.2702300548553467,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 47,
+      "action": 3,
+      "value_estimate": -0.2702300548553467,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 48,
+      "action": 3,
+      "value_estimate": -0.2702300548553467,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 3,
+      "value_estimate": -0.2702300548553467,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 52,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 53,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 54,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 55,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 56,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 57,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 58,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 59,
+      "action": 1,
+      "value_estimate": -0.46346163749694824,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 59,
+      "action": 6,
+      "value_estimate": -0.4786745011806488,
+      "active_pokemon": "porygon2 (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 60,
+      "action": 3,
+      "value_estimate": -0.32421210408210754,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 60,
+      "action": 5,
+      "value_estimate": -0.49254292249679565,
+      "active_pokemon": "crabominable (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 61,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 62,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 63,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 64,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 65,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 66,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 67,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 68,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 69,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 70,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 71,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 72,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 73,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 74,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 75,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 76,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 77,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 78,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 79,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 80,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 81,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 82,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 83,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 84,
+      "action": 3,
+      "value_estimate": -0.12390084564685822,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: SLP]"
+    },
+    {
+      "turn": 85,
+      "action": 1,
+      "value_estimate": -0.5049896836280823,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 86,
       "action": 0,
-      "value_estimate": -0.42854413390159607,
-      "active_pokemon": "ditto (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ludicolo (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.4612434506416321,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 87,
+      "action": 0,
+      "value_estimate": -0.4612434506416321,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 88,
+      "action": 1,
+      "value_estimate": -0.5049896836280823,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 89,
+      "action": 0,
+      "value_estimate": -0.4612434506416321,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 89,
+      "action": 4,
+      "value_estimate": -0.5067481994628906,
+      "active_pokemon": "kingdra (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 90,
+      "action": 3,
+      "value_estimate": -0.2789415717124939,
+      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 91,
+      "action": 3,
+      "value_estimate": -0.2789415717124939,
+      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dondozo (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

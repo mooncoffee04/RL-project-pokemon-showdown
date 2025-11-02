@@ -1,0 +1,451 @@
+{
+  "battle_num": 4,
+  "outcome": "loss",
+  "turns": 57,
+  "timestamp": "2025-11-02T12:38:37.172553",
+  "battle_id": "battle-gen9randombattle-26277",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26277",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 2,
+      "value_estimate": 0.5528860688209534,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 5,
+      "value_estimate": 0.7424098253250122,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 2,
+      "value_estimate": 0.3312324583530426,
+      "active_pokemon": "sableye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 2,
+      "value_estimate": 0.5649229288101196,
+      "active_pokemon": "sableye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 2,
+      "value_estimate": 0.2552699148654938,
+      "active_pokemon": "sableye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 2,
+      "value_estimate": 0.37578049302101135,
+      "active_pokemon": "sableye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 2,
+      "value_estimate": 0.2860736846923828,
+      "active_pokemon": "sableye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 2,
+      "value_estimate": 0.3890857696533203,
+      "active_pokemon": "sableye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 2,
+      "value_estimate": 0.2646554112434387,
+      "active_pokemon": "sableye (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 6,
+      "value_estimate": 0.31239819526672363,
+      "active_pokemon": "sableye (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 2,
+      "value_estimate": 0.7873603105545044,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 2,
+      "value_estimate": 0.40511518716812134,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cryogonal (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 2,
+      "value_estimate": 0.7873603105545044,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 2,
+      "value_estimate": 0.7873603105545044,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 2,
+      "value_estimate": 0.7873603105545044,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 2,
+      "value_estimate": 0.7273823022842407,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 0.48302772641181946,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 2,
+      "value_estimate": 0.48530447483062744,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 2,
+      "value_estimate": 0.48530447483062744,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 2,
+      "value_estimate": 0.48530447483062744,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 2,
+      "value_estimate": 0.48302772641181946,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 6,
+      "value_estimate": 0.29520463943481445,
+      "active_pokemon": "feraligatr (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 2,
+      "value_estimate": 0.7512249946594238,
+      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 0.5532135963439941,
+      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 0.5532135963439941,
+      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": 0.5966958999633789,
+      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 25,
+      "action": 2,
+      "value_estimate": 0.5966958999633789,
+      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 26,
+      "action": 2,
+      "value_estimate": 0.5532135963439941,
+      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 27,
+      "action": 2,
+      "value_estimate": 0.5532135963439941,
+      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 27,
+      "action": 6,
+      "value_estimate": 0.27041181921958923,
+      "active_pokemon": "tyranitar (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 28,
+      "action": 2,
+      "value_estimate": 0.5190412998199463,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 29,
+      "action": 2,
+      "value_estimate": 0.5147347450256348,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 2,
+      "value_estimate": 0.5117501616477966,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 2,
+      "value_estimate": 0.4906085133552551,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 32,
+      "action": 2,
+      "value_estimate": 0.5117501616477966,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 2,
+      "value_estimate": 0.5117501616477966,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 2,
+      "value_estimate": 0.5117501616477966,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 2,
+      "value_estimate": 0.5117501616477966,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 2,
+      "value_estimate": 0.5117501616477966,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 2,
+      "value_estimate": 0.5117501616477966,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 2,
+      "value_estimate": 0.4906085133552551,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 39,
+      "action": 2,
+      "value_estimate": 0.4999310374259949,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 5,
+      "value_estimate": 0.2372521162033081,
+      "active_pokemon": "ironhands (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 2,
+      "value_estimate": 1.0961108207702637,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 0,
+      "value_estimate": 0.6249292492866516,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 41,
+      "action": 4,
+      "value_estimate": 0.2372521162033081,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 2,
+      "value_estimate": 0.5219898223876953,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 2,
+      "value_estimate": 0.5219898223876953,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 2,
+      "value_estimate": 0.5501974821090698,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 45,
+      "action": 2,
+      "value_estimate": 0.5501974821090698,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 46,
+      "action": 2,
+      "value_estimate": 0.546438455581665,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 2,
+      "value_estimate": 0.5501974821090698,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "clawitzer (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 48,
+      "action": 2,
+      "value_estimate": 0.5225316882133484,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 2,
+      "value_estimate": 0.5225316882133484,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 2,
+      "value_estimate": 0.546438455581665,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 2,
+      "value_estimate": 0.5287882089614868,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 51,
+      "action": 4,
+      "value_estimate": 0.20575734972953796,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 52,
+      "action": 0,
+      "value_estimate": 0.6037255525588989,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 53,
+      "action": 0,
+      "value_estimate": 0.6205084323883057,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 54,
+      "action": 0,
+      "value_estimate": 0.6205084323883057,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "barraskewda (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 55,
+      "action": 0,
+      "value_estimate": 0.597057580947876,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "overqwil (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 2,
+      "value_estimate": 1.101811170578003,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 2,
+      "value_estimate": 1.101811170578003,
+      "active_pokemon": "furret (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironleaves (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

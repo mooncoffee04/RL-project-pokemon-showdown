@@ -1,465 +1,465 @@
 {
   "battle_num": 2,
   "outcome": "win",
-  "turns": 61,
-  "timestamp": "2025-10-31T13:49:42.218349",
-  "battle_id": "battle-gen9randombattle-26024",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26024",
+  "turns": 60,
+  "timestamp": "2025-11-02T12:38:37.004384",
+  "battle_id": "battle-gen9randombattle-26275",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26275",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": 0.023155800998210907,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.6371248960494995,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "falinks (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": 0.045105163007974625,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5194370746612549,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gastrodoneast (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": 0.1096855103969574,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.501422643661499,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "veluza (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": -0.04250555858016014,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.501422643661499,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "veluza (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": -0.09426306188106537,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5192371606826782,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gastrodoneast (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": 0.01937171258032322,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5192371606826782,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gastrodoneast (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": -0.13758668303489685,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5192371606826782,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gastrodoneast (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": -0.13758668303489685,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.37145906686782837,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 6,
+      "value_estimate": 0.31849953532218933,
+      "active_pokemon": "terapagosterastal (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": -0.13758668303489685,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.46687746047973633,
+      "active_pokemon": "diancie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 6,
+      "value_estimate": 0.30313146114349365,
+      "active_pokemon": "diancie (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": -0.13758668303489685,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.5056987404823303,
+      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": -0.13758668303489685,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.7236666679382324,
+      "active_pokemon": "torkoal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "veluza (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": -0.08264227211475372,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.7385962605476379,
+      "active_pokemon": "torkoal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": -0.13758668303489685,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5326297879219055,
+      "active_pokemon": "torkoal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "falinks (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": -0.13758668303489685,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.4465792179107666,
+      "active_pokemon": "torkoal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": -0.14929643273353577,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.5056987404823303,
+      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 0,
-      "value_estimate": -0.17359772324562073,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.4465792179107666,
+      "active_pokemon": "torkoal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": -0.051194917410612106,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.5056987404823303,
+      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 6,
+      "value_estimate": 0.2887360453605652,
+      "active_pokemon": "torkoal (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 0,
-      "value_estimate": 0.06441877037286758,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5552400946617126,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 0,
-      "value_estimate": 0.06441877037286758,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: SLP]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.5399718284606934,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 0,
-      "value_estimate": -0.026172995567321777,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: SLP]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.7918063402175903,
+      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 0,
-      "value_estimate": -0.026172995567321777,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: SLP]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4172961711883545,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 0,
-      "value_estimate": -0.051194917410612106,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: SLP]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.7207863330841064,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "veluza (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 5,
+      "value_estimate": 0.2372521162033081,
+      "active_pokemon": "haxorus (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "veluza (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 0,
-      "value_estimate": 0.06441877037286758,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.7112966775894165,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "veluza (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 0,
-      "value_estimate": -0.051194917410612106,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.389001727104187,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 0,
-      "value_estimate": -0.051194917410612106,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5122075080871582,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 0,
-      "value_estimate": -0.026172995567321777,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5397399663925171,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 0,
-      "value_estimate": -0.026172995567321777,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5146733522415161,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gastrodoneast (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 0,
-      "value_estimate": -0.026172995567321777,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 28,
-      "action": 5,
-      "value_estimate": -0.22727495431900024,
-      "active_pokemon": "dachsbun (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5146733522415161,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gastrodoneast (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 0,
-      "value_estimate": 0.11243801563978195,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5146733522415161,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gastrodoneast (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
-      "action": 0,
-      "value_estimate": -0.3259328007698059,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5146733522415161,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gastrodoneast (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 0,
-      "value_estimate": -0.21242663264274597,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5146733522415161,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gastrodoneast (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 32,
-      "action": 0,
-      "value_estimate": -0.05911797657608986,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.389001727104187,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 33,
-      "action": 0,
-      "value_estimate": -0.05911797657608986,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5298296809196472,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 34,
-      "action": 0,
-      "value_estimate": -0.21242663264274597,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5298296809196472,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 35,
-      "action": 0,
-      "value_estimate": -0.21242663264274597,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5298296809196472,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 36,
-      "action": 0,
-      "value_estimate": -0.21242663264274597,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.3970049023628235,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 37,
-      "action": 0,
-      "value_estimate": -0.21242663264274597,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 37,
-      "action": 5,
-      "value_estimate": -0.27120330929756165,
-      "active_pokemon": "cramorant (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.3970049023628235,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 38,
-      "action": 0,
-      "value_estimate": -0.13519424200057983,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5211998224258423,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 39,
-      "action": 0,
-      "value_estimate": -0.08101725578308105,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5211998224258423,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 40,
-      "action": 0,
-      "value_estimate": -0.08101725578308105,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "primarina (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.3970049023628235,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 41,
-      "action": 0,
-      "value_estimate": -0.15816614031791687,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5285402536392212,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 42,
-      "action": 0,
-      "value_estimate": -0.13519424200057983,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5285402536392212,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 43,
-      "action": 0,
-      "value_estimate": -0.11742561310529709,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5285402536392212,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 44,
-      "action": 0,
-      "value_estimate": -0.15816614031791687,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5349467992782593,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gholdengo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 45,
-      "action": 0,
-      "value_estimate": -0.15816614031791687,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4057126045227051,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 46,
-      "action": 0,
-      "value_estimate": -0.2088828682899475,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4057126045227051,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 47,
-      "action": 0,
-      "value_estimate": -0.22261275351047516,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4057126045227051,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 48,
-      "action": 0,
-      "value_estimate": -0.23345084488391876,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4057126045227051,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 49,
-      "action": 0,
-      "value_estimate": -0.08638764172792435,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "primarina (pokemon object) [Active: True, Status: PSN]"
+      "action": 2,
+      "value_estimate": 0.5296337604522705,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 50,
-      "action": 0,
-      "value_estimate": -0.3131416141986847,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5296337604522705,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 51,
-      "action": 0,
-      "value_estimate": -0.3131416141986847,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.40578263998031616,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 52,
-      "action": 0,
-      "value_estimate": -0.19414672255516052,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: TOX]"
-    },
-    {
-      "turn": 52,
-      "action": 5,
-      "value_estimate": -0.21494238078594208,
-      "active_pokemon": "toxapex (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "raichualola (pokemon object) [Active: True, Status: FNT]"
+      "action": 2,
+      "value_estimate": 0.40578263998031616,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 53,
-      "action": 0,
-      "value_estimate": -0.15721002221107483,
-      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49983248114585876,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 54,
-      "action": 0,
-      "value_estimate": -0.15721002221107483,
-      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49983248114585876,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 55,
-      "action": 0,
-      "value_estimate": -0.2627529501914978,
-      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49983248114585876,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 56,
-      "action": 0,
-      "value_estimate": -0.14361625909805298,
-      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49983248114585876,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 57,
-      "action": 0,
-      "value_estimate": -0.14361625909805298,
-      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49983248114585876,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 4,
+      "value_estimate": 0.2690162658691406,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 58,
-      "action": 0,
-      "value_estimate": -0.08666850626468658,
-      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 58,
-      "action": 5,
-      "value_estimate": -0.12632054090499878,
-      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49887949228286743,
+      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 59,
-      "action": 0,
-      "value_estimate": -0.1100958064198494,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.3859987258911133,
+      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cobalion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 60,
-      "action": 0,
-      "value_estimate": -0.1100958064198494,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 61,
-      "action": 0,
-      "value_estimate": -0.013590283691883087,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.501670241355896,
+      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "krookodile (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

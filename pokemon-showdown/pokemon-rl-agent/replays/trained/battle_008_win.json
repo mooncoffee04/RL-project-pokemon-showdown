@@ -1,122 +1,248 @@
 {
   "battle_num": 8,
   "outcome": "win",
-  "turns": 15,
-  "timestamp": "2025-10-31T15:56:33.901482",
-  "battle_id": "battle-gen9randombattle-26050",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26050",
+  "turns": 31,
+  "timestamp": "2025-11-02T12:48:59.706284",
+  "battle_id": "battle-gen9randombattle-26301",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26301",
   "decision_log": [
     {
       "turn": 1,
       "action": 3,
-      "value_estimate": 20.62677001953125,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "weezinggalar (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.66214370727539,
+      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "noctowl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 1,
-      "value_estimate": 20.998445510864258,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.433584213256836,
+      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grumpig (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 3,
-      "action": 3,
-      "value_estimate": 20.783903121948242,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.70159149169922,
+      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grumpig (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 4,
       "action": 0,
-      "value_estimate": 22.162683486938477,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.70159149169922,
+      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grumpig (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": 22.162683486938477,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.536338806152344,
+      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "noctowl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 1,
-      "value_estimate": 20.154752731323242,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.536338806152344,
+      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "noctowl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": 21.853200912475586,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.66214370727539,
+      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "noctowl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 3,
-      "value_estimate": 20.221433639526367,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sunflora (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.36689567565918,
+      "active_pokemon": "charizard (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tatsugiridroopy (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "charizard (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "tatsugiridroopy (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 3,
-      "value_estimate": 20.221433639526367,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sunflora (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.230018615722656,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tatsugiridroopy (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 1,
-      "value_estimate": 20.154752731323242,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 10,
-      "action": 4,
-      "value_estimate": 20.323888778686523,
-      "active_pokemon": "brambleghast (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.91522789001465,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "noctowl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 1,
-      "value_estimate": 21.07859230041504,
-      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.91522789001465,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "noctowl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 1,
-      "value_estimate": 21.07859230041504,
-      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.91522789001465,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "noctowl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
       "action": 2,
-      "value_estimate": 21.205354690551758,
-      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "weezinggalar (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.230018615722656,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tatsugiridroopy (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
       "action": 2,
-      "value_estimate": 21.205354690551758,
-      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "weezinggalar (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.230018615722656,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tatsugiridroopy (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 3,
-      "value_estimate": 21.500776290893555,
-      "active_pokemon": "zaciancrowned (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.89275550842285,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "milotic (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 2,
+      "value_estimate": 22.10000991821289,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 0,
+      "value_estimate": 20.815526962280273,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 0,
+      "value_estimate": 20.815526962280273,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 0,
+      "value_estimate": 20.815526962280273,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 0,
+      "value_estimate": 21.305614471435547,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mewtwo (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 0,
+      "value_estimate": 19.77587890625,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "noctowl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 0,
+      "value_estimate": 20.083486557006836,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 0,
+      "value_estimate": 20.815526962280273,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 0,
+      "value_estimate": 20.815526962280273,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": 20.815526962280273,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 0,
+      "value_estimate": 20.262659072875977,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "noctowl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 2,
+      "value_estimate": 22.10000991821289,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "tinglu (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": 22.809795379638672,
+      "active_pokemon": "rhyperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": 22.809795379638672,
+      "active_pokemon": "rhyperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 0,
+      "value_estimate": 22.809795379638672,
+      "active_pokemon": "rhyperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ampharos (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 0,
+      "value_estimate": 23.600723266601562,
+      "active_pokemon": "rhyperior (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

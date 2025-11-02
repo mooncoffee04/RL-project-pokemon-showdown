@@ -1,213 +1,311 @@
 {
   "battle_num": 5,
   "outcome": "win",
-  "turns": 26,
-  "timestamp": "2025-10-31T15:56:33.771611",
-  "battle_id": "battle-gen9randombattle-26047",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26047",
+  "turns": 38,
+  "timestamp": "2025-11-02T12:48:59.583434",
+  "battle_id": "battle-gen9randombattle-26298",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26298",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": 21.124975204467773,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 19.562562942504883,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueyehisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
       "action": 0,
-      "value_estimate": 21.124975204467773,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.251340866088867,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reuniclus (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
       "action": 0,
-      "value_estimate": 21.124975204467773,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.251340866088867,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reuniclus (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": 21.94493865966797,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 20.01383399963379,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
       "action": 0,
-      "value_estimate": 21.025732040405273,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.3886661529541,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueyehisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": 21.025732040405273,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.626447677612305,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reuniclus (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
       "action": 2,
-      "value_estimate": 20.90789222717285,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.975156784057617,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
       "action": 0,
-      "value_estimate": 20.92311668395996,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.43735694885254,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": 21.43656349182129,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "falinks (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.533689498901367,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "reuniclus (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
       "action": 0,
-      "value_estimate": 21.43656349182129,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "falinks (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.606494903564453,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
       "action": 0,
-      "value_estimate": 21.821596145629883,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "suicune (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.606494903564453,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 12,
       "action": 0,
-      "value_estimate": 21.244579315185547,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.43735694885254,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
       "action": 0,
-      "value_estimate": 21.244579315185547,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.43735694885254,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 1,
-      "value_estimate": 21.280736923217773,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.43735694885254,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 1,
-      "value_estimate": 21.406301498413086,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: TOX]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 15,
-      "action": 4,
-      "value_estimate": 20.323888778686523,
-      "active_pokemon": "dudunsparcethreesegment (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.43735694885254,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "quagsire (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 1,
-      "value_estimate": 20.775949478149414,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "greedent (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.435333251953125,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "decidueyehisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 3,
-      "value_estimate": 20.698482513427734,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.596826553344727,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 18,
-      "action": 3,
-      "value_estimate": 20.698482513427734,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.435333251953125,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "decidueyehisui (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 19,
-      "action": 3,
-      "value_estimate": 20.698482513427734,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.435333251953125,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: TOX]",
+      "opponent_active": "decidueyehisui (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 20.07407569885254,
+      "active_pokemon": "greedent (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "decidueyehisui (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 20,
-      "action": 1,
-      "value_estimate": 20.591997146606445,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 21,
-      "action": 1,
-      "value_estimate": 20.591997146606445,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 20.01612663269043,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "decidueyehisui (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 21,
       "action": 4,
-      "value_estimate": 20.869796752929688,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.503080368041992,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
       "action": 2,
-      "value_estimate": 20.45083236694336,
-      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 22,
-      "action": 4,
-      "value_estimate": 20.375444412231445,
-      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.887306213378906,
+      "active_pokemon": "delphox (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 1,
-      "value_estimate": 19.50069808959961,
-      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 22.012113571166992,
+      "active_pokemon": "delphox (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 24,
-      "action": 1,
-      "value_estimate": 20.39187240600586,
-      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "arceusflying (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.11701011657715,
+      "active_pokemon": "delphox (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "passimian (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 20.869796752929688,
+      "active_pokemon": "delphox (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "passimian (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 1,
-      "value_estimate": 21.11173439025879,
-      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.242202758789062,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "passimian (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 1,
-      "value_estimate": 21.11173439025879,
-      "active_pokemon": "meowscarada (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "fezandipiti (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 21.401220321655273,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": 21.614938735961914,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": 21.614938735961914,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": 21.614938735961914,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": 21.614938735961914,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": 21.614938735961914,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 31,
+      "action": 4,
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "clodsire (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 31,
+      "action": 4,
+      "value_estimate": 18.446016311645508,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 32,
+      "action": 0,
+      "value_estimate": 17.812501907348633,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 33,
+      "action": 0,
+      "value_estimate": 17.812501907348633,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "tinglu (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": 19.039541244506836,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": 19.039541244506836,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 3,
+      "value_estimate": 19.039541244506836,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": 19.039541244506836,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 4,
+      "value_estimate": 14.274845123291016,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": 13.373096466064453,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "bisharp (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

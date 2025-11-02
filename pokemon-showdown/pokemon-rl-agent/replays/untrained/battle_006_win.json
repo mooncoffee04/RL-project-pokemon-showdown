@@ -1,269 +1,654 @@
 {
   "battle_num": 6,
   "outcome": "win",
-  "turns": 35,
-  "timestamp": "2025-10-31T15:56:34.759222",
-  "battle_id": "battle-gen9randombattle-26068",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26068",
+  "turns": 87,
+  "timestamp": "2025-11-02T12:38:37.316170",
+  "battle_id": "battle-gen9randombattle-26279",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26279",
   "decision_log": [
     {
       "turn": 1,
-      "action": 1,
-      "value_estimate": -0.14118237793445587,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4191995859146118,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
       "action": 2,
-      "value_estimate": 0.018876969814300537,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "medicham (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.531920313835144,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
       "action": 2,
-      "value_estimate": 0.08813229203224182,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6120327711105347,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
       "action": 2,
-      "value_estimate": -0.11297440528869629,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.42475032806396484,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
       "action": 2,
-      "value_estimate": -0.11297440528869629,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "latias (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5044085383415222,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
       "action": 2,
-      "value_estimate": -0.0053446292877197266,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "medicham (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.498026967048645,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
       "action": 2,
-      "value_estimate": -0.11297440528869629,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "latias (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 0.498026967048645,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 1,
-      "value_estimate": 0.004931822419166565,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.41263118386268616,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 2,
-      "value_estimate": -0.22831106185913086,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 0.3408612608909607,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 6,
+      "value_estimate": 0.31239819526672363,
+      "active_pokemon": "leafeon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 2,
-      "value_estimate": -0.22831106185913086,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.3738860487937927,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 1,
-      "value_estimate": 0.004931822419166565,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4117359220981598,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
       "action": 2,
-      "value_estimate": -0.22831106185913086,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.4117359220981598,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 13,
       "action": 2,
-      "value_estimate": -0.03812740743160248,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drednaw (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6265901327133179,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 14,
       "action": 2,
-      "value_estimate": -0.01672522723674774,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.4117359220981598,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 15,
       "action": 2,
-      "value_estimate": -0.01672522723674774,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5124070644378662,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 16,
       "action": 2,
-      "value_estimate": -0.26521065831184387,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5124070644378662,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
       "action": 2,
-      "value_estimate": -0.26521065831184387,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 0.5124070644378662,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 18,
       "action": 2,
-      "value_estimate": -0.01672522723674774,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 0.5124070644378662,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 19,
       "action": 2,
-      "value_estimate": -0.01672522723674774,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 0.5124070644378662,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 20,
       "action": 2,
-      "value_estimate": -0.014736589044332504,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drednaw (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.445721298456192,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 21,
       "action": 2,
-      "value_estimate": -0.0053446292877197266,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "medicham (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 0.41605237126350403,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 22,
       "action": 2,
-      "value_estimate": -0.006917983293533325,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5124070644378662,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 23,
       "action": 2,
-      "value_estimate": -0.006917983293533325,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5124070644378662,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 24,
       "action": 2,
-      "value_estimate": -0.22831106185913086,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 0.445721298456192,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 25,
       "action": 2,
-      "value_estimate": 0.009494036436080933,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.445721298456192,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 26,
       "action": 2,
-      "value_estimate": 0.003578498959541321,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "drednaw (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 0.7220544219017029,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 27,
-      "action": 1,
-      "value_estimate": 0.00277826189994812,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.445721298456192,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 28,
       "action": 2,
-      "value_estimate": -0.16915996372699738,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "clefable (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 0.4117359220981598,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 28,
+      "action": 6,
+      "value_estimate": 0.296450138092041,
+      "active_pokemon": "skeledirge (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 29,
       "action": 2,
-      "value_estimate": -0.20688548684120178,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.3435988128185272,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 30,
       "action": 2,
-      "value_estimate": -0.20688548684120178,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.3435988128185272,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 31,
       "action": 2,
-      "value_estimate": -0.20688548684120178,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 31,
-      "action": 5,
-      "value_estimate": -0.5189332962036133,
-      "active_pokemon": "milotic (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.3435988128185272,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 32,
-      "action": 1,
-      "value_estimate": -0.02474912256002426,
-      "active_pokemon": "keldeoresolute (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.3487090766429901,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 33,
-      "action": 0,
-      "value_estimate": -0.394247829914093,
-      "active_pokemon": "keldeoresolute (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.3817536532878876,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "malamar (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 34,
-      "action": 0,
-      "value_estimate": -0.394247829914093,
-      "active_pokemon": "keldeoresolute (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 34,
-      "action": 5,
-      "value_estimate": -0.5299092531204224,
-      "active_pokemon": "keldeoresolute (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.3953856825828552,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
     },
     {
       "turn": 35,
       "action": 2,
-      "value_estimate": 0.0239095538854599,
-      "active_pokemon": "conkeldurr (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tsareena (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.31525447964668274,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 36,
+      "action": 2,
+      "value_estimate": 0.31525447964668274,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 37,
+      "action": 2,
+      "value_estimate": 0.35857075452804565,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 6,
+      "value_estimate": 0.2887360453605652,
+      "active_pokemon": "hawlucha (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 5,
+      "value_estimate": 0.5326787233352661,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 5,
+      "value_estimate": 0.264361709356308,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 5,
+      "value_estimate": 0.5326787233352661,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 5,
+      "value_estimate": 0.264361709356308,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 5,
+      "value_estimate": 0.5326787233352661,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 5,
+      "value_estimate": 0.264361709356308,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 5,
+      "value_estimate": 0.5687627792358398,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 45,
+      "action": 5,
+      "value_estimate": 0.264361709356308,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 5,
+      "value_estimate": 0.5326787233352661,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 5,
+      "value_estimate": 0.4746929705142975,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 48,
+      "action": 5,
+      "value_estimate": 0.5687627792358398,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 49,
+      "action": 5,
+      "value_estimate": 0.34572750329971313,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 50,
+      "action": 2,
+      "value_estimate": 0.6018635034561157,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 51,
+      "action": 2,
+      "value_estimate": 0.6018635034561157,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 52,
+      "action": 5,
+      "value_estimate": 0.5687627792358398,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 53,
+      "action": 5,
+      "value_estimate": 0.34572750329971313,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 54,
+      "action": 5,
+      "value_estimate": 0.5687627792358398,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 55,
+      "action": 5,
+      "value_estimate": 0.4746929705142975,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "leavanny (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 56,
+      "action": 5,
+      "value_estimate": 0.6084849238395691,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 57,
+      "action": 5,
+      "value_estimate": 0.264361709356308,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 5,
+      "value_estimate": 0.5326787233352661,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 5,
+      "value_estimate": 0.264361709356308,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 5,
+      "value_estimate": 0.5326787233352661,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 5,
+      "value_estimate": 0.34572750329971313,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 62,
+      "action": 5,
+      "value_estimate": 0.5687627792358398,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volbeat (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 63,
+      "action": 5,
+      "value_estimate": 0.2504640221595764,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 5,
+      "value_estimate": 0.531039834022522,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 5,
+      "value_estimate": 0.2504640221595764,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 5,
+      "value_estimate": 0.6046115756034851,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 67,
+      "action": 2,
+      "value_estimate": 0.7457640171051025,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 68,
+      "action": 5,
+      "value_estimate": 0.26246801018714905,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 69,
+      "action": 5,
+      "value_estimate": 0.6051955223083496,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 70,
+      "action": 5,
+      "value_estimate": 0.26246801018714905,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 71,
+      "action": 5,
+      "value_estimate": 0.6051955223083496,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 72,
+      "action": 2,
+      "value_estimate": 0.7477777004241943,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 73,
+      "action": 2,
+      "value_estimate": 0.7477777004241943,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 74,
+      "action": 2,
+      "value_estimate": 0.7477777004241943,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "diancie (pokemon object) [Active: True, Status: BRN]"
+    },
+    {
+      "turn": 75,
+      "action": 5,
+      "value_estimate": 0.2800486385822296,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 76,
+      "action": 5,
+      "value_estimate": 0.5542815327644348,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 77,
+      "action": 5,
+      "value_estimate": 0.2800486385822296,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 78,
+      "action": 5,
+      "value_estimate": 0.5542815327644348,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 79,
+      "action": 5,
+      "value_estimate": 0.2800486385822296,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 80,
+      "action": 5,
+      "value_estimate": 0.5542815327644348,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 81,
+      "action": 5,
+      "value_estimate": 0.2800486385822296,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 82,
+      "action": 5,
+      "value_estimate": 0.5542815327644348,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 82,
+      "action": 5,
+      "value_estimate": 0.29060837626457214,
+      "active_pokemon": "palossand (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 83,
+      "action": 0,
+      "value_estimate": 0.5343083739280701,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 84,
+      "action": 0,
+      "value_estimate": 0.5343083739280701,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 84,
+      "action": 4,
+      "value_estimate": 0.28355515003204346,
+      "active_pokemon": "bellibolt (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 85,
+      "action": 0,
+      "value_estimate": 0.36976131796836853,
+      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 86,
+      "action": 0,
+      "value_estimate": 0.36976131796836853,
+      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 87,
+      "action": 0,
+      "value_estimate": 0.36976131796836853,
+      "active_pokemon": "ogerponwellspring (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "altaria (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

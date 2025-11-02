@@ -1,129 +1,283 @@
 {
   "battle_num": 13,
   "outcome": "win",
-  "turns": 17,
-  "timestamp": "2025-10-31T13:49:42.723586",
-  "battle_id": "battle-gen9randombattle-26035",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26035",
+  "turns": 35,
+  "timestamp": "2025-11-02T12:49:01.175063",
+  "battle_id": "battle-gen9randombattle-26326",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26326",
   "decision_log": [
     {
       "turn": 1,
-      "action": 0,
-      "value_estimate": 0.18689948320388794,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": -0.453144907951355,
+      "active_pokemon": "meganium (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysspeed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": 0.18689948320388794,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": -0.453144907951355,
+      "active_pokemon": "meganium (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysspeed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": 0.18689948320388794,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "bastiodon (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": -0.453144907951355,
+      "active_pokemon": "meganium (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "deoxysspeed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": 0.035448312759399414,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.32348597049713135,
+      "active_pokemon": "meganium (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 8,
+      "value_estimate": -0.46234560012817383,
+      "active_pokemon": "meganium (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": 0.33396467566490173,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.5068424344062805,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": 0.16581177711486816,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "corviknight (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.12559272348880768,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": -0.046821869909763336,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.12559272348880768,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": 0.16581177711486816,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "corviknight (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.28220295906066895,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eelektross (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": -0.021724708378314972,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1182100772857666,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ditto (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": -0.15396703779697418,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1182100772857666,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": -0.038773201406002045,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3074410855770111,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "eelektross (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": -0.1113375574350357,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4243652820587158,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 6,
+      "value_estimate": -0.4592346251010895,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": -0.038773201406002045,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5371525287628174,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": -0.038773201406002045,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "alomomola (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.9891411066055298,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": -0.021724708378314972,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.9891411066055298,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 0,
-      "value_estimate": -0.15396703779697418,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.9891411066055298,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": -0.005012057721614838,
-      "active_pokemon": "ironbundle (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "azumarill (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5052005648612976,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": -0.5052005648612976,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 3,
+      "value_estimate": -0.9891411066055298,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": -0.9891411066055298,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": -0.9891411066055298,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 6,
+      "value_estimate": -0.4663750231266022,
+      "active_pokemon": "carbink (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 3,
+      "value_estimate": -0.36077171564102173,
+      "active_pokemon": "malamar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": -0.15632303059101105,
+      "active_pokemon": "malamar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heracross (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": -0.38347339630126953,
+      "active_pokemon": "malamar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 5,
+      "value_estimate": -0.4802852272987366,
+      "active_pokemon": "malamar (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 3,
+      "value_estimate": -1.3165799379348755,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 3,
+      "value_estimate": -1.3165799379348755,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": -1.3165799379348755,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 3,
+      "value_estimate": -1.3165799379348755,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": -1.3165799379348755,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": -1.3165799379348755,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": -0.39913123846054077,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": -0.39913123846054077,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 2,
+      "value_estimate": -0.5414697527885437,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "torterra (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 1,
+      "value_estimate": -0.7102662920951843,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 2,
+      "value_estimate": -0.9047484397888184,
+      "active_pokemon": "ursalunabloodmoon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

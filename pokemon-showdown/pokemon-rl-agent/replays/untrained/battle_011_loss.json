@@ -1,0 +1,318 @@
+{
+  "battle_num": 11,
+  "outcome": "loss",
+  "turns": 39,
+  "timestamp": "2025-11-02T10:41:59.874537",
+  "battle_id": "battle-gen9randombattle-26244",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26244",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 0.5962572693824768,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 0.5962572693824768,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "walkingwake (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 4,
+      "value_estimate": 0.9325507879257202,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chienpao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 3,
+      "value_estimate": 0.9610415697097778,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chienpao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 0.1372625231742859,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 3,
+      "value_estimate": 0.8014098405838013,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 4,
+      "value_estimate": 0.2656420171260834,
+      "active_pokemon": "groudon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 1.0534212589263916,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 0.7176815271377563,
+      "active_pokemon": "pecharunt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 1.06907320022583,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 3,
+      "value_estimate": 0.9731954336166382,
+      "active_pokemon": "pecharunt (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 4,
+      "value_estimate": 0.29299116134643555,
+      "active_pokemon": "pecharunt (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 1.0673649311065674,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 4,
+      "value_estimate": 0.8456872701644897,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 1.0673649311065674,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 4,
+      "value_estimate": 0.3214064836502075,
+      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 1.066895604133606,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 4,
+      "value_estimate": 0.5717500448226929,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 4,
+      "value_estimate": 1.066895604133606,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 4,
+      "value_estimate": 0.5717500448226929,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 4,
+      "value_estimate": 1.2199645042419434,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 0.7723708152770996,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 4,
+      "value_estimate": 1.2142670154571533,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 4,
+      "value_estimate": 0.9437552094459534,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 1.2142670154571533,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 4,
+      "value_estimate": 0.8426816463470459,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 1.2195987701416016,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 0.7976096272468567,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 0.35156822204589844,
+      "active_pokemon": "zarude (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 4,
+      "value_estimate": 0.8035873174667358,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 4,
+      "value_estimate": 0.9286554455757141,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 4,
+      "value_estimate": 0.8460051417350769,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "girafarig (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 4,
+      "value_estimate": 0.7643612027168274,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 4,
+      "value_estimate": 0.9447195529937744,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 4,
+      "value_estimate": 0.39876264333724976,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 4,
+      "value_estimate": 0.8035873174667358,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 4,
+      "value_estimate": 0.7643612027168274,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 4,
+      "value_estimate": 0.9447195529937744,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "grimmsnarl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 4,
+      "value_estimate": 0.39876264333724976,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 4,
+      "value_estimate": 0.3747243881225586,
+      "active_pokemon": "jirachi (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 3,
+      "value_estimate": 0.3738647997379303,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": 0.3738647997379303,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": 0.3738647997379303,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chandelure (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 3,
+      "value_estimate": 0.9246253371238708,
+      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "raichualola (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

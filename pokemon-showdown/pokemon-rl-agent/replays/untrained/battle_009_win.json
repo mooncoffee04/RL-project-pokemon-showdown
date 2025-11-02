@@ -1,227 +1,724 @@
 {
   "battle_num": 9,
   "outcome": "win",
-  "turns": 27,
-  "timestamp": "2025-10-31T15:56:34.880261",
-  "battle_id": "battle-gen9randombattle-26071",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26071",
+  "turns": 97,
+  "timestamp": "2025-11-02T12:49:00.882296",
+  "battle_id": "battle-gen9randombattle-26322",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26322",
   "decision_log": [
     {
       "turn": 1,
-      "action": 1,
-      "value_estimate": -0.25370168685913086,
-      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.8679952025413513,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": -0.3766007423400879,
-      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rampardos (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.6690629124641418,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": -0.3953896462917328,
-      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3542855381965637,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": -0.3953896462917328,
-      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3542855381965637,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": -0.3953896462917328,
-      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironhands (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3542855381965637,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": -0.3953896462917328,
-      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 6,
-      "action": 5,
-      "value_estimate": -0.5189332962036133,
-      "active_pokemon": "hoopa (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3542855381965637,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 2,
-      "value_estimate": -0.22041061520576477,
-      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.44407910108566284,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": -0.38774338364601135,
-      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.26565152406692505,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": -0.3804854154586792,
-      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.7573774456977844,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": -0.3804854154586792,
-      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.5733091831207275,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": -0.3804854154586792,
-      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.2586202919483185,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": -0.37228158116340637,
-      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.7766803503036499,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": -0.3804854154586792,
-      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4593159258365631,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": -0.3804854154586792,
-      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "decidueye (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 14,
-      "action": 5,
-      "value_estimate": -0.5299092531204224,
-      "active_pokemon": "terrakion (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "decidueye (pokemon object) [Active: True, Status: FNT]"
+      "action": 3,
+      "value_estimate": -0.4593159258365631,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 1,
-      "value_estimate": 0.0011772438883781433,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4593159258365631,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 1,
-      "value_estimate": 0.0011772438883781433,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.5789039134979248,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 1,
-      "value_estimate": 0.0011772438883781433,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.38208720088005066,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 1,
-      "value_estimate": -0.1879938840866089,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.38208720088005066,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 1,
-      "value_estimate": 0.00820256769657135,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.8000897765159607,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 1,
-      "value_estimate": 0.00820256769657135,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.5789039134979248,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 1,
-      "value_estimate": 0.00820256769657135,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 21,
-      "action": 5,
-      "value_estimate": -0.5465644001960754,
-      "active_pokemon": "eelektross (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5071438550949097,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 2,
-      "value_estimate": -0.13950765132904053,
-      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5071438550949097,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 2,
-      "value_estimate": 0.0005983784794807434,
-      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.49271947145462036,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 2,
-      "value_estimate": 0.0005983784794807434,
-      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.37748730182647705,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 2,
-      "value_estimate": 0.0005983784794807434,
-      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 25,
-      "action": 5,
-      "value_estimate": -0.5518359541893005,
-      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.37748730182647705,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 1,
-      "value_estimate": -0.09166379272937775,
-      "active_pokemon": "sandslash (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.45818474888801575,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
+      "action": 8,
+      "value_estimate": -0.3155364394187927,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 8,
+      "value_estimate": -0.7287975549697876,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": -0.37748730182647705,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 8,
+      "value_estimate": -0.3155364394187927,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": -0.5071438550949097,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 8,
+      "value_estimate": -0.3371179699897766,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "uxie (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 3,
+      "value_estimate": -0.45818474888801575,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": -0.45818474888801575,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 8,
+      "value_estimate": -0.44654035568237305,
+      "active_pokemon": "araquanid (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": -0.5044238567352295,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 6,
+      "value_estimate": -0.30417150259017944,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": -0.2867479920387268,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": -0.2867479920387268,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 39,
+      "action": 3,
+      "value_estimate": -0.2867479920387268,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 40,
+      "action": 3,
+      "value_estimate": -0.2500280439853668,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 3,
+      "value_estimate": -0.2500280439853668,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 3,
+      "value_estimate": -0.21400409936904907,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 3,
+      "value_estimate": -0.21400409936904907,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rotom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 3,
+      "value_estimate": -0.2593410313129425,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 3,
+      "value_estimate": -0.2681441605091095,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 46,
+      "action": 3,
+      "value_estimate": -0.2681441605091095,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 47,
+      "action": 3,
+      "value_estimate": -0.2681441605091095,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 48,
+      "action": 3,
+      "value_estimate": -0.06752660870552063,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 3,
+      "value_estimate": -0.06752660870552063,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 3,
+      "value_estimate": -0.25972265005111694,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 6,
+      "value_estimate": -0.24604955315589905,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 52,
+      "action": 3,
+      "value_estimate": -0.22196152806282043,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 53,
+      "action": 6,
+      "value_estimate": -0.508047342300415,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 6,
+      "value_estimate": -0.4626316428184509,
+      "active_pokemon": "phione (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
       "action": 1,
-      "value_estimate": -0.09166379272937775,
-      "active_pokemon": "sandslash (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dragapult (pokemon object) [Active: True, Status: None]"
+      "value_estimate": -0.6681228280067444,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 3,
+      "value_estimate": -0.2056237757205963,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 56,
+      "action": 6,
+      "value_estimate": -0.5245589017868042,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 3,
+      "value_estimate": -0.7288932800292969,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 3,
+      "value_estimate": -0.7288932800292969,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 59,
+      "action": 3,
+      "value_estimate": -0.7288932800292969,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 60,
+      "action": 3,
+      "value_estimate": -0.6429213285446167,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 61,
+      "action": 3,
+      "value_estimate": -0.6429213285446167,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 62,
+      "action": 3,
+      "value_estimate": -0.7288932800292969,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 63,
+      "action": 3,
+      "value_estimate": -0.6429213285446167,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 64,
+      "action": 3,
+      "value_estimate": -0.6429213285446167,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 65,
+      "action": 3,
+      "value_estimate": -0.6429213285446167,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 66,
+      "action": 3,
+      "value_estimate": -0.6429213285446167,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 67,
+      "action": 3,
+      "value_estimate": -0.6429213285446167,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 68,
+      "action": 3,
+      "value_estimate": -0.7288932800292969,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 69,
+      "action": 3,
+      "value_estimate": -0.7288932800292969,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 70,
+      "action": 3,
+      "value_estimate": -0.6429213285446167,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 71,
+      "action": 3,
+      "value_estimate": -0.6429213285446167,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 72,
+      "action": 3,
+      "value_estimate": -0.7288932800292969,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 73,
+      "action": 3,
+      "value_estimate": -0.7288932800292969,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 73,
+      "action": 6,
+      "value_estimate": -0.4685036540031433,
+      "active_pokemon": "archaludon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 74,
+      "action": 1,
+      "value_estimate": -0.6731100678443909,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 75,
+      "action": 0,
+      "value_estimate": -0.2699353098869324,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 76,
+      "action": 0,
+      "value_estimate": -0.3240424394607544,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 77,
+      "action": 0,
+      "value_estimate": -0.3240424394607544,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 78,
+      "action": 0,
+      "value_estimate": -0.3240424394607544,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 79,
+      "action": 0,
+      "value_estimate": -0.3240424394607544,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 80,
+      "action": 0,
+      "value_estimate": -0.2699353098869324,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 81,
+      "action": 0,
+      "value_estimate": -0.2699353098869324,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 82,
+      "action": 0,
+      "value_estimate": -0.2699353098869324,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: FRZ]"
+    },
+    {
+      "turn": 83,
+      "action": 0,
+      "value_estimate": -0.2699353098869324,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 84,
+      "action": 0,
+      "value_estimate": -0.2699353098869324,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: PAR]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 84,
+      "action": 5,
+      "value_estimate": -0.4802852272987366,
+      "active_pokemon": "jumpluff (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 85,
+      "action": 3,
+      "value_estimate": -0.5015076398849487,
+      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 86,
+      "action": 3,
+      "value_estimate": -0.5015076398849487,
+      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 87,
+      "action": 3,
+      "value_estimate": -0.2585013210773468,
+      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 88,
+      "action": 3,
+      "value_estimate": -0.5015076398849487,
+      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 89,
+      "action": 3,
+      "value_estimate": -0.2597149610519409,
+      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 90,
+      "action": 3,
+      "value_estimate": -0.2597149610519409,
+      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 90,
+      "action": 4,
+      "value_estimate": -0.5067481994628906,
+      "active_pokemon": "gougingfire (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 91,
+      "action": 3,
+      "value_estimate": -0.36161836981773376,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 92,
+      "action": 3,
+      "value_estimate": -0.36161836981773376,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 93,
+      "action": 3,
+      "value_estimate": -0.36161836981773376,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 94,
+      "action": 3,
+      "value_estimate": -0.36161836981773376,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 95,
+      "action": 3,
+      "value_estimate": -0.36161836981773376,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 96,
+      "action": 3,
+      "value_estimate": -0.36161836981773376,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 97,
+      "action": 3,
+      "value_estimate": -0.36161836981773376,
+      "active_pokemon": "lurantis (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "palossand (pokemon object) [Active: True, Status: PAR]"
     }
   ]
 }

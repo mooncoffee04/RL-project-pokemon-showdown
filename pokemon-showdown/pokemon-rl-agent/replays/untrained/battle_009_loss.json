@@ -1,507 +1,514 @@
 {
   "battle_num": 9,
   "outcome": "loss",
-  "turns": 66,
-  "timestamp": "2025-10-31T13:49:42.575133",
-  "battle_id": "battle-gen9randombattle-26031",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26031",
+  "turns": 67,
+  "timestamp": "2025-11-02T10:41:59.773494",
+  "battle_id": "battle-gen9randombattle-26242",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26242",
   "decision_log": [
     {
       "turn": 1,
-      "action": 5,
-      "value_estimate": -0.06364322453737259,
-      "active_pokemon": "ursaluna (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0611095428466797,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 5,
-      "value_estimate": 0.12864753603935242,
-      "active_pokemon": "gyarados (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.9758901000022888,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": 0.1926124095916748,
-      "active_pokemon": "ursaluna (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8660683035850525,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 0,
-      "value_estimate": 0.1926124095916748,
-      "active_pokemon": "ursaluna (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.3217289447784424,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lunala (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 0,
-      "value_estimate": 0.1926124095916748,
-      "active_pokemon": "ursaluna (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8880470991134644,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": -0.012159345671534538,
-      "active_pokemon": "ursaluna (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8915340304374695,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 4,
+      "value_estimate": 0.26931849122047424,
+      "active_pokemon": "veluza (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": -0.04730655625462532,
-      "active_pokemon": "ursaluna (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 7,
-      "action": 5,
-      "value_estimate": -0.14229094982147217,
-      "active_pokemon": "ursaluna (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "rotomheat (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.141845941543579,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": -0.24520593881607056,
-      "active_pokemon": "gyarados (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rotomheat (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.6515639424324036,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": 0.022088289260864258,
-      "active_pokemon": "gyarados (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8848935961723328,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 0,
-      "value_estimate": 0.022088289260864258,
-      "active_pokemon": "gyarados (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 10,
-      "action": 5,
-      "value_estimate": -0.17881402373313904,
-      "active_pokemon": "gyarados (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.6515639424324036,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 0,
-      "value_estimate": -0.13584494590759277,
-      "active_pokemon": "mamoswine (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.1578425168991089,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 0.3012758791446686,
+      "active_pokemon": "mesprit (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": -0.13584494590759277,
-      "active_pokemon": "mamoswine (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 12,
-      "action": 5,
-      "value_estimate": -0.21494238078594208,
-      "active_pokemon": "mamoswine (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.1384608745574951,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": -0.05832206830382347,
-      "active_pokemon": "snorlax (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.6787482500076294,
+      "active_pokemon": "polteageistantique (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 0,
-      "value_estimate": -0.19373011589050293,
-      "active_pokemon": "snorlax (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.1384608745574951,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 0,
-      "value_estimate": -0.09740784019231796,
-      "active_pokemon": "snorlax (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.6787482500076294,
+      "active_pokemon": "polteageistantique (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 0,
-      "value_estimate": -0.09740784019231796,
-      "active_pokemon": "snorlax (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8776566982269287,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": -0.09740784019231796,
-      "active_pokemon": "snorlax (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.6772451400756836,
+      "active_pokemon": "polteageistantique (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 0,
-      "value_estimate": -0.09740784019231796,
-      "active_pokemon": "snorlax (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "sawsbuckautumn (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.149130940437317,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 0,
-      "value_estimate": -0.09304085373878479,
-      "active_pokemon": "snorlax (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rotomheat (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 19,
-      "action": 5,
-      "value_estimate": -0.24269717931747437,
-      "active_pokemon": "snorlax (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.6772451400756836,
+      "active_pokemon": "polteageistantique (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 0,
-      "value_estimate": -0.15749529004096985,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.149130940437317,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 4,
+      "value_estimate": 0.32693129777908325,
+      "active_pokemon": "polteageistantique (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 0,
-      "value_estimate": -0.10878351330757141,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.1258718967437744,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 0,
-      "value_estimate": -0.10878351330757141,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.2298142910003662,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 0,
-      "value_estimate": -0.10878351330757141,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8925426602363586,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 0,
-      "value_estimate": -0.07151446491479874,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.2298142910003662,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 0,
-      "value_estimate": -0.10878351330757141,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8925426602363586,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 0,
-      "value_estimate": -0.18674375116825104,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.172039270401001,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 0,
-      "value_estimate": -0.18674375116825104,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.3698629140853882,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lunala (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 0,
-      "value_estimate": -0.4833279550075531,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.2298142910003662,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 0,
-      "value_estimate": -0.4833279550075531,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.93840092420578,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
-      "action": 0,
-      "value_estimate": -0.4833279550075531,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.172039270401001,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 0,
-      "value_estimate": -0.4077422618865967,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8925426602363586,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 32,
-      "action": 0,
-      "value_estimate": -0.38739535212516785,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rotomheat (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.2298142910003662,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 33,
-      "action": 0,
-      "value_estimate": -0.6231789588928223,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rotomheat (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8441829085350037,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 34,
-      "action": 0,
-      "value_estimate": -0.6231789588928223,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.2298142910003662,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 4,
+      "value_estimate": 0.3526727855205536,
+      "active_pokemon": "golduck (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 35,
-      "action": 0,
-      "value_estimate": -0.5541491508483887,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.197941541671753,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 36,
-      "action": 0,
-      "value_estimate": -0.6231789588928223,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rotomheat (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8833721280097961,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 37,
-      "action": 0,
-      "value_estimate": -0.6016102433204651,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.197941541671753,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 38,
-      "action": 0,
-      "value_estimate": -0.6016102433204651,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8833721280097961,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 39,
-      "action": 0,
-      "value_estimate": -0.5382769107818604,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8278053998947144,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 40,
-      "action": 0,
-      "value_estimate": -0.6016102433204651,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0743685960769653,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 41,
-      "action": 0,
-      "value_estimate": -0.6016102433204651,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.197941541671753,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 42,
-      "action": 0,
-      "value_estimate": -0.6016102433204651,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0743685960769653,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 43,
-      "action": 0,
-      "value_estimate": -0.6016102433204651,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 44,
-      "action": 0,
-      "value_estimate": -0.5508078336715698,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.197941541671753,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 44,
       "action": 4,
-      "value_estimate": -0.25891512632369995,
-      "active_pokemon": "uxie (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.9421581029891968,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lunala (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 45,
-      "action": 0,
-      "value_estimate": -0.25367894768714905,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8263522386550903,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lunala (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 46,
-      "action": 0,
-      "value_estimate": -0.2769373059272766,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8833721280097961,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 47,
-      "action": 0,
-      "value_estimate": -0.25367894768714905,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.136899709701538,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 48,
-      "action": 0,
-      "value_estimate": -0.2769373059272766,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: BRN]"
+      "action": 4,
+      "value_estimate": 1.1587082147598267,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 49,
-      "action": 0,
-      "value_estimate": -0.25367894768714905,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.197941541671753,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 50,
-      "action": 0,
-      "value_estimate": -0.1681770235300064,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.1587082147598267,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 51,
-      "action": 0,
-      "value_estimate": -0.2769373059272766,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: BRN]"
+      "action": 4,
+      "value_estimate": 0.8278053998947144,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 52,
-      "action": 0,
-      "value_estimate": -0.2769373059272766,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: BRN]"
+      "action": 4,
+      "value_estimate": 1.0296828746795654,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 53,
-      "action": 0,
-      "value_estimate": -0.1681770235300064,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.136899709701538,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 54,
-      "action": 0,
-      "value_estimate": -0.1681770235300064,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0296828746795654,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 55,
-      "action": 0,
-      "value_estimate": -0.1681770235300064,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8278053998947144,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 56,
-      "action": 0,
-      "value_estimate": -0.1681770235300064,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8833721280097961,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 57,
-      "action": 0,
-      "value_estimate": -0.1681770235300064,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8278053998947144,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 4,
+      "value_estimate": 0.38059675693511963,
+      "active_pokemon": "pikachukalos (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 58,
-      "action": 0,
-      "value_estimate": -0.21274936199188232,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 0.7939383387565613,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "orthworm (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 59,
-      "action": 0,
-      "value_estimate": -0.21274936199188232,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 1.171879768371582,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 60,
-      "action": 0,
-      "value_estimate": -0.25367894768714905,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 1.171879768371582,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 61,
-      "action": 0,
-      "value_estimate": 0.04030431807041168,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 1.171879768371582,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 62,
-      "action": 0,
-      "value_estimate": -0.03288037329912186,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 1.171879768371582,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 63,
-      "action": 0,
-      "value_estimate": -0.03288037329912186,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 1.171879768371582,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 64,
-      "action": 0,
-      "value_estimate": 0.04030431807041168,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mesprit (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 1.171879768371582,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "politoed (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 65,
-      "action": 0,
-      "value_estimate": 0.053393907845020294,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "slowkinggalar (pokemon object) [Active: True, Status: BRN]"
+      "action": 3,
+      "value_estimate": 1.171879768371582,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 66,
-      "action": 0,
-      "value_estimate": -0.03288037329912186,
-      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "goodrahisui (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 1.171879768371582,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "vivillonriver (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 67,
+      "action": 3,
+      "value_estimate": 1.171879768371582,
+      "active_pokemon": "dedenne (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "vileplume (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

@@ -1,248 +1,507 @@
 {
   "battle_num": 2,
   "outcome": "loss",
-  "turns": 28,
-  "timestamp": "2025-10-31T15:56:34.546257",
-  "battle_id": "battle-gen9randombattle-26064",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26064",
+  "turns": 66,
+  "timestamp": "2025-11-02T12:49:00.327289",
+  "battle_id": "battle-gen9randombattle-26315",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26315",
   "decision_log": [
     {
       "turn": 1,
-      "action": 2,
-      "value_estimate": 0.014204822480678558,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1437235027551651,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 2,
-      "value_estimate": 0.014204822480678558,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.09311263263225555,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 2,
-      "value_estimate": 0.014204822480678558,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 3,
-      "action": 5,
-      "value_estimate": -0.5189332962036133,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.51981121301651,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": 0.012351945042610168,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.30974212288856506,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 1,
-      "value_estimate": 0.04363924264907837,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jumpluff (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.34986430406570435,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 1,
-      "value_estimate": 0.04363924264907837,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jumpluff (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.09519895911216736,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 7,
-      "value_estimate": -0.0382460281252861,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5035642385482788,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 2,
-      "value_estimate": -0.03277989849448204,
-      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": -0.30477190017700195,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 2,
-      "value_estimate": -0.03277989849448204,
-      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "jumpluff (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5654009580612183,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 2,
-      "value_estimate": -0.03277989849448204,
-      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5654009580612183,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 2,
-      "value_estimate": -0.05289532616734505,
-      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5331012606620789,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 2,
-      "value_estimate": -0.03931611776351929,
-      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5654009580612183,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 2,
-      "value_estimate": -0.03931611776351929,
-      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 13,
-      "action": 5,
-      "value_estimate": -0.5455848574638367,
-      "active_pokemon": "tatsugiristretchy (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3934500515460968,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skarmory (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 1,
-      "value_estimate": -0.118475042283535,
-      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 14,
-      "action": 5,
-      "value_estimate": -0.5455848574638367,
-      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3934500515460968,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skarmory (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 5,
-      "value_estimate": 0.16316822171211243,
-      "active_pokemon": "kilowattrel (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 15,
-      "action": 5,
-      "value_estimate": -0.5567560791969299,
-      "active_pokemon": "cinccino (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4178321957588196,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 5,
-      "value_estimate": 0.17147032916545868,
-      "active_pokemon": "kilowattrel (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4178321957588196,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 1,
-      "value_estimate": -0.2104446291923523,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4178321957588196,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 1,
-      "value_estimate": -0.2104446291923523,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4178321957588196,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 8,
+      "value_estimate": -0.44654035568237305,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 1,
-      "value_estimate": -0.05869969725608826,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "carbink (pokemon object) [Active: True, Status: PAR]"
+      "action": 3,
+      "value_estimate": -0.3327588438987732,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 1,
-      "value_estimate": -0.2104446291923523,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.19777986407279968,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "magnezone (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 1,
-      "value_estimate": -0.2104446291923523,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3327588438987732,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 2,
-      "value_estimate": -0.07805235683917999,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 22,
-      "action": 5,
-      "value_estimate": -0.5695374011993408,
-      "active_pokemon": "jolteon (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.19777986407279968,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skarmory (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 1,
-      "value_estimate": -0.25663721561431885,
-      "active_pokemon": "kilowattrel (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 23,
-      "action": 4,
-      "value_estimate": -0.5862204432487488,
-      "active_pokemon": "kilowattrel (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.19777986407279968,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skarmory (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 1,
-      "value_estimate": -0.5191067457199097,
-      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hoopaunbound (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.19777986407279968,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skarmory (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 0,
-      "value_estimate": -0.4469771981239319,
-      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.036869555711746216,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 0,
-      "value_estimate": -0.4469771981239319,
-      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.13757206499576569,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 0,
-      "value_estimate": -0.4469771981239319,
-      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ragingbolt (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.13757206499576569,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 0,
-      "value_estimate": -0.49559885263442993,
-      "active_pokemon": "zarudedada (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "inteleon (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.13757206499576569,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 3,
+      "value_estimate": -0.13757206499576569,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": -0.19692833721637726,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "skarmory (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": -0.13757206499576569,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": -0.33235964179039,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 1,
+      "value_estimate": -0.5052199363708496,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 1,
+      "value_estimate": -0.5079913139343262,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 1,
+      "value_estimate": -0.482852578163147,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 1,
+      "value_estimate": -0.482852578163147,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 1,
+      "value_estimate": -0.482852578163147,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 1,
+      "value_estimate": -0.482852578163147,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 1,
+      "value_estimate": -0.482852578163147,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 1,
+      "value_estimate": -0.482852578163147,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 1,
+      "value_estimate": -0.3609470725059509,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 1,
+      "value_estimate": -0.3609470725059509,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 1,
+      "value_estimate": -0.5082112550735474,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "cinccino (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 1,
+      "value_estimate": -0.3797347843647003,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 6,
+      "value_estimate": -0.46331992745399475,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 3,
+      "value_estimate": -0.8014139533042908,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 6,
+      "value_estimate": -0.5344266891479492,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 6,
+      "value_estimate": -0.3656546473503113,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 3,
+      "value_estimate": -0.8014139533042908,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 6,
+      "value_estimate": -0.5344266891479492,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 6,
+      "value_estimate": -0.3656546473503113,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 3,
+      "value_estimate": -0.43032345175743103,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 6,
+      "value_estimate": -0.4670715034008026,
+      "active_pokemon": "basculin (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 3,
+      "value_estimate": -0.37949007749557495,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 3,
+      "value_estimate": -0.37949007749557495,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 3,
+      "value_estimate": -0.3793962895870209,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 3,
+      "value_estimate": -0.3793962895870209,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 3,
+      "value_estimate": -0.36682993173599243,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 3,
+      "value_estimate": -0.37640103697776794,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 3,
+      "value_estimate": -0.37640103697776794,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 3,
+      "value_estimate": -0.37640103697776794,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 5,
+      "value_estimate": -0.4802852272987366,
+      "active_pokemon": "greattusk (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 3,
+      "value_estimate": -0.19877839088439941,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 3,
+      "value_estimate": -0.26420214772224426,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 62,
+      "action": 3,
+      "value_estimate": -0.26420214772224426,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 63,
+      "action": 3,
+      "value_estimate": -0.19803819060325623,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 3,
+      "value_estimate": -0.19803819060325623,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 4,
+      "value_estimate": -0.5067481994628906,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 3,
+      "value_estimate": -0.2302723526954651,
+      "active_pokemon": "porygonz (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 3,
+      "value_estimate": -0.2302723526954651,
+      "active_pokemon": "porygonz (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "mimikyu (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

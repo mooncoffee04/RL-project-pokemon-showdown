@@ -1,318 +1,521 @@
 {
   "battle_num": 19,
   "outcome": "loss",
-  "turns": 32,
-  "timestamp": "2025-10-31T15:56:36.084361",
-  "battle_id": "battle-gen9randombattle-26081",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26081",
+  "turns": 68,
+  "timestamp": "2025-11-02T10:42:00.691498",
+  "battle_id": "battle-gen9randombattle-26252",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26252",
   "decision_log": [
     {
       "turn": 1,
-      "action": 7,
-      "value_estimate": 0.11847478151321411,
-      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.9784530401229858,
+      "active_pokemon": "koraidon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 1,
-      "value_estimate": -0.15528173744678497,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.7215796709060669,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 5,
-      "value_estimate": -0.14484372735023499,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.9891273975372314,
+      "active_pokemon": "koraidon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": -0.2842741012573242,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8984585404396057,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "screamtail (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 5,
-      "value_estimate": -0.517743706703186,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 4,
-      "action": 5,
-      "value_estimate": -0.5297156572341919,
-      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.26931849122047424,
+      "active_pokemon": "koraidon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "screamtail (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 1,
-      "value_estimate": -0.20523841679096222,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 5,
-      "action": 5,
-      "value_estimate": -0.5297156572341919,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8611041307449341,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "screamtail (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 1,
-      "value_estimate": 0.06355998665094376,
-      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 6,
-      "action": 5,
-      "value_estimate": -0.5412448644638062,
-      "active_pokemon": "darkrai (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.6624962091445923,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 1,
-      "value_estimate": -0.19991172850131989,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 7,
-      "action": 5,
-      "value_estimate": -0.5412448644638062,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0680354833602905,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 2,
-      "value_estimate": 0.1340612769126892,
-      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "emboar (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0241010189056396,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "screamtail (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 2,
-      "value_estimate": 0.010297328233718872,
-      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 9,
-      "action": 5,
-      "value_estimate": -0.5567560791969299,
-      "active_pokemon": "excadrill (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8960638046264648,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 1,
-      "value_estimate": 0.029992379248142242,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 10,
-      "action": 5,
-      "value_estimate": -0.5567560791969299,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0555291175842285,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 1,
-      "value_estimate": 0.019292742013931274,
-      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8960638046264648,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 0,
-      "value_estimate": -0.3928433060646057,
-      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0528645515441895,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 0,
-      "value_estimate": -0.3928433060646057,
-      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ogerponcornerstone (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.071014642715454,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 5,
-      "value_estimate": -0.5292830467224121,
-      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculegion (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0528645515441895,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 1,
-      "value_estimate": -0.19202393293380737,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 15,
-      "action": 5,
-      "value_estimate": -0.5524657964706421,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8053760528564453,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 1,
-      "value_estimate": 0.04458227753639221,
-      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0528645515441895,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 5,
-      "value_estimate": -0.5292830467224121,
-      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculegion (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8749412894248962,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 1,
-      "value_estimate": -0.35120221972465515,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 5,
-      "value_estimate": -0.5524657964706421,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 5,
-      "value_estimate": -0.5637075901031494,
-      "active_pokemon": "fluttermane (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 19,
-      "action": 1,
-      "value_estimate": -0.36396434903144836,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.645827293395996,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
       "action": 4,
-      "value_estimate": -0.5695374011993408,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.8960638046264648,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 1,
-      "value_estimate": -0.04360014200210571,
-      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0528645515441895,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 4,
+      "value_estimate": 0.3086797595024109,
+      "active_pokemon": "uxie (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 1,
-      "value_estimate": -0.04360014200210571,
-      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0308942794799805,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 1,
-      "value_estimate": -0.06963633000850677,
-      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.5222389698028564,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 1,
-      "value_estimate": -0.04360014200210571,
-      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "venomoth (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.8914017677307129,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 1,
-      "value_estimate": -0.12763062119483948,
-      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.5222389698028564,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 1,
-      "value_estimate": -0.12763062119483948,
-      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 26,
-      "action": 1,
-      "value_estimate": 0.05751222372055054,
-      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.6398987770080566,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
       "action": 4,
-      "value_estimate": -0.5671645998954773,
-      "active_pokemon": "mewtwo (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 1.5222389698028564,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 1,
-      "value_estimate": -0.3458898663520813,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.6398987770080566,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 0,
-      "value_estimate": -0.44994431734085083,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.5222389698028564,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 0,
-      "value_estimate": -0.44994431734085083,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0308942794799805,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
-      "action": 0,
-      "value_estimate": -0.44994431734085083,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "staraptor (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.7510644793510437,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 0,
-      "value_estimate": -0.4547422230243683,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 1.0308942794799805,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 32,
-      "action": 0,
-      "value_estimate": -0.4547422230243683,
-      "active_pokemon": "dragapult (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "taurospaldeaaqua (pokemon object) [Active: True, Status: None]"
+      "action": 4,
+      "value_estimate": 0.7510644793510437,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 4,
+      "value_estimate": 1.035658836364746,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "screamtail (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 4,
+      "value_estimate": 0.8080922365188599,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "screamtail (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 4,
+      "value_estimate": 1.0308942794799805,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 4,
+      "value_estimate": 1.5222389698028564,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 4,
+      "value_estimate": 0.8914017677307129,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 4,
+      "value_estimate": 0.7510644793510437,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 4,
+      "value_estimate": 1.035658836364746,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 4,
+      "value_estimate": 0.8080922365188599,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 4,
+      "value_estimate": 1.0308942794799805,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 4,
+      "value_estimate": 0.7510644793510437,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 4,
+      "value_estimate": 1.0308942794799805,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dedenne (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 4,
+      "value_estimate": 1.5222389698028564,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 4,
+      "value_estimate": 0.32693129777908325,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 4,
+      "value_estimate": 1.5185164213180542,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": 1.3761844635009766,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": 0.3526727855205536,
+      "active_pokemon": "lumineon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 4,
+      "value_estimate": 1.3675248622894287,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 4,
+      "value_estimate": 0.749957799911499,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 4,
+      "value_estimate": 1.069321870803833,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "screamtail (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 4,
+      "value_estimate": 0.6904632449150085,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "screamtail (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 4,
+      "value_estimate": 1.1235792636871338,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 4,
+      "value_estimate": 0.7470229864120483,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 4,
+      "value_estimate": 1.3675248622894287,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 4,
+      "value_estimate": 0.749957799911499,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 4,
+      "value_estimate": 1.011077880859375,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 4,
+      "value_estimate": 0.749957799911499,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 4,
+      "value_estimate": 1.3675248622894287,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 4,
+      "value_estimate": 0.6426955461502075,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 4,
+      "value_estimate": 1.3675248622894287,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 4,
+      "value_estimate": 0.8820734024047852,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 4,
+      "value_estimate": 1.3871381282806396,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hoopa (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 62,
+      "action": 4,
+      "value_estimate": 0.749957799911499,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 63,
+      "action": 4,
+      "value_estimate": 1.011077880859375,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistcha (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 4,
+      "value_estimate": 0.7470229864120483,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 4,
+      "value_estimate": 1.3675248622894287,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 4,
+      "value_estimate": 0.38059675693511963,
+      "active_pokemon": "grumpig (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 1,
+      "value_estimate": 1.3596253395080566,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 67,
+      "action": 1,
+      "value_estimate": 1.3596253395080566,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydrapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 68,
+      "action": 1,
+      "value_estimate": 1.0585217475891113,
+      "active_pokemon": "talonflame (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "screamtail (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

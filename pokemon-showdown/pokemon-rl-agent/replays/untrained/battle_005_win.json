@@ -1,129 +1,234 @@
 {
   "battle_num": 5,
   "outcome": "win",
-  "turns": 16,
-  "timestamp": "2025-10-31T15:56:34.711806",
-  "battle_id": "battle-gen9randombattle-26067",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26067",
+  "turns": 29,
+  "timestamp": "2025-11-02T12:49:00.573722",
+  "battle_id": "battle-gen9randombattle-26318",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26318",
   "decision_log": [
     {
       "turn": 1,
-      "action": 2,
-      "value_estimate": 0.0016366764903068542,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "registeel (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.6066629886627197,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 2,
-      "value_estimate": 0.0016366764903068542,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "registeel (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.24736933410167694,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lurantis (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 2,
-      "value_estimate": 0.04831835255026817,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "registeel (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.43648260831832886,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lurantis (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 2,
-      "value_estimate": 0.036833759397268295,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.43648260831832886,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lurantis (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 2,
-      "value_estimate": 0.036833759397268295,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.37674587965011597,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 2,
-      "value_estimate": 0.039041370153427124,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zacian (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5934702754020691,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 2,
-      "value_estimate": 0.03818253055214882,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5934702754020691,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 5,
-      "value_estimate": 0.02767425775527954,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "swalot (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.5934702754020691,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 2,
-      "value_estimate": 0.006824485957622528,
-      "active_pokemon": "delibird (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.10326752066612244,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 2,
-      "value_estimate": -0.054671093821525574,
-      "active_pokemon": "delibird (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.4371832013130188,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lurantis (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 8,
+      "value_estimate": -0.458282470703125,
+      "active_pokemon": "klawf (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "lurantis (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 2,
-      "value_estimate": 0.006824485957622528,
-      "active_pokemon": "delibird (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 11,
-      "action": 5,
-      "value_estimate": -0.5297156572341919,
-      "active_pokemon": "delibird (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.229085773229599,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lurantis (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 2,
-      "value_estimate": -0.10127677023410797,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.06400507688522339,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "smeargle (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 2,
-      "value_estimate": 0.04754862189292908,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "scizor (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.16906112432479858,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 2,
-      "value_estimate": -0.09721832722425461,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.16906112432479858,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 2,
-      "value_estimate": -0.09721832722425461,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.16906112432479858,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "volcarona (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 2,
-      "value_estimate": -0.10564589500427246,
-      "active_pokemon": "swampert (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "ironbundle (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.22533190250396729,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "lurantis (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 6,
+      "value_estimate": -0.4626316428184509,
+      "active_pokemon": "oinkolognef (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "lurantis (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 3,
+      "value_estimate": -0.40799883008003235,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lurantis (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 3,
+      "value_estimate": -0.37832725048065186,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 3,
+      "value_estimate": -0.358371376991272,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 3,
+      "value_estimate": -0.358371376991272,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 3,
+      "value_estimate": -0.358371376991272,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 3,
+      "value_estimate": -0.358371376991272,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": -0.358371376991272,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": -0.21960999071598053,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 3,
+      "value_estimate": -0.21960999071598053,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gyarados (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 3,
+      "value_estimate": -0.37832725048065186,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "electivire (pokemon object) [Active: True, Status: PSN]"
+    },
+    {
+      "turn": 26,
+      "action": 6,
+      "value_estimate": -0.4685036540031433,
+      "active_pokemon": "glimmora (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 3,
+      "value_estimate": -0.3287352919578552,
+      "active_pokemon": "medicham (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 0,
+      "value_estimate": -0.592091977596283,
+      "active_pokemon": "medicham (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 0,
+      "value_estimate": -0.592091977596283,
+      "active_pokemon": "medicham (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lugia (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

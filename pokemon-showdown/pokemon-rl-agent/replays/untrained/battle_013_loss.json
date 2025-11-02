@@ -1,304 +1,899 @@
 {
   "battle_num": 13,
   "outcome": "loss",
-  "turns": 37,
-  "timestamp": "2025-10-31T15:56:35.106214",
-  "battle_id": "battle-gen9randombattle-26075",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26075",
+  "turns": 122,
+  "timestamp": "2025-11-02T12:38:37.795744",
+  "battle_id": "battle-gen9randombattle-26286",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26286",
   "decision_log": [
     {
       "turn": 1,
-      "action": 1,
-      "value_estimate": -0.19918714463710785,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.41477495431900024,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 6,
-      "value_estimate": -0.19924578070640564,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.42403149604797363,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 1,
-      "value_estimate": -0.18019627034664154,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.42403149604797363,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": -0.274802029132843,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.6394100189208984,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 1,
-      "value_estimate": -0.274802029132843,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: BRN]"
-    },
-    {
-      "turn": 5,
-      "action": 5,
-      "value_estimate": -0.5244015455245972,
-      "active_pokemon": "heatran (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: BRN]"
+      "action": 2,
+      "value_estimate": 0.6394100189208984,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 5,
-      "value_estimate": -0.10140541195869446,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: BRN]"
+      "action": 2,
+      "value_estimate": 0.6394100189208984,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 6,
-      "value_estimate": -0.18845796585083008,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.6394100189208984,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
       "action": 2,
-      "value_estimate": 0.06040900945663452,
-      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "polteageistantique (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.46099844574928284,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
       "action": 2,
-      "value_estimate": -0.2096814215183258,
-      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glimmora (pokemon object) [Active: True, Status: BRN]"
+      "value_estimate": 0.54619300365448,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
       "action": 2,
-      "value_estimate": -0.24018594622612,
-      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rhyperior (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.4871031641960144,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
       "action": 2,
-      "value_estimate": -0.24018594622612,
-      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rhyperior (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 11,
-      "action": 5,
-      "value_estimate": -0.5412448644638062,
-      "active_pokemon": "galvantula (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "rhyperior (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5372514724731445,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 5,
-      "value_estimate": -0.17046953737735748,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rhyperior (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5372514724731445,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 1,
-      "value_estimate": -0.2781584560871124,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.48607689142227173,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 1,
-      "value_estimate": -0.2781584560871124,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5372514724731445,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 1,
-      "value_estimate": -0.3616112470626831,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4871031641960144,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 1,
-      "value_estimate": -0.32732173800468445,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4871031641960144,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 1,
-      "value_estimate": -0.2743527293205261,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4871031641960144,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 1,
-      "value_estimate": 0.09737241268157959,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "rhyperior (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.48607689142227173,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 1,
-      "value_estimate": -0.2740473747253418,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 19,
-      "action": 5,
-      "value_estimate": -0.5465644001960754,
-      "active_pokemon": "virizion (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.48607689142227173,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
-      "action": 5,
-      "value_estimate": -0.11064678430557251,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4871031641960144,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
       "action": 2,
-      "value_estimate": -0.14679092168807983,
-      "active_pokemon": "cinderace (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.4871031641960144,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 5,
-      "value_estimate": -0.5206239223480225,
-      "active_pokemon": "cinderace (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4871031641960144,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
-      "action": 5,
-      "value_estimate": -0.08637383580207825,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 23,
-      "action": 5,
-      "value_estimate": -0.557806134223938,
-      "active_pokemon": "cinderace (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.6424975395202637,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 1,
-      "value_estimate": -0.07159827649593353,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49253547191619873,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
-      "action": 1,
-      "value_estimate": -0.07159827649593353,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49253547191619873,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
-      "action": 1,
-      "value_estimate": -0.09758755564689636,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49253547191619873,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
-      "action": 1,
-      "value_estimate": -0.09758755564689636,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49253547191619873,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 1,
-      "value_estimate": -0.07159827649593353,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49253547191619873,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
-      "action": 1,
-      "value_estimate": -0.07159827649593353,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 29,
-      "action": 4,
-      "value_estimate": -0.5671645998954773,
-      "active_pokemon": "chimecho (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49253547191619873,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
-      "action": 1,
-      "value_estimate": -0.09528383612632751,
-      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5384915471076965,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
-      "action": 1,
-      "value_estimate": -0.10683237016201019,
-      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.4974648058414459,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 32,
-      "action": 1,
-      "value_estimate": -0.10683237016201019,
-      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.49253547191619873,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 33,
-      "action": 1,
-      "value_estimate": -0.09528383612632751,
-      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.571908712387085,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 34,
-      "action": 1,
-      "value_estimate": -0.10683237016201019,
-      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "grafaiai (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.44680464267730713,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 35,
-      "action": 1,
-      "value_estimate": -0.09528383612632751,
-      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.45912620425224304,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 36,
-      "action": 1,
-      "value_estimate": -0.09528383612632751,
-      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.45912620425224304,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 37,
-      "action": 1,
-      "value_estimate": -0.09528383612632751,
-      "active_pokemon": "sunflora (pokemon object) [Active: True, Status: PSN]",
-      "opponent_active": "dipplin (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.44680464267730713,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 2,
+      "value_estimate": 0.571908712387085,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 2,
+      "value_estimate": 0.571908712387085,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 2,
+      "value_estimate": 0.571908712387085,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 2,
+      "value_estimate": 0.571908712387085,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 2,
+      "value_estimate": 0.44680464267730713,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 2,
+      "value_estimate": 0.4246166944503784,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 2,
+      "value_estimate": 0.571908712387085,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 2,
+      "value_estimate": 0.6041969060897827,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 2,
+      "value_estimate": 0.571908712387085,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 2,
+      "value_estimate": 0.571908712387085,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 6,
+      "value_estimate": 0.3141932487487793,
+      "active_pokemon": "giratina (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 2,
+      "value_estimate": 0.5618704557418823,
+      "active_pokemon": "lilliganthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 2,
+      "value_estimate": 0.5618704557418823,
+      "active_pokemon": "lilliganthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 6,
+      "value_estimate": 0.296450138092041,
+      "active_pokemon": "lilliganthisui (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 5,
+      "value_estimate": 0.875400185585022,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 2,
+      "value_estimate": 0.8749169707298279,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 2,
+      "value_estimate": 0.8749169707298279,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 2,
+      "value_estimate": 0.5274006128311157,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 54,
+      "action": 2,
+      "value_estimate": 0.4368993043899536,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 2,
+      "value_estimate": 0.4368993043899536,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 6,
+      "value_estimate": 0.2742796540260315,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 5,
+      "value_estimate": 0.5109658241271973,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 5,
+      "value_estimate": 0.6323330402374268,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 5,
+      "value_estimate": 0.5109658241271973,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 5,
+      "value_estimate": 0.6323330402374268,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 5,
+      "value_estimate": 0.5140048861503601,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 61,
+      "action": 5,
+      "value_estimate": 0.6350464224815369,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 62,
+      "action": 5,
+      "value_estimate": 0.5140048861503601,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 63,
+      "action": 5,
+      "value_estimate": 0.6323330402374268,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 64,
+      "action": 5,
+      "value_estimate": 0.5109658241271973,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 65,
+      "action": 5,
+      "value_estimate": 0.6323330402374268,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 66,
+      "action": 5,
+      "value_estimate": 0.5109658241271973,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 67,
+      "action": 5,
+      "value_estimate": 0.6350464224815369,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 68,
+      "action": 5,
+      "value_estimate": 0.3926889896392822,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 69,
+      "action": 5,
+      "value_estimate": 0.6323330402374268,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 70,
+      "action": 5,
+      "value_estimate": 0.3926889896392822,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 71,
+      "action": 5,
+      "value_estimate": 0.6160043478012085,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 72,
+      "action": 5,
+      "value_estimate": 0.5109658241271973,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 73,
+      "action": 5,
+      "value_estimate": 0.8551379442214966,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 74,
+      "action": 5,
+      "value_estimate": 0.5140048861503601,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 75,
+      "action": 5,
+      "value_estimate": 0.5200785994529724,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 76,
+      "action": 5,
+      "value_estimate": 0.5087338089942932,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 77,
+      "action": 5,
+      "value_estimate": 0.6216627359390259,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 78,
+      "action": 5,
+      "value_estimate": 0.38697338104248047,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 79,
+      "action": 5,
+      "value_estimate": 0.6216627359390259,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 80,
+      "action": 2,
+      "value_estimate": 0.5279983282089233,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 81,
+      "action": 2,
+      "value_estimate": 0.5279983282089233,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 82,
+      "action": 5,
+      "value_estimate": 0.5087338089942932,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 83,
+      "action": 5,
+      "value_estimate": 0.6216627359390259,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 84,
+      "action": 5,
+      "value_estimate": 0.5087338089942932,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 85,
+      "action": 5,
+      "value_estimate": 0.6335594654083252,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 86,
+      "action": 5,
+      "value_estimate": 0.516094982624054,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 87,
+      "action": 5,
+      "value_estimate": 0.5170150995254517,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 88,
+      "action": 2,
+      "value_estimate": 0.5279983282089233,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 89,
+      "action": 2,
+      "value_estimate": 0.5279983282089233,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "talonflame (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 90,
+      "action": 5,
+      "value_estimate": 0.5087338089942932,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 91,
+      "action": 5,
+      "value_estimate": 0.6318561434745789,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 92,
+      "action": 5,
+      "value_estimate": 0.516094982624054,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 93,
+      "action": 5,
+      "value_estimate": 0.5170150995254517,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 94,
+      "action": 2,
+      "value_estimate": 0.7767678499221802,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 95,
+      "action": 5,
+      "value_estimate": 0.5087338089942932,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 95,
+      "action": 5,
+      "value_estimate": 0.22438721358776093,
+      "active_pokemon": "beartic (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 96,
+      "action": 0,
+      "value_estimate": 0.4978874921798706,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 97,
+      "action": 0,
+      "value_estimate": 0.5082217454910278,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 98,
+      "action": 0,
+      "value_estimate": 0.3723393678665161,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 99,
+      "action": 0,
+      "value_estimate": 0.3723393678665161,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 100,
+      "action": 0,
+      "value_estimate": 0.77735435962677,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 101,
+      "action": 0,
+      "value_estimate": 0.506319522857666,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 102,
+      "action": 0,
+      "value_estimate": 0.3723393678665161,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 103,
+      "action": 0,
+      "value_estimate": 0.77735435962677,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "flapple (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 104,
+      "action": 0,
+      "value_estimate": 0.37957584857940674,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 105,
+      "action": 0,
+      "value_estimate": 0.37957584857940674,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 106,
+      "action": 0,
+      "value_estimate": 0.37957584857940674,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 107,
+      "action": 0,
+      "value_estimate": 0.5117456912994385,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 108,
+      "action": 0,
+      "value_estimate": 0.5117456912994385,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 109,
+      "action": 0,
+      "value_estimate": 0.5117456912994385,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 110,
+      "action": 0,
+      "value_estimate": 0.5117456912994385,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 110,
+      "action": 4,
+      "value_estimate": 0.22235971689224243,
+      "active_pokemon": "serperior (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 111,
+      "action": 2,
+      "value_estimate": 0.5512392520904541,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 112,
+      "action": 2,
+      "value_estimate": 0.555892825126648,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "carbink (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 113,
+      "action": 2,
+      "value_estimate": 0.5557922124862671,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 114,
+      "action": 2,
+      "value_estimate": 0.5557922124862671,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 115,
+      "action": 2,
+      "value_estimate": 0.5557922124862671,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 116,
+      "action": 2,
+      "value_estimate": 0.5557922124862671,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 117,
+      "action": 2,
+      "value_estimate": 0.4907205104827881,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 118,
+      "action": 2,
+      "value_estimate": 0.4907205104827881,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 119,
+      "action": 2,
+      "value_estimate": 0.5557922124862671,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "alcremiemintcream (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 120,
+      "action": 2,
+      "value_estimate": 0.555270791053772,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "rabsca (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 121,
+      "action": 2,
+      "value_estimate": 0.4894888401031494,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 122,
+      "action": 2,
+      "value_estimate": 0.4894888401031494,
+      "active_pokemon": "pikachupartner (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "gogoat (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

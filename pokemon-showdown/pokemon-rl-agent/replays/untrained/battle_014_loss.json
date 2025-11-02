@@ -1,0 +1,409 @@
+{
+  "battle_num": 14,
+  "outcome": "loss",
+  "turns": 52,
+  "timestamp": "2025-11-02T10:42:00.319826",
+  "battle_id": "battle-gen9randombattle-26247",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26247",
+  "decision_log": [
+    {
+      "turn": 1,
+      "action": 3,
+      "value_estimate": 1.3280035257339478,
+      "active_pokemon": "gyarados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 2,
+      "action": 3,
+      "value_estimate": 0.9759947061538696,
+      "active_pokemon": "gyarados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 3,
+      "action": 4,
+      "value_estimate": 0.9180033206939697,
+      "active_pokemon": "gyarados (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 4,
+      "action": 6,
+      "value_estimate": 1.0078041553497314,
+      "active_pokemon": "samurotthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 0.8509180545806885,
+      "active_pokemon": "falinks (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 5,
+      "action": 4,
+      "value_estimate": 0.26931849122047424,
+      "active_pokemon": "gyarados (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 6,
+      "action": 4,
+      "value_estimate": 0.8809176683425903,
+      "active_pokemon": "falinks (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 0.6365412473678589,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 8,
+      "action": 4,
+      "value_estimate": 0.7264425158500671,
+      "active_pokemon": "falinks (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latios (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 9,
+      "action": 4,
+      "value_estimate": 0.5432673692703247,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latios (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 10,
+      "action": 4,
+      "value_estimate": 1.2012393474578857,
+      "active_pokemon": "falinks (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 0.6370348930358887,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 11,
+      "action": 4,
+      "value_estimate": 0.2982388734817505,
+      "active_pokemon": "falinks (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 12,
+      "action": 4,
+      "value_estimate": 0.637729823589325,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 13,
+      "action": 6,
+      "value_estimate": 1.034545660018921,
+      "active_pokemon": "samurotthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 14,
+      "action": 4,
+      "value_estimate": 1.0139179229736328,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latios (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 15,
+      "action": 4,
+      "value_estimate": 0.4623695909976959,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 6,
+      "value_estimate": 0.7741893529891968,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 17,
+      "action": 4,
+      "value_estimate": 0.9037701487541199,
+      "active_pokemon": "samurotthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
+      "action": 4,
+      "value_estimate": 0.4623695909976959,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 6,
+      "value_estimate": 1.034545660018921,
+      "active_pokemon": "samurotthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 4,
+      "value_estimate": 1.1665124893188477,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 4,
+      "value_estimate": 0.5484977960586548,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 4,
+      "value_estimate": 1.1635807752609253,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 4,
+      "value_estimate": 0.5484977960586548,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 1.5928106307983398,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 0.3270774483680725,
+      "active_pokemon": "salazzle (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 4,
+      "value_estimate": 1.5684595108032227,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 4,
+      "value_estimate": 0.7184596061706543,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 4,
+      "value_estimate": 1.1586612462997437,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 4,
+      "value_estimate": 0.5744474530220032,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 4,
+      "value_estimate": 0.9597205519676208,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 4,
+      "value_estimate": 0.6740629076957703,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latios (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 4,
+      "value_estimate": 1.1586612462997437,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 4,
+      "value_estimate": 0.6740629076957703,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latios (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 4,
+      "value_estimate": 1.1586612462997437,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 4,
+      "value_estimate": 0.741194486618042,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ironcrown (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 4,
+      "value_estimate": 1.5684595108032227,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 4,
+      "value_estimate": 0.7184596061706543,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 4,
+      "value_estimate": 1.5684595108032227,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 4,
+      "value_estimate": 0.7184596061706543,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 4,
+      "value_estimate": 0.9597205519676208,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 4,
+      "value_estimate": 0.7184596061706543,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 4,
+      "value_estimate": 1.5684595108032227,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 4,
+      "value_estimate": 0.5744474530220032,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 4,
+      "value_estimate": 0.9597205519676208,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "squawkabillyyellow (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 4,
+      "value_estimate": 0.7184596061706543,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "hydreigon (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 4,
+      "value_estimate": 0.7535809278488159,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": 1.2766896486282349,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 4,
+      "value_estimate": 0.352286159992218,
+      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 4,
+      "value_estimate": 1.3128197193145752,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 4,
+      "value_estimate": 1.0158337354660034,
+      "active_pokemon": "samurotthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 4,
+      "value_estimate": 0.3782731294631958,
+      "active_pokemon": "arceusbug (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 3,
+      "value_estimate": 1.0181312561035156,
+      "active_pokemon": "samurotthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 0,
+      "value_estimate": 0.45004802942276,
+      "active_pokemon": "samurotthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 0,
+      "value_estimate": 0.44579148292541504,
+      "active_pokemon": "samurotthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "heatran (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 0,
+      "value_estimate": 0.22339588403701782,
+      "active_pokemon": "samurotthisui (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "latios (pokemon object) [Active: True, Status: None]"
+    }
+  ]
+}

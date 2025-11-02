@@ -1,164 +1,458 @@
 {
   "battle_num": 14,
   "outcome": "win",
-  "turns": 18,
-  "timestamp": "2025-10-31T15:56:35.134603",
-  "battle_id": "battle-gen9randombattle-26076",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26076",
+  "turns": 60,
+  "timestamp": "2025-11-02T12:49:01.247718",
+  "battle_id": "battle-gen9randombattle-26327",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26327",
   "decision_log": [
     {
       "turn": 1,
-      "action": 1,
-      "value_estimate": -0.27848076820373535,
-      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.12044616043567657,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pelipper (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 1,
-      "value_estimate": -0.27848076820373535,
-      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.12081938982009888,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 1,
-      "value_estimate": -0.13694705069065094,
-      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "chansey (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.2066866010427475,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "polteageist (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": -0.13694705069065094,
-      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 4,
-      "action": 5,
-      "value_estimate": -0.5244015455245972,
-      "active_pokemon": "stonjourner (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.11269077658653259,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kilowattrel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 1,
-      "value_estimate": -0.2112281173467636,
-      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.11870290338993073,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "pelipper (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 0,
-      "value_estimate": -0.40529686212539673,
-      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1575220376253128,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "kilowattrel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": -0.40529686212539673,
-      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.590106189250946,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "polteageist (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 1,
-      "value_estimate": -0.2112281173467636,
-      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "misdreavus (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.13675960898399353,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 0,
-      "value_estimate": -0.40529686212539673,
-      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 9,
-      "action": 5,
-      "value_estimate": -0.5355770587921143,
-      "active_pokemon": "dragonite (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.16640523076057434,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 2,
-      "value_estimate": -0.18257352709770203,
-      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.1085352748632431,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 2,
-      "value_estimate": -0.27766260504722595,
-      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "lucario (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3251959979534149,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "polteageist (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 2,
-      "value_estimate": -0.18257352709770203,
-      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.09332352876663208,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 2,
-      "value_estimate": -0.3844624161720276,
-      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "magcargo (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.09332352876663208,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 2,
-      "value_estimate": -0.21797910332679749,
-      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 14,
-      "action": 5,
-      "value_estimate": -0.5524657964706421,
-      "active_pokemon": "deoxysspeed (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.3251959979534149,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 2,
-      "value_estimate": 0.009432241320610046,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "mienshao (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.15255311131477356,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 0,
-      "value_estimate": -0.39843717217445374,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "magcargo (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.09332352876663208,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
-      "action": 0,
-      "value_estimate": -0.42364054918289185,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 17,
-      "action": 5,
-      "value_estimate": -0.5518359541893005,
-      "active_pokemon": "staraptor (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": -0.09332352876663208,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 18,
-      "action": 2,
-      "value_estimate": 0.06930254399776459,
-      "active_pokemon": "froslass (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "reshiram (pokemon object) [Active: True, Status: None]"
+      "action": 8,
+      "value_estimate": -0.5742565393447876,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 8,
+      "value_estimate": -0.1502300649881363,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 20,
+      "action": 8,
+      "value_estimate": -0.5742565393447876,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 8,
+      "value_estimate": -0.1502300649881363,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 22,
+      "action": 8,
+      "value_estimate": -0.5742565393447876,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 23,
+      "action": 3,
+      "value_estimate": -0.58766108751297,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 24,
+      "action": 3,
+      "value_estimate": -0.58766108751297,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 25,
+      "action": 8,
+      "value_estimate": -0.1359415054321289,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 1,
+      "value_estimate": -0.8016825914382935,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 8,
+      "value_estimate": -0.5742565393447876,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 8,
+      "value_estimate": -0.1502300649881363,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 1,
+      "value_estimate": -0.5196071863174438,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 8,
+      "value_estimate": -0.458282470703125,
+      "active_pokemon": "magearna (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 30,
+      "action": 3,
+      "value_estimate": -0.5682507753372192,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: SLP]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 3,
+      "value_estimate": -0.11204546689987183,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 3,
+      "value_estimate": -0.11204546689987183,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 32,
+      "action": 6,
+      "value_estimate": -0.46331992745399475,
+      "active_pokemon": "whiscash (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 33,
+      "action": 6,
+      "value_estimate": -0.3509761691093445,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 34,
+      "action": 3,
+      "value_estimate": -0.2853298485279083,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 3,
+      "value_estimate": -0.2853298485279083,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 36,
+      "action": 3,
+      "value_estimate": -0.403717041015625,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 3,
+      "value_estimate": -0.37687045335769653,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 3,
+      "value_estimate": -0.37687045335769653,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 3,
+      "value_estimate": -0.2853298485279083,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 40,
+      "action": 3,
+      "value_estimate": -0.37687045335769653,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 41,
+      "action": 3,
+      "value_estimate": -0.403717041015625,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 42,
+      "action": 6,
+      "value_estimate": -0.6216865181922913,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 43,
+      "action": 6,
+      "value_estimate": -0.38259732723236084,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 44,
+      "action": 6,
+      "value_estimate": -0.6216865181922913,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 45,
+      "action": 6,
+      "value_estimate": -0.44686758518218994,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 46,
+      "action": 1,
+      "value_estimate": -0.5710107088088989,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 47,
+      "action": 6,
+      "value_estimate": -0.6216865181922913,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 48,
+      "action": 6,
+      "value_estimate": -0.44686758518218994,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 49,
+      "action": 6,
+      "value_estimate": -0.6216865181922913,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 50,
+      "action": 6,
+      "value_estimate": -0.3509761691093445,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 51,
+      "action": 1,
+      "value_estimate": -0.5890466570854187,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 52,
+      "action": 1,
+      "value_estimate": -0.5710107088088989,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 1,
+      "value_estimate": -0.5710107088088989,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: BRN]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 53,
+      "action": 6,
+      "value_estimate": -0.4685036540031433,
+      "active_pokemon": "appletun (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "victreebel (pokemon object) [Active: True, Status: FNT]"
+    },
+    {
+      "turn": 54,
+      "action": 3,
+      "value_estimate": -0.33372196555137634,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 55,
+      "action": 3,
+      "value_estimate": -0.4283539652824402,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "volcanion (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 56,
+      "action": 3,
+      "value_estimate": -0.33372196555137634,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 57,
+      "action": 3,
+      "value_estimate": -0.33372196555137634,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 58,
+      "action": 3,
+      "value_estimate": -0.33372196555137634,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 3,
+      "value_estimate": -0.3201913833618164,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 59,
+      "action": 5,
+      "value_estimate": -0.49254292249679565,
+      "active_pokemon": "regidrago (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 60,
+      "action": 3,
+      "value_estimate": -0.5974403619766235,
+      "active_pokemon": "coalossal (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sinistchamasterpiece (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

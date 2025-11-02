@@ -1,171 +1,213 @@
 {
   "battle_num": 17,
   "outcome": "win",
-  "turns": 19,
-  "timestamp": "2025-10-31T15:56:34.290576",
-  "battle_id": "battle-gen9randombattle-26059",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26059",
+  "turns": 25,
+  "timestamp": "2025-11-02T12:49:00.000139",
+  "battle_id": "battle-gen9randombattle-26310",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26310",
   "decision_log": [
     {
       "turn": 1,
-      "action": 1,
-      "value_estimate": 20.462297439575195,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculin (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.73194122314453,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 1,
-      "value_estimate": 20.315345764160156,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.106645584106445,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spectrier (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 1,
-      "value_estimate": 20.67560386657715,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "meowscarada (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.206737518310547,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spectrier (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 1,
-      "value_estimate": 20.29222297668457,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "vikavolt (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 20.66950035095215,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "smeargle (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 1,
-      "value_estimate": 20.839092254638672,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "meowscarada (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.66098976135254,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
-      "action": 1,
-      "value_estimate": 20.562040328979492,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "meowscarada (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 6,
-      "action": 4,
-      "value_estimate": 20.712614059448242,
-      "active_pokemon": "spiritomb (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "meowscarada (pokemon object) [Active: True, Status: None]"
+      "action": 3,
+      "value_estimate": 21.66098976135254,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "appletun (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 0,
-      "value_estimate": 21.488683700561523,
-      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "meowscarada (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.980098724365234,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 7,
+      "action": 4,
+      "value_estimate": 20.712614059448242,
+      "active_pokemon": "toucannon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
-      "action": 0,
-      "value_estimate": 21.73814582824707,
-      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 21.945192337036133,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "slowbro (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
       "action": 0,
-      "value_estimate": 20.685264587402344,
-      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "keldeoresolute (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.35523223876953,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
       "action": 0,
-      "value_estimate": 20.685264587402344,
-      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "keldeoresolute (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 10,
-      "action": 4,
-      "value_estimate": 20.869796752929688,
-      "active_pokemon": "chiyu (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "keldeoresolute (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.35523223876953,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 2,
-      "value_estimate": 22.38485336303711,
-      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "keldeoresolute (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.35523223876953,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 12,
-      "action": 3,
-      "value_estimate": 23.905729293823242,
-      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "glastrier (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.239961624145508,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
       "action": 0,
-      "value_estimate": 22.689054489135742,
-      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "basculin (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.239961624145508,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 14,
-      "action": 3,
-      "value_estimate": 22.675682067871094,
-      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.239961624145508,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "solgaleo (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 15,
-      "action": 3,
-      "value_estimate": 22.93512725830078,
-      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 21.044034957885742,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 15,
       "action": 4,
-      "value_estimate": 22.58433723449707,
-      "active_pokemon": "armarouge (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "kyogre (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 16,
-      "action": 1,
-      "value_estimate": 22.992822647094727,
-      "active_pokemon": "torterra (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.507434844970703,
+      "active_pokemon": "smeargle (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 17,
-      "action": 1,
-      "value_estimate": 22.992822647094727,
-      "active_pokemon": "torterra (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 20.507434844970703,
+      "active_pokemon": "smeargle (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
     },
     {
-      "turn": 18,
-      "action": 1,
-      "value_estimate": 22.992822647094727,
-      "active_pokemon": "torterra (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
+      "turn": 17,
       "action": 4,
-      "value_estimate": 21.436948776245117,
-      "active_pokemon": "torterra (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.509492874145508,
+      "active_pokemon": "smeargle (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 18,
+      "action": 1,
+      "value_estimate": 21.50148582458496,
+      "active_pokemon": "scyther (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
     },
     {
       "turn": 19,
-      "action": 3,
-      "value_estimate": 22.38157844543457,
-      "active_pokemon": "venomoth (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "snorlax (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 21.50148582458496,
+      "active_pokemon": "scyther (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 20,
+      "action": 1,
+      "value_estimate": 21.50148582458496,
+      "active_pokemon": "scyther (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 21,
+      "action": 1,
+      "value_estimate": 21.50148582458496,
+      "active_pokemon": "scyther (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 22,
+      "action": 2,
+      "value_estimate": 22.304737091064453,
+      "active_pokemon": "scyther (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 23,
+      "action": 2,
+      "value_estimate": 22.304737091064453,
+      "active_pokemon": "scyther (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 24,
+      "action": 2,
+      "value_estimate": 22.304737091064453,
+      "active_pokemon": "scyther (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 24,
+      "action": 4,
+      "value_estimate": 21.436948776245117,
+      "active_pokemon": "scyther (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
+    },
+    {
+      "turn": 25,
+      "action": 0,
+      "value_estimate": 23.296974182128906,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "dragalge (pokemon object) [Active: True, Status: PAR]"
     }
   ]
 }

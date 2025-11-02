@@ -1,290 +1,346 @@
 {
   "battle_num": 20,
   "outcome": "win",
-  "turns": 36,
-  "timestamp": "2025-10-31T15:56:36.136243",
-  "battle_id": "battle-gen9randombattle-26082",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26082",
+  "turns": 39,
+  "timestamp": "2025-11-02T12:38:38.372593",
+  "battle_id": "battle-gen9randombattle-26293",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26293",
   "decision_log": [
     {
       "turn": 1,
-      "action": 2,
-      "value_estimate": -0.10017360746860504,
-      "active_pokemon": "forretress (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tyranitar (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.6062779426574707,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
       "action": 2,
-      "value_estimate": -0.10017360746860504,
-      "active_pokemon": "forretress (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tyranitar (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6535200476646423,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
       "action": 2,
-      "value_estimate": -0.18616151809692383,
-      "active_pokemon": "forretress (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tyranitar (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6535200476646423,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
       "action": 2,
-      "value_estimate": -0.10406418144702911,
-      "active_pokemon": "forretress (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 4,
-      "action": 5,
-      "value_estimate": -0.5189332962036133,
-      "active_pokemon": "forretress (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5382812023162842,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "sneasler (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
       "action": 2,
-      "value_estimate": -0.013856068253517151,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.9577549695968628,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lunala (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
       "action": 2,
-      "value_estimate": -0.013856068253517151,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.9577549695968628,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lunala (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
-      "action": 1,
-      "value_estimate": 0.05909505486488342,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 1.0063011646270752,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "chienpao (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
       "action": 2,
-      "value_estimate": 0.08474567532539368,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6523979902267456,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
       "action": 2,
-      "value_estimate": 0.01990865170955658,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "komala (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6523979902267456,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 2,
-      "value_estimate": 0.0414411723613739,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.9129917621612549,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 5,
-      "value_estimate": -0.01771698147058487,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "hariyama (pokemon object) [Active: True, Status: BRN]"
+      "action": 2,
+      "value_estimate": 0.609521746635437,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
       "action": 2,
-      "value_estimate": -0.27837374806404114,
+      "value_estimate": 0.609521746635437,
       "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hariyama (pokemon object) [Active: True, Status: BRN]"
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
       "action": 2,
-      "value_estimate": -0.27837374806404114,
+      "value_estimate": 0.609521746635437,
       "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "hariyama (pokemon object) [Active: True, Status: BRN]"
-    },
-    {
-      "turn": 13,
-      "action": 5,
-      "value_estimate": -0.5455848574638367,
-      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "hariyama (pokemon object) [Active: True, Status: FNT]"
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
       "action": 2,
-      "value_estimate": 0.05122870206832886,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.609521746635437,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
       "action": 2,
-      "value_estimate": -0.07712817192077637,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.609521746635437,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 16,
       "action": 2,
-      "value_estimate": -0.07712817192077637,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.609521746635437,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 17,
       "action": 2,
-      "value_estimate": 0.05122870206832886,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.609521746635437,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 18,
-      "action": 2,
-      "value_estimate": 0.09592508524656296,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.5648105144500732,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 2,
-      "value_estimate": 0.09592508524656296,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.870415449142456,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: SLP]"
     },
     {
       "turn": 20,
       "action": 2,
-      "value_estimate": 0.09592508524656296,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.601211428642273,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
-      "action": 2,
-      "value_estimate": 0.05122870206832886,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 0.5011762976646423,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 21,
+      "action": 6,
+      "value_estimate": 0.330316424369812,
+      "active_pokemon": "skuntank (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
       "action": 2,
-      "value_estimate": -0.07712817192077637,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: BRN]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6443912982940674,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 22,
-      "action": 5,
-      "value_estimate": -0.5567560791969299,
-      "active_pokemon": "hypno (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "action": 6,
+      "value_estimate": 0.330316424369812,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 23,
       "action": 2,
-      "value_estimate": -0.23091134428977966,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5815156698226929,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 24,
-      "action": 1,
-      "value_estimate": -0.08512262254953384,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "komala (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 0.5310221910476685,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 25,
       "action": 2,
-      "value_estimate": -0.23091134428977966,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5310221910476685,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 26,
       "action": 2,
-      "value_estimate": -0.22679655253887177,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5310221910476685,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 26,
+      "action": 6,
+      "value_estimate": 0.31162622570991516,
+      "active_pokemon": "floatzel (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 27,
       "action": 2,
-      "value_estimate": -0.22679655253887177,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "munkidori (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6052083969116211,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 27,
+      "action": 6,
+      "value_estimate": 0.31162622570991516,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 28,
-      "action": 2,
-      "value_estimate": -0.19520771503448486,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.43553027510643005,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 28,
+      "action": 6,
+      "value_estimate": 0.295532763004303,
+      "active_pokemon": "magmortar (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 29,
       "action": 2,
-      "value_estimate": -0.14162367582321167,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "whiscash (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6017272472381592,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 29,
+      "action": 5,
+      "value_estimate": 0.295532763004303,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 30,
-      "action": 2,
-      "value_estimate": -0.1820518970489502,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.41241756081581116,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 31,
       "action": 2,
-      "value_estimate": -0.1820518970489502,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.6017272472381592,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 31,
+      "action": 5,
+      "value_estimate": 0.295532763004303,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 32,
-      "action": 2,
-      "value_estimate": -0.1820518970489502,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.41241756081581116,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "lycanrocmidnight (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 33,
       "action": 2,
-      "value_estimate": -0.1331104040145874,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5800087451934814,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 34,
       "action": 2,
-      "value_estimate": -0.1331104040145874,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.5800087451934814,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 34,
       "action": 5,
-      "value_estimate": -0.557806134223938,
-      "active_pokemon": "magearnaoriginal (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 0.295532763004303,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 35,
-      "action": 1,
-      "value_estimate": -0.12230484187602997,
-      "active_pokemon": "spidops (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "action": 5,
+      "value_estimate": 0.47912609577178955,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 35,
+      "action": 5,
+      "value_estimate": 0.2757754325866699,
+      "active_pokemon": "inteleon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 36,
-      "action": 1,
-      "value_estimate": -0.10814310610294342,
-      "active_pokemon": "spidops (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "delphox (pokemon object) [Active: True, Status: None]"
+      "action": 0,
+      "value_estimate": 0.4694436192512512,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "ambipom (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 37,
+      "action": 0,
+      "value_estimate": 0.4703579545021057,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 38,
+      "action": 0,
+      "value_estimate": 0.4825904369354248,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 39,
+      "action": 0,
+      "value_estimate": 0.4825904369354248,
+      "active_pokemon": "overqwil (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "moltresgalar (pokemon object) [Active: True, Status: SLP]"
     }
   ]
 }

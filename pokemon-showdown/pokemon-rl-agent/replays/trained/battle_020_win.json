@@ -1,185 +1,171 @@
 {
   "battle_num": 20,
   "outcome": "win",
-  "turns": 22,
-  "timestamp": "2025-10-31T15:56:34.461539",
-  "battle_id": "battle-gen9randombattle-26062",
-  "replay_url": "http://localhost:8000/battle-gen9randombattle-26062",
+  "turns": 21,
+  "timestamp": "2025-11-02T12:49:00.101962",
+  "battle_id": "battle-gen9randombattle-26313",
+  "replay_url": "http://localhost:8000/battle-gen9randombattle-26313",
   "decision_log": [
     {
       "turn": 1,
-      "action": 3,
-      "value_estimate": 22.47743797302246,
-      "active_pokemon": "crawdaunt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.7763729095459,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 2,
-      "action": 0,
-      "value_estimate": 20.82073402404785,
-      "active_pokemon": "crawdaunt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "regieleki (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.21489906311035,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "arceuselectric (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 3,
-      "action": 0,
-      "value_estimate": 20.82073402404785,
-      "active_pokemon": "crawdaunt (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 3,
-      "action": 4,
-      "value_estimate": 20.712614059448242,
-      "active_pokemon": "crawdaunt (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.46610450744629,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 4,
-      "action": 3,
-      "value_estimate": 19.7648983001709,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 18.910329818725586,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 5,
-      "action": 3,
-      "value_estimate": 19.7648983001709,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.574983596801758,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 6,
       "action": 1,
-      "value_estimate": 19.770700454711914,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "galvantula (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 19.574983596801758,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 7,
       "action": 1,
-      "value_estimate": 19.770700454711914,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "galvantula (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 19.638343811035156,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "garganacl (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 8,
       "action": 1,
-      "value_estimate": 19.827417373657227,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "cyclizar (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 20.793607711791992,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "spiritomb (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 9,
-      "action": 3,
-      "value_estimate": 20.29058265686035,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
+      "action": 1,
+      "value_estimate": 19.21489906311035,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "scyther (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 10,
-      "action": 3,
-      "value_estimate": 20.29058265686035,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.38148307800293,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 11,
-      "action": 1,
-      "value_estimate": 19.770700454711914,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "cyclizar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.38148307800293,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 12,
-      "action": 3,
-      "value_estimate": 19.77357292175293,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 12,
-      "action": 4,
-      "value_estimate": 20.869796752929688,
-      "active_pokemon": "ogerpon (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.38148307800293,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 13,
-      "action": 3,
-      "value_estimate": 21.558008193969727,
-      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "breloom (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.38148307800293,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 14,
-      "action": 3,
-      "value_estimate": 22.54072380065918,
-      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "cyclizar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.38148307800293,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 15,
-      "action": 3,
-      "value_estimate": 22.54072380065918,
-      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "cyclizar (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.38148307800293,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 16,
-      "action": 1,
-      "value_estimate": 22.4010066986084,
-      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
+      "action": 2,
+      "value_estimate": 19.38148307800293,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: None]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 16,
+      "action": 4,
+      "value_estimate": 21.130598068237305,
+      "active_pokemon": "sylveon (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 17,
+      "action": 2,
+      "value_estimate": 20.768383026123047,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 18,
       "action": 1,
-      "value_estimate": 22.4010066986084,
-      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
-    },
-    {
-      "turn": 18,
-      "action": 3,
-      "value_estimate": 21.558008193969727,
-      "active_pokemon": "appletun (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zangoose (pokemon object) [Active: True, Status: TOX]"
-    },
-    {
-      "turn": 18,
-      "action": 4,
-      "value_estimate": 20.375444412231445,
-      "active_pokemon": "appletun (pokemon object) [Active: True, Status: FNT]",
-      "opponent_active": "zangoose (pokemon object) [Active: True, Status: TOX]"
+      "value_estimate": 21.210927963256836,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 19,
-      "action": 0,
-      "value_estimate": 20.765268325805664,
-      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zangoose (pokemon object) [Active: True, Status: TOX]"
+      "action": 1,
+      "value_estimate": 21.210927963256836,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
+    },
+    {
+      "turn": 19,
+      "action": 4,
+      "value_estimate": 21.495088577270508,
+      "active_pokemon": "clefable (pokemon object) [Active: True, Status: FNT]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 20,
       "action": 0,
-      "value_estimate": 20.765268325805664,
-      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zangoose (pokemon object) [Active: True, Status: TOX]"
+      "value_estimate": 22.16483497619629,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "kyogre (pokemon object) [Active: True, Status: None]"
     },
     {
       "turn": 21,
       "action": 0,
-      "value_estimate": 22.07706069946289,
-      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "zangoose (pokemon object) [Active: True, Status: TOX]"
-    },
-    {
-      "turn": 22,
-      "action": 0,
-      "value_estimate": 23.62825584411621,
-      "active_pokemon": "lanturn (pokemon object) [Active: True, Status: None]",
-      "opponent_active": "tinglu (pokemon object) [Active: True, Status: None]"
+      "value_estimate": 21.780733108520508,
+      "active_pokemon": "morpeko (pokemon object) [Active: True, Status: PSN]",
+      "opponent_active": "qwilfishhisui (pokemon object) [Active: True, Status: None]"
     }
   ]
 }

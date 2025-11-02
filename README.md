@@ -1,5 +1,3 @@
-# RL-project-pokemon-showdown
-
 # Pokemon Showdown Reinforcement Learning Agent: Complete Project Documentation
 
 ## Table of Contents
